@@ -72,7 +72,7 @@ Note: `tinyml_only.py` is a temporary or deprecated script and is not used in th
 
 This repository supports the upcoming MERCon 2025 workshop proposal:
 
-"TinyML in Action: From Theory to Deployment"
+"TinyML: A Compact Revolution in Engineering AI"
 
 The goal is to identify local and global trends in TinyML research, especially:
 - How efficiency-centered ML is evolving in IEEE conferences
