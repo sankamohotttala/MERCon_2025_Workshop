@@ -25,15 +25,9 @@ MERCon_workshop_proposal/
 │   └── PERCOM/
 │       └── *.csv (2020–2024)
 │
-├── TinyML/                         # Detailed keyword metadata for filtering TinyML-related papers
-│   ├── computational_efficient_ml_keywords.csv
-│   ├── data_efficient_ml_keywords.csv
-│   ├── energy_efficient_ml_keywords.csv
-│   ├── parameter_efficient_ml_keywords.csv
-│   ├── tinyml_keywords.csv
-│   ├── tinyml_keywords_plus.csv
-│   ├── tinyml_keywords_plus_57.csv
-│   └── tinyml_keywords_test.csv
+├── TinyML/                         # Keyword metadata
+│   ├── ml_keywords.csv             # Machine Learning keywords
+│   └── nn_keywords.csv             # Neural Network keywords
 │
 ├── MERCOn.png                      # Bar plot showing TinyML-related paper distribution
 ├── tmp/                            # Temporary workspace
@@ -78,7 +72,7 @@ Note: `tinyml_only.py` is a temporary or deprecated script and is not used in th
 
 This repository supports the upcoming MERCon 2025 workshop proposal:
 
-"TinyML: A Compact Revolution in Engineering AI"
+"TinyML in Action: From Theory to Deployment"
 
 The goal is to identify local and global trends in TinyML research, especially:
 - How efficiency-centered ML is evolving in IEEE conferences
