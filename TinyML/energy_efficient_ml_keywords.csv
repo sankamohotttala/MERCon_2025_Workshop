@@ -1,0 +1,43 @@
+Category,Keyword_,Keyword
+Core Concepts,Energy-efficient ML,energy-efficient ml
+Core Concepts,Green AI,green ai
+Core Concepts,Sustainable AI,sustainable ai
+Core Concepts,Low-power AI,low-power ai
+Core Concepts,Energy-aware computing,energy-aware computing
+Core Concepts,Eco-friendly ML,eco-friendly ml
+Model Design Strategies,Model sparsity,model sparsity
+Model Design Strategies,Low-rank models,low-rank models
+Model Design Strategies,Binary neural networks,binary neural networks
+Model Design Strategies,Tiny architectures,tiny architectures
+Model Design Strategies,Adaptive computation,adaptive computation
+Model Design Strategies,Dynamic inference,dynamic inference
+Model Design Strategies,Computation-aware learning,computation-aware learning
+Model Design Strategies,Resource-adaptive models,resource-adaptive models
+Hardware & System-Level Approaches,Edge computing,edge computing
+Hardware & System-Level Approaches,Neuromorphic computing,neuromorphic computing
+Hardware & System-Level Approaches,Analog AI,analog ai
+Hardware & System-Level Approaches,ASIC for ML,asic for ml
+Hardware & System-Level Approaches,FPGA-based ML,fpga-based ml
+Hardware & System-Level Approaches,Hardware-aware training,hardware-aware training
+Hardware & System-Level Approaches,In-memory computing,in-memory computing
+Hardware & System-Level Approaches,On-chip learning,on-chip learning
+Hardware & System-Level Approaches,Voltage scaling,voltage scaling
+Hardware & System-Level Approaches,Event-driven processing,event-driven processing
+Optimization Techniques,Pruning,pruning
+Optimization Techniques,Quantization,quantization
+Optimization Techniques,Knowledge distillation,knowledge distillation
+Optimization Techniques,Mixed-precision training,mixed-precision training
+Optimization Techniques,Neural architecture search,neural architecture search
+Optimization Techniques,Gradient checkpointing,gradient checkpointing
+Optimization Techniques,Duty cycling,duty cycling
+Optimization Techniques,Loss-aware optimization,loss-aware optimization
+Evaluation Metrics & Tools,Energy-accuracy trade-off,energy-accuracy trade-off
+Evaluation Metrics & Tools,Energy-delay product,energy-delay product
+Evaluation Metrics & Tools,FLOPs,flops
+Evaluation Metrics & Tools,MAC operations,mac operations
+Evaluation Metrics & Tools,Memory footprint,memory footprint
+Evaluation Metrics & Tools,Carbon footprint,carbon footprint
+Evaluation Metrics & Tools,Power profiling,power profiling
+Evaluation Metrics & Tools,Inference latency,inference latency
+Evaluation Metrics & Tools,spiking neural networks,spiking neural networks
+Neuromorphic computing,Neuromorphic,neuromorphic

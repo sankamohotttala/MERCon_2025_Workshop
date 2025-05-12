@@ -1,0 +1,64 @@
+Category,Keyword_,Keyword
+Core Concepts,TinyML,tinyml
+Core Concepts,Embedded Machine Learning,embedded machine learning
+Core Concepts,On-device AI,on-device ai
+Core Concepts,Edge AI,edge ai
+Core Concepts,Resource-constrained ML,resource-constrained ml
+Core Concepts,Low-power ML,low-power ml
+Core Concepts,Microcontroller-based ML,microcontroller-based ml
+Core Concepts,Real-time ML,real-time ml
+Core Concepts,Model compression,model compression
+Core Concepts,Model optimization,model optimization
+Model Efficiency Techniques,Quantization,quantization
+Model Efficiency Techniques,Pruning,pruning
+Model Efficiency Techniques,Knowledge Distillation,knowledge distillation
+Model Efficiency Techniques,Weight Sharing,weight sharing
+Model Efficiency Techniques,Neural Architecture Search,neural architecture search
+Model Efficiency Techniques,Parameter-efficient models,parameter-efficient models
+Model Efficiency Techniques,Memory-efficient models,memory-efficient models
+Model Efficiency Techniques,Energy-efficient inference,energy-efficient inference
+Model Efficiency Techniques,Latency optimization,latency optimization
+Model Efficiency Techniques,Binary Neural Networks,binary neural networks
+Hardware & Platforms,Microcontrollers ,microcontrollers 
+Hardware & Platforms,Arm Cortex-M,arm cortex-m
+Hardware & Platforms,Arduino,arduino
+Hardware & Platforms,Raspberry Pi,raspberry pi
+Hardware & Platforms,ESP32,esp32
+Hardware & Platforms,STM32,stm32
+Hardware & Platforms,TensorFlow Lite for Microcontrollers,tensorflow lite for microcontrollers
+Hardware & Platforms,CMSIS-NN,cmsis-nn
+Hardware & Platforms,EdgeTPU,edgetpu
+Hardware & Platforms,AIoT ,aiot 
+Deployment & Applications,Keyword spotting,keyword spotting
+Deployment & Applications,Wake word detection,wake word detection
+Deployment & Applications,Gesture recognition,gesture recognition
+Deployment & Applications,Fall detection,fall detection
+Deployment & Applications,Anomaly detection,anomaly detection
+Deployment & Applications,Predictive maintenance,predictive maintenance
+Deployment & Applications,Smart agriculture,smart agriculture
+Deployment & Applications,Plant disease detection,plant disease detection
+Deployment & Applications,Industrial IoT,industrial iot
+Deployment & Applications,Environmental monitoring,environmental monitoring
+Deployment & Applications,Biomedical signal analysis ,biomedical signal analysis 
+Deployment & Applications,Smart meters,smart meters
+Frameworks & Toolkits,TensorFlow Lite,tensorflow lite
+Frameworks & Toolkits,TensorFlow Lite Micro,tensorflow lite micro
+Frameworks & Toolkits,PyTorch Mobile,pytorch mobile
+Frameworks & Toolkits,Edge Impulse,edge impulse
+Frameworks & Toolkits,TVM,tvm
+Frameworks & Toolkits,Neuton TinyML,neuton tinyml
+Frameworks & Toolkits,Multi-Level IR for ML,multi-level ir for ml
+Frameworks & Toolkits,Glow ,glow 
+Evaluation Metrics,Model footprint,model footprint
+Evaluation Metrics,Inference time,inference time
+Evaluation Metrics,Energy consumption,energy consumption
+Evaluation Metrics,Memory usage,memory usage
+Evaluation Metrics,Accuracy-efficiency trade-off,accuracy-efficiency trade-off
+Evaluation Metrics,Real-time performance,real-time performance
+Evaluation Metrics,Duty cycling,duty cycling
+added,MLIR ,mlir 
+added,Graph Lowering Compiler,graph lowering compiler
+added,BNN,bnn
+added,MCU,mcu
+added,NAS,nas
+added,Artificial Intelligence of Things,artificial intelligence of things

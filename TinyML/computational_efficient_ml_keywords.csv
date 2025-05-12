@@ -1,0 +1,42 @@
+Category,Keyword_,Keyword
+Core Concepts,Computationally efficient ML,computationally efficient ml
+Core Concepts,Efficient inference,efficient inference
+Core Concepts,Low-latency inference,low-latency inference
+Core Concepts,Real-time,real-time
+Core Concepts,Real-time ML,real-time ml
+Core Concepts,Inference-time optimization,inference-time optimization
+Core Concepts,Runtime-efficient models,runtime-efficient models
+Model Optimization Techniques,Model pruning,model pruning
+Model Optimization Techniques,Quantization,quantization
+Model Optimization Techniques,Knowledge distillation,knowledge distillation
+Model Optimization Techniques,Operator fusion,operator fusion
+Model Optimization Techniques,Graph optimization,graph optimization
+Model Optimization Techniques,Weight clustering,weight clustering
+Model Optimization Techniques,Low-rank approximation,low-rank approximation
+Model Optimization Techniques,Dynamic computation graphs,dynamic computation graphs
+Model Optimization Techniques,Function approximation,function approximation
+Hardware-aware Strategies,Hardware-aware neural networks,hardware-aware neural networks
+Hardware-aware Strategies,Memory access optimization,memory access optimization
+Hardware-aware Strategies,Edge inference,edge inference
+Hardware-aware Strategies,Parallel execution,parallel execution
+Hardware-aware Strategies,Asynchronous inference,asynchronous inference
+Hardware-aware Strategies,Device-specific compilation,device-specific compilation
+Hardware-aware Strategies,Cache-aware execution,cache-aware execution
+Architectures & Algorithms,MobileNet,mobilenet
+Architectures & Algorithms,EfficientNet,efficientnet
+Architectures & Algorithms,SqueezeNet,squeezenet
+Architectures & Algorithms,ShuffleNet,shufflenet
+Architectures & Algorithms,DistilBERT,distilbert
+Architectures & Algorithms,NAS (Neural Architecture Search),nas (neural architecture search)
+Architectures & Algorithms,SpinalNet,spinalnet
+Architectures & Algorithms,CondenseNet,condensenet
+Architectures & Algorithms,Binary neural networks,binary neural networks
+Architectures & Algorithms,Tiny transformers,tiny transformers
+Evaluation Metrics,Inference latency,inference latency
+Evaluation Metrics,Throughput,throughput
+Evaluation Metrics,FLOPs,flops
+Evaluation Metrics,MACs,macs
+Evaluation Metrics,Latency-accuracy tradeoff,latency-accuracy tradeoff
+Evaluation Metrics,Model size,model size
+Evaluation Metrics,Execution time,execution time
+Evaluation Metrics,Computational complexity,computational complexity

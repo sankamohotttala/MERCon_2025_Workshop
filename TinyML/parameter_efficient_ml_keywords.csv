@@ -1,0 +1,37 @@
+Category,Keyword_,Keyword
+Core Concepts,Parameter-efficient,parameter-efficient
+Core Concepts,Parameter-efficient learning,parameter-efficient learning
+Core Concepts,Compact neural networks,compact neural networks
+Core Concepts,Lightweight models,lightweight models
+Core Concepts,Efficient deep learning,efficient deep learning
+Core Concepts,Sparse neural networks,sparse neural networks
+Core Concepts,Low-rank approximation,low-rank approximation
+Core Concepts,Model size reduction,model size reduction
+Compression Techniques,Pruning,pruning
+Compression Techniques,Quantization,quantization
+Compression Techniques,Knowledge distillation,knowledge distillation
+Compression Techniques,Weight sharing,weight sharing
+Compression Techniques,Tensor decomposition,tensor decomposition
+Compression Techniques,Dynamic sparsity,dynamic sparsity
+Compression Techniques,Structured sparsity,structured sparsity
+Compression Techniques,Low-bit precision training,low-bit precision training
+Efficient Architectures,MobileNet,mobilenet
+Efficient Architectures,EfficientNet,efficientnet
+Efficient Architectures,SqueezeNet,squeezenet
+Efficient Architectures,ShuffleNet,shufflenet
+Efficient Architectures,TinyBERT,tinybert
+Efficient Architectures,DistilBERT,distilbert
+Efficient Architectures,ALBERT,albert
+Efficient Architectures,SpinalNet,spinalnet
+Efficient Architectures,CondenseNet,condensenet
+Efficient Architectures,NAS ,nas 
+Training & Optimization Strategies,Early exiting,early exiting
+Training & Optimization Strategies,Layer dropout,layer dropout
+Training & Optimization Strategies,Adaptive computation,adaptive computation
+Training & Optimization Strategies,Gradient checkpointing,gradient checkpointing
+Training & Optimization Strategies,Progressive training,progressive training
+Training & Optimization Strategies,Mixed precision training,mixed precision training
+Training & Optimization Strategies,Low-shot learning,low-shot learning
+Training & Optimization Strategies,Curriculum learning,curriculum learning
+Training & Optimization Strategies,Dynamic neural networks,dynamic neural networks
+Application Areas,Neural Architecture Search,neural architecture search

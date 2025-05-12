@@ -1,0 +1,1106 @@
+DOI,Title,Matched Columns,Matched keywards
+10.1109/AICAS48895.2020.9073976,Improving the Robustness of Threshold-Based Single Hidden Layer Neural Networks via Regularization,Abstract,resource-constrained
+10.1109/AICAS48895.2020.9073978,Accelerating Deep Neural Networks with Analog Memory Devices,Abstract,low-power 
+10.1109/AICAS48895.2020.9073848,XNORAM: An Efficient Computing-in-Memory Architecture for Binary Convolutional Neural Networks with Flexible Dataflow Mapping,Abstract,energy-efficient
+10.1109/AICAS48895.2020.9073888,Temporal Variability Analysis in sEMG Hand Grasp Recognition using Temporal Convolutional Networks,"Abstract, Abstract, Abstract","resource-constrained, quantization, pruning"
+10.1109/AICAS48895.2020.9073989,Memory Efficient Training using Lookup-Table-based Quantization for Neural Network,"Document Title, Abstract, Abstract, IEEE Terms","quantization, quantization, memory usage, quantization"
+10.1109/AICAS48895.2020.9073950,Convolutional-Recurrent Neural Networks on Low-Power Wearable Platforms for Cardiac Arrhythmia Detection,"Document Title, Abstract, Abstract, Abstract, IEEE Terms","low-power , low-power , microcontrollers , cmsis-nn, quantization"
+10.1109/AICAS48895.2020.9073832,Exploiting Variable Precision Computation Array for Scalable Neural Network Accelerators,"Author Keywords, IEEE Terms","quantization, quantization"
+10.1109/AICAS48895.2020.9073945,Low-power ECG acquisition by Compressed Sensing with Deep Neural Oracles,Document Title,low-power 
+10.1109/AICAS48895.2020.9074004,Zero Block Caching for CNN Applications Running on a Vision DSP,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/AICAS48895.2020.9073856,An error-propagation spiking neural network compatible with neuromorphic processors,Abstract,low-power 
+10.1109/AICAS48895.2020.9073913,Low-Power HWAccelerator for AI Edge-Computing in Human Activity Recognition Systems,"Document Title, Author Affiliations","low-power , microcontrollers "
+10.1109/AICAS48895.2020.9073810,Neuromorphic Implementation of a Recurrent Neural Network for EMG Classification,Abstract,low-power 
+10.1109/AICAS48895.2020.9073827,SpArNet: Sparse Asynchronous Neural Network execution for energy efficient inference,"Abstract, Abstract, IEEE Terms","quantization, energy consumption, quantization"
+10.1109/AICAS48895.2020.9073942,Deep Neural Network Mapping and Performance Analysis on Tiled RRAM Architecture,IEEE Terms,quantization
+10.1109/AICAS48895.2020.9073979,EAST: Encoding-Aware Sparse Training for Deep Memory Compression of ConvNets,"Abstract, Abstract, Abstract, IEEE Terms","low-power , quantization, pruning, quantization"
+10.1109/AICAS48895.2020.9073885,Efficient Embedded Deep Neural-Network-based Object Detection Via Joint Quantization and Tiling,"Document Title, Abstract, Abstract, IEEE Terms","quantization, resource-constrained, quantization, quantization"
+10.1109/AICAS48895.2020.9073944,Energy-Efficient Accelerator Design with 3D-SRAM and Hierarchical Interconnection Architecture for Compact Sparse CNNs,"Document Title, Abstract, Abstract","energy-efficient, energy-efficient, energy consumption"
+10.1109/AICAS48895.2020.9073992,An Architectural Study for Inference Coprocessor Core at the Edge in IoT Sensing,Abstract,low-power 
+10.1109/AICAS48895.2020.9073963,A Real-Time Retinomorphic Simulator Using a Conductance-Based Discrete Neuronal Network,Abstract,real-time performance
+10.1109/AICAS48895.2020.9073920,Neuro-PULP: A Paradigm Shift Towards Fully Programmable Platforms for Neural Interfaces,"Abstract, Abstract","low-power , mcu"
+10.1109/AICAS48895.2020.9073877,Low Power In-Memory Implementation of Ternary Neural Networks with Resistive RAM-Based Synapse,Abstract,energy consumption
+10.1109/AICAS48895.2020.9073870,Smart Logic-in-Memory Architecture For Ultra-Low Power Large Fan-In Operations,"Abstract, Abstract","low-power , energy-efficient"
+10.1109/AICAS48895.2020.9073914,A SiPM-Based Directional Gamma-Ray Spectrometer With Embedded Machine Learning,Document Title,embedded machine learning
+10.1109/AICAS48895.2020.9073972,Real-time Super Resolution CNN Accelerator with Constant Kernel Size Winograd Convolution,IEEE Terms,quantization
+10.1109/AICAS48895.2020.9073840,Fully-Integrated Spiking Neural Network Using SiOx-Based RRAM as Synaptic Device,Abstract,quantization
+10.1109/AICAS48895.2020.9073854,Layerwise Noise Maximisation to Train Low-Energy Deep Neural Networks,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/AICAS48895.2020.9073903,Complex Neuron Dynamics on the IBM TrueNorth Neurosynaptic System,Abstract,energy-efficient
+10.1109/AICAS48895.2020.9073987,Learning to Walk: Spike Based Reinforcement Learning for Hexapod Robot Central Pattern Generation,Abstract,raspberry pi
+10.1109/AICAS51828.2021.9458501,NeuroSim Validation with 40nm RRAM Compute-in-Memory Macro,Abstract,energy consumption
+10.1109/AICAS51828.2021.9458438,MLFlash-CIM: Embedded Multi-Level NOR-Flash Cell based Computing in Memory Architecture for Edge AI Devices,"Document Title, Abstract, IEEE Terms","edge ai, quantization, quantization"
+10.1109/AICAS51828.2021.9458469,Energy-Efficient Intelligent EPTS Device using Novel DCNN-Based Dynamic Sensor Activation,Document Title,energy-efficient
+10.1109/AICAS51828.2021.9458436,An Ultra-Low-power Real-Time Hand-Gesture Recognition System for Edge Applications,"Document Title, Abstract","low-power , low-power "
+10.1109/AICAS51828.2021.9458569,Design optimization for ADMM-Based SVM Training Processor for Edge Computing,"Abstract, Abstract","low-power , memory usage"
+10.1109/AICAS51828.2021.9458452,Quantization Strategy for Pareto-optimally Low-cost and Accurate CNN,"Document Title, Abstract, Author Keywords, Author Keywords, IEEE Terms","quantization, quantization, quantization, pruning, quantization"
+10.1109/AICAS51828.2021.9458472,A Quality-Oriented Reconfigurable Convolution Engine Using Cross-Shaped Sparse Kernels for Highly-Parallel CNN Acceleration,Abstract,pruning
+10.1109/AICAS51828.2021.9458444,Single RRAM Cell-based In-Memory Accelerator Architecture for Binary Neural Networks,"Document Title, Abstract, Abstract, Author Keywords","binary neural networks, binary neural networks, bnn, bnn"
+10.1109/AICAS51828.2021.9458560,Hardware Approximation of Exponential Decay for Spiking Neural Networks,"Abstract, Abstract","low-power , energy consumption"
+10.1109/AICAS51828.2021.9458563,"iAMEC, an Intelligent Autonomous Mover for Navigation in Indoor People Rich Environments",Abstract,edge ai
+10.1109/AICAS51828.2021.9458528,MRAM-based BER resilient Quantized edge-AI Networks for Harsh Industrial Conditions,"Author Keywords, Author Keywords","edge ai, bnn"
+10.1109/AICAS51828.2021.9458492,An 176.3 GOPs Object Detection CNN Accelerator Emulated in a 28nm CMOS Technology,Abstract,real-time performance
+10.1109/AICAS51828.2021.9458522,The 2020 Low-Power Computer Vision Challenge,"Document Title, Abstract, Abstract, Author Keywords, Author Keywords","low-power , low-power , energy-efficient, model compression, nas"
+10.1109/AICAS51828.2021.9458511,"An Efficient and Low-Power MLP Accelerator Architecture Supporting Structured Pruning, Sparse Activations and Asymmetric Quantization for Edge Computing","Document Title, Document Title, Document Title, Abstract, Abstract, Abstract, Author Keywords, IEEE Terms","low-power , quantization, pruning, low-power , quantization, pruning, model compression, quantization"
+10.1109/AICAS51828.2021.9458497,Hardware-Algorithm Co-Design Enabling Efficient Event-based Object Detection,Abstract,resource-constrained
+10.1109/AICAS51828.2021.9458425,Event-Driven Continuous-Time Feature Extraction for Ultra Low-Power Audio Keyword Spotting,"Document Title, Document Title, Abstract","low-power , keyword spotting, keyword spotting"
+10.1109/AICAS51828.2021.9458403,Online Detection of Vibration Anomalies Using Balanced Spiking Neural Networks,"Abstract, Author Keywords","predictive maintenance, predictive maintenance"
+10.1109/AICAS51828.2021.9458555,Self-Aware Anomaly-Detection for Epilepsy Monitoring on Low-Power Wearable Electrocardiographic Devices,"Document Title, Abstract, Abstract","low-power , low-power , energy-efficient"
+10.1109/AICAS51828.2021.9458542,Exploiting Memristors for Neuromorphic Reinforcement Learning,Abstract,energy-efficient
+10.1109/AICAS51828.2021.9458468,Contention-aware Adaptive Model Selection for Machine Vision in Embedded Systems,Abstract,resource-constrained
+10.1109/AICAS51828.2021.9458539,A Two-Layer LSTM Deep Learning Model for Epileptic Seizure Prediction,Abstract,resource-constrained
+10.1109/AICAS51828.2021.9458545,Ensemble of Pruned Networks for Reliable Classifiers,"Abstract, Author Keywords","pruning, pruning"
+10.1109/AICAS51828.2021.9458508,Dynamically-biased Fixed-point LSTM for Time Series Processing in AIoT Edge Device,"Document Title, Abstract","aiot , quantization"
+10.1109/AICAS51828.2021.9458487,Quantized Fully Convolution Neural Network for HW Implementation of Human Posture Recognition,"Abstract, Author Keywords, Author Keywords, IEEE Terms","quantization, low-power , quantization, quantization"
+10.1109/AICAS51828.2021.9458581,Exploiting Weight Statistics for Compressed Neural Network Implementation on Hardware,"Abstract, Abstract, IEEE Terms","quantization, microcontrollers , quantization"
+10.1109/AICAS51828.2021.9458463,TempDiff: Temporal Difference-Based Feature Map-Level Sparsity Induction in CNNs with <4% Memory Overhead,Abstract,inference time
+10.1109/AICAS51828.2021.9458459,TCBNN: Error-Correctable Ternary-Coded Binarized Neural Network,Abstract,bnn
+10.1109/AICAS51828.2021.9458520,ECG-TCN: Wearable Cardiac Arrhythmia Detection with a Temporal Convolutional Network,"Abstract, IEEE Terms","energy-efficient, quantization"
+10.1109/AICAS51828.2021.9458401,iELAS: An ELAS-Based Energy-Efficient Accelerator for Real-Time Stereo Matching on FPGA Platform,"Document Title, Abstract, Abstract, Abstract","energy-efficient, low-power , energy-efficient, real-time performance"
+10.1109/AICAS51828.2021.9458461,Graph-Based Spatio-Temporal Backpropagation for Training Spiking Neural Networks,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/AICAS51828.2021.9458573,Efficient FPGA Implementation of a Convolutional Neural Network for Radar Signal Processing,"Abstract, Author Keywords","energy consumption, energy consumption"
+10.1109/AICAS51828.2021.9458476,Neural Network Acceleration and Voice Recognition with a Flash-based In-Memory Computing SoC,"Abstract, Abstract","resource-constrained, keyword spotting"
+10.1109/AICAS51828.2021.9458549,Memory Efficient Invertible Neural Networks for Class-Incremental Learning,IEEE Terms,quantization
+10.1109/AICAS51828.2021.9458486,An Energy-Efficient Quad-Camera Visual System for Autonomous Machines on FPGA Platform,"Document Title, Abstract, Abstract","energy-efficient, energy-efficient, energy consumption"
+10.1109/AICAS51828.2021.9458550,Automated Tuning of End-to-end Neural Flight Controllers for Autonomous Nano-drones,"Abstract, Abstract","low-power , inference time"
+10.1109/AICAS51828.2021.9458421,LPE: Logarithm Posit Processing Element for Energy-Efficient Edge-Device Training,Document Title,energy-efficient
+10.1109/AICAS51828.2021.9458410,HPPU: An Energy-Efficient Sparse DNN Training Processor with Hybrid Weight Pruning,"Document Title, Document Title, Abstract, Author Keywords","pruning, energy-efficient, pruning, pruning"
+10.1109/AICAS51828.2021.9458491,Integer-Only Approximated MFCC for Ultra-Low Power Audio NN Processing on Multi-Core MCUs,"Abstract, Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms, IEEE Terms","quantization, keyword spotting, mcu, tinyml, keyword spotting, low-power , quantization"
+10.1109/AICAS51828.2021.9458575,uPIM: Performance-aware Online Learning Capable Processing-in-Memory,Abstract,quantization
+10.1109/AICAS51828.2021.9458509,CoughNet: A Flexible Low Power CNN-LSTM Processor for Cough Sound Detection,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/AICAS51828.2021.9458435,Energy-Efficient Deep Reinforcement Learning Accelerator Designs for Mobile Autonomous Systems,"Document Title, Author Keywords","energy-efficient, energy-efficient"
+10.1109/AICAS51828.2021.9458548,An Energy-Efficient Hardware Accelerator for Hierarchical Deep Reinforcement Learning,"Document Title, Abstract, Abstract, Abstract, IEEE Terms","energy-efficient, resource-constrained, energy-efficient, energy consumption, energy consumption"
+10.1109/AICAS54282.2022.9870009,Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons,"Document Title, Abstract","energy-efficient, low-power "
+10.1109/AICAS54282.2022.9869914,Analog-Domain Time-Series Moment Extraction for Low Power Predictive Maintenance Analytics,"Document Title, Abstract","predictive maintenance, low-power "
+10.1109/AICAS54282.2022.9869901,Class Attention Transfer for Semantic Segmentation,Author Keywords,knowledge distillation
+10.1109/AICAS54282.2022.9869968,Lightweight and Efficient Neural Network Using Progressively Greedy Search,"Abstract, Author Keywords","pruning, neural architecture search"
+10.1109/AICAS54282.2022.9869990,Towards On-device Domain Adaptation for Noise-Robust Keyword Spotting,"Document Title, Abstract","keyword spotting, keyword spotting"
+10.1109/AICAS54282.2022.9870017,Survey and Comparison of Milliwatts Micro controllers for Tiny Machine Learning at the Edge,"Abstract, Abstract, Abstract, Abstract, Author Keywords","tinyml, resource-constrained, microcontrollers , inference time, tinyml"
+10.1109/AICAS54282.2022.9869965,Optimizing Exponent Bias for Sub-8bit Floating-Point Inference of Fine-tuned Transformers,"Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization"
+10.1109/AICAS54282.2022.9869907,AutoDeepHLS: Deep Neural Network High-level Synthesis using fixed-point precision,Author Keywords,quantization
+10.1109/AICAS54282.2022.9869988,Intrinsic Sparse LSTM using Structured Targeted Dropout for Efficient Hardware Inference,"Abstract, Abstract, Author Keywords, Author Keywords","resource-constrained, pruning, model compression, pruning"
+10.1109/AICAS54282.2022.9869959,DC-MPQ: Distributional Clipping-based Mixed-Precision Quantization for Convolutional Neural Networks,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/AICAS54282.2022.9869846,An Energy-Efficient Spiking Neural Network for Finger Velocity Decoding for Implantable Brain-Machine Interface,"Document Title, Abstract","energy-efficient, low-power "
+10.1109/AICAS54282.2022.9869924,Enabling Energy-Efficient Inference for Self-Attention Mechanisms in Neural Networks,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/AICAS54282.2022.9869992,A General-Purpose and Configurable Planar Data Processor for Energy-Efficient Pooling Computation,"Document Title, Abstract, Author Keywords","energy-efficient, energy-efficient, energy-efficient"
+10.1109/AICAS54282.2022.9869960,A 0.95 mJ/frame DNN Training Processor for Robust Object Detection with Real-World Environmental Adaptation,"Abstract, Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms, IEEE Terms","quantization, pruning, energy consumption, quantization, pruning, quantization, energy consumption"
+10.1109/AICAS54282.2022.9869909,Quantized ID-CNN for a Low-power PDM-to-PCM Conversion in TinyML KWS Applications,"Document Title, Document Title, Abstract, Abstract","tinyml, low-power , low-power , keyword spotting"
+10.1109/AICAS54282.2022.9869913,AIWareK: Compiling PyTorch Model for AI Processor Using MLIR Framework,"Document Title, Abstract","mlir , mlir "
+10.1109/AICAS54282.2022.9869997,Implementing Binarized Neural Network Processor on FPGA-Based Platform,Abstract,bnn
+10.1109/AICAS54282.2022.9869947,A low power neural network training processor with 8-bit floating point with a shared exponent bias and fused multiply add trees,Abstract,low-power 
+10.1109/AICAS54282.2022.9869943,Spiking Neural Network based Real-time Radar Gesture Recognition Live Demonstration,Abstract,memory usage
+10.1109/AICAS54282.2022.9869954,A DNN Training Processor for Robust Object Detection with Real-World Environmental Adaptation,"Abstract, Abstract, IEEE Terms","energy-efficient, energy consumption, energy consumption"
+10.1109/AICAS54282.2022.9869899,A 181µW Real-Time 3-D Hand-Gesture Recognition System for Edge Applications,Abstract,low-power 
+10.1109/AICAS54282.2022.9869967,Deep Learning-based Real-time Segmentation for Edge Computing Devices,Abstract,knowledge distillation
+10.1109/AICAS54282.2022.9870020,Live Demo: Memory-Efficient Hardware Design for a Real-Time Convolutional Encoder-Decoder Network,Document Title,memory-efficient
+10.1109/AICAS54282.2022.9869978,MemSE: Fast MSE Prediction for Noisy Memristor-Based DNN Accelerators,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/AICAS54282.2022.9869970,TAC-RAM: A 65nm 4Kb SRAM Computing-in-Memory Design with 57.55 TOPS/W supporting Multibit Matrix-Vector Multiplication for Binarized Neural Network,"Abstract, Author Keywords","energy-efficient, energy-efficient"
+10.1109/AICAS54282.2022.9869905,DualPIM: A Dual-Precision and Low-Power CNN Inference Engine Using SRAM- and eDRAM-based Processing-in-Memory Arrays,"Document Title, Abstract, Abstract, IEEE Terms, IEEE Terms","low-power , quantization, energy consumption, quantization, energy consumption"
+10.1109/AICAS54282.2022.9869849,T-EAP: Trainable Energy-Aware Pruning for NVM-based Computing-in-Memory Architecture,"Document Title, Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms","pruning, pruning, energy consumption, pruning, energy consumption, energy consumption"
+10.1109/AICAS54282.2022.9869950,A Hybrid Spiking Recurrent Neural Network on Hardware for Efficient Emotion Recognition,Abstract,low-power 
+10.1109/AICAS54282.2022.9870025,SENeCA: Scalable Energy-efficient Neuromorphic Computer Architecture,Document Title,energy-efficient
+10.1109/AICAS54282.2022.9869922,Analog LSTM for Keyword Spotting,"Document Title, Abstract","keyword spotting, keyword spotting"
+10.1109/AICAS54282.2022.9870005,MARSv2: Multicore and Programmable Reconstruction Architecture SRAM CIM-Based Accelerator with Lightweight Network,Abstract,low-power 
+10.1109/AICAS54282.2022.9869908,FPGA Accelerator for Radar-Based Human Activity Recognition,IEEE Terms,quantization
+10.1109/AICAS54282.2022.9869911,A Winograd-Based Highly-Parallel Convolution Engine for 8-bit CNN Acceleration,"Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization"
+10.1109/AICAS54282.2022.9869929,A Real-Time Sparsity-Aware 3D-CNN Processor for Mobile Hand Gesture Recognition,Abstract,resource-constrained
+10.1109/AICAS54282.2022.9869850,An Adaptive High-Performance Quantization Approach for Resource-Constrained CNN Inference,"Document Title, Document Title, Abstract, Abstract, Author Keywords, IEEE Terms","resource-constrained, quantization, resource-constrained, quantization, quantization, quantization"
+10.1109/AICAS54282.2022.9869971,Bin-Specific Quantization in Spectral-Domain Convolutional Neural Network Accelerators,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/AICAS54282.2022.9869935,Efficient Nonlinear Autoregressive Neural Network Architecture for Real-Time Biomedical Applications,Abstract,energy-efficient
+10.1109/AICAS54282.2022.9870024,Real-Time Low Power Audio Distortion Circuit Modeling: a TinyML Deep Learning Approach,"Document Title, Abstract, Author Keywords","tinyml, resource-constrained, low-power "
+10.1109/AICAS54282.2022.9870013,Hand Gesture Recognition Using IR-UWB Radar with Spiking Neural Networks,Abstract,low-power 
+10.1109/AICAS54282.2022.9869982,Real-time Biosignal Recording and Machine-Learning Analysis System,"Abstract, Abstract","bnn, real-time performance"
+10.1109/AICAS54282.2022.9870007,An Attention-based Neural Network on Multiple Speaker Diarization,Abstract,inference time
+10.1109/AICAS54282.2022.9870012,Irrelevant Pixels are Everywhere: Find and Exclude Them for More Efficient Computer Vision,"Abstract, Author Keywords, IEEE Terms","energy consumption, low-power , energy consumption"
+10.1109/AICAS54282.2022.9869993,CIM-based Robust Logic Accelerator using 28 nm STT-MRAM Characterization Chip Tape-out,"Abstract, Abstract, Abstract, Author Keywords","energy-efficient, binary neural networks, bnn, binary neural networks"
+10.1109/AICAS54282.2022.9869948,Power-Efficient Double-Cyclic Low-Precision Training for Convolutional Neural Networks,Author Keywords,quantization
+10.1109/AICAS54282.2022.9869994,Hardware-Friendly Logarithmic Quantization with Mixed-Precision for MobileNetV2,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/AICAS54282.2022.9869966,Navigating Local Minima in Quantized Spiking Neural Networks,Author Keywords,quantization
+10.1109/AICAS54282.2022.9869848,Tiny TCN model for Gesture Recognition With Multi-point Low power ToF-Sensors,Author Keywords,tinyml
+10.1109/AICAS54282.2022.9869987,Real-time Radar Gesture Classification with Spiking Neural Network on SpiNNaker 2 Prototype,"Abstract, IEEE Terms","memory usage, quantization"
+10.1109/AICAS54282.2022.9869897,X-Fault: Impact of Faults on Binary Neural Networks in Memristor-Crossbar Arrays with Logic-in-Memory Computation,"Document Title, Abstract, Abstract","binary neural networks, binary neural networks, bnn"
+10.1109/AICAS54282.2022.9870018,A 62.45 TOPS/W Spike-Based Convolution Neural Network Accelerator with Spatiotemporal Parallel Data Flow and Sparsity Mechanism,"Abstract, Abstract, IEEE Terms","inference time, energy consumption, energy consumption"
+10.1109/AICAS54282.2022.9870001,A Closed-Loop Brain-Machine Interface with One-Shot Learning and Online Tuning for Patient-Specific Neurological Disorder Treatment,"Abstract, Abstract","low-power , energy-efficient"
+10.1109/AICAS54282.2022.9870008,Challenges and Opportunities of Edge AI for Next-Generation Implantable BMIs,Document Title,edge ai
+10.1109/AICAS54282.2022.9869998,A Mapping Model of SNNs to Neuromorphic Hardware,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/AICAS54282.2022.9869958,ZEN: A flexible energy-efficient hardware classifier exploiting temporal sparsity in ECG data,"Document Title, Abstract, Author Keywords","energy-efficient, low-power , low-power "
+10.1109/AICAS54282.2022.9869938,An Efficient CNN Training Accelerator Leveraging Transposable Block Sparsity,"Abstract, Author Keywords","pruning, pruning"
+10.1109/AICAS54282.2022.9869955,Design Exploration of An Energy-Efficient Acceleration System for CNNs on Low-Cost Resource-Constraint SoC-FPGAs,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/AICAS54282.2022.9869919,A Novel DNN Accelerator for Light-weight Neural Networks: Concept and Design,"Abstract, Author Keywords","edge ai, edge ai"
+10.1109/AICAS54282.2022.9869974,Lightweight End-to-End Stress Recognition using Binarized CNN-LSTM Models,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/AICAS54282.2022.9869931,Tiny-PULP-Dronets: Squeezing Neural Networks for Faster and Lighter Inference on Multi-Tasking Autonomous Nano-Drones,Abstract,mcu
+10.1109/AICAS54282.2022.9870000,Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots,"Document Title, Abstract","resource-constrained, resource-constrained"
+10.1109/AICAS54282.2022.9870002,Low-power Autonomous Adaptation System with Deep Reinforcement Learning,"Document Title, Abstract, Abstract","low-power , low-power , energy-efficient"
+10.1109/AICAS54282.2022.9869910,Hardening DNNs against Transfer Attacks during Network Compression using Greedy Adversarial Pruning,"Document Title, Abstract, Abstract, Author Keywords, IEEE Terms","pruning, quantization, pruning, pruning, quantization"
+10.1109/AICAS57966.2023.10168647,"A 115.1 TOPS/W, 12.1 TOPS/mm2 Computation-in-Memory using Ring-Oscillator based ADC for Edge AI","Document Title, Abstract, Abstract","edge ai, low-power , energy-efficient"
+10.1109/AICAS57966.2023.10168557,FEEP: Functional ECO Synthesis with Efficient Patch Minimization,Abstract,pruning
+10.1109/AICAS57966.2023.10168594,Reducing Overhead of Feature Importance Visualization via Static GradCAM Computation,Abstract,tinyml
+10.1109/AICAS57966.2023.10168576,Binary is All You Need: Ultra-Efficient Arrhythmia Detection with a Binary-Only Compressive System,"Abstract, Abstract, IEEE Terms","bnn, energy consumption, energy consumption"
+10.1109/AICAS57966.2023.10168560,EpilepsyNet: Interpretable Self-Supervised Seizure Detection for Low-Power Wearable Systems,"Document Title, Abstract","low-power , resource-constrained"
+10.1109/AICAS57966.2023.10168604,A Column-Parallel Time-Interleaved SAR/SS ADC for Computing in Memory with 2-8bit Reconfigurable Resolution,"Abstract, Abstract, IEEE Terms, IEEE Terms","quantization, energy consumption, quantization, energy consumption"
+10.1109/AICAS57966.2023.10168585,RRAM-Based Precision-Scaleable Computing-In-Memory Scheme and Its Error Correction Approach,Author Keywords,energy-efficient
+10.1109/AICAS57966.2023.10168660,FrameFire: Enabling Efficient Spiking Neural Network Inference for Video Segmentation,Abstract,energy-efficient
+10.1109/AICAS57966.2023.10168658,In-memory Activation Compression for GPT Training,Abstract,memory usage
+10.1109/AICAS57966.2023.10168659,Architecture-Aware Optimization of Layer Fusion for Latency-Optimal CNN Inference,Abstract,resource-constrained
+10.1109/AICAS57966.2023.10168590,PN-TMS: Pruned Node-fusion Tree-based Multicast Scheme for Efficient Neuromorphic Systems,"Abstract, Abstract","low-power , energy consumption"
+10.1109/AICAS57966.2023.10168603,Embedded neuromorphic attention model leveraging a novel low-power heterogeneous platform,"Document Title, Abstract","low-power , low-power "
+10.1109/AICAS57966.2023.10168598,KP2Dtiny: Quantized Neural Keypoint Detection and Description on the Edge,"Abstract, Abstract, Abstract","low-power , quantization, mcu"
+10.1109/AICAS57966.2023.10168606,F-CNN: Faster CNN Exploiting Data Re-Use with Statistical Analysis,"Abstract, Abstract","resource-constrained, raspberry pi"
+10.1109/AICAS57966.2023.10168570,Online low-power large-scale real-time decision-making all at once,Document Title,low-power 
+10.1109/AICAS57966.2023.10168619,NeuroBMI: A New Neuromorphic Implantable Wireless Brain Machine Interface with A 0.48 µW Event-Driven Noise-Tolerant Spike Detector,Abstract,energy consumption
+10.1109/AICAS57966.2023.10168577,Free Bits: Latency Optimization of Mixed-Precision Quantized Neural Networks on the Edge,"Document Title, Abstract, Author Keywords, IEEE Terms","latency optimization, quantization, edge ai, quantization"
+10.1109/AICAS57966.2023.10168657,"TinyissimoYOLO: A Quantized, Low-Memory Footprint, TinyML Object Detection Network for Low Power Microcontrollers","Document Title, Abstract, Abstract, Abstract, Abstract, Author Keywords, IEEE Terms","tinyml, quantization, memory-efficient, microcontrollers , energy consumption, quantization, quantization"
+10.1109/AICAS57966.2023.10168571,Searching Tiny Neural Networks for Deployment on Embedded FPGA,"Abstract, Abstract","edge ai, neural architecture search"
+10.1109/AICAS57966.2023.10168601,Energy Efficient Software-hardware Co-design of Quantized Recurrent Convolutional Neural Network for Continuous Cardiac Monitoring,"Abstract, Author Keywords","quantization, quantization"
+10.1109/AICAS57966.2023.10168645,A Lightweight Convolutional Neural Network for Atrial Fibrillation Detection Using Dual-Channel Binary Features from Single-Lead Short ECG,Abstract,low-power 
+10.1109/AICAS57966.2023.10168552,A 12-Lead ECG Delineation Algorithm based on a Quantized CNN-BiLSTM Auto-encoder with 1-12 Mapping,"Abstract, Author Keywords","quantization, quantization"
+10.1109/AICAS57966.2023.10168646,Low-Power Convolutional Neural Network Accelerator on FPGA,"Document Title, Abstract, Abstract, IEEE Terms","low-power , resource-constrained, energy consumption, energy consumption"
+10.1109/AICAS57966.2023.10168637,Group Vectored Absolute-Value-Subtraction Cell Array for the Efficient Acceleration of AdderNet,"Abstract, Author Keywords","energy-efficient, energy-efficient"
+10.1109/AICAS57966.2023.10168584,GPIL: Gradient with PseudoInverse Learning for High Accuracy Fine-Tuning,Abstract,resource-constrained
+10.1109/AICAS57966.2023.10168623,Online Spatio-Temporal Learning with Target Projection,Abstract,resource-constrained
+10.1109/AICAS57966.2023.10168649,LG-LSQ: Learned Gradient Linear Symmetric Quantization for Low-Precision Integer Hardware,"Document Title, Abstract, Author Keywords, Author Keywords, IEEE Terms","quantization, quantization, model compression, quantization, quantization"
+10.1109/AICAS57966.2023.10168615,A High Performance Accelerating CNN Inference on FPGA with Arrhythmia Classification,"Abstract, Abstract, IEEE Terms","low-power , quantization, quantization"
+10.1109/AICAS57966.2023.10168614,TPE: A High-Performance Edge-Device Inference with Multi-level Transformational Mechanism,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/AICAS57966.2023.10168566,A Hardware-Centric Approach to Increase and Prune Regular Activation Sparsity in CNNs,"Abstract, Author Keywords","pruning, pruning"
+10.1109/AICAS57966.2023.10168607,Performance Assessment of an Extremely Energy-Efficient Binary Neural Network Using Adiabatic Superconductor Devices,"Document Title, Abstract, Abstract, Abstract, Abstract, Abstract, Author Keywords, IEEE Terms","energy-efficient, quantization, energy-efficient, binary neural networks, bnn, memory usage, bnn, quantization"
+10.1109/AICAS57966.2023.10168575,Novel Knowledge Distillation to Improve Training Accuracy of Spin-based SNN,"Document Title, Abstract, Abstract, Author Keywords","knowledge distillation, model compression, knowledge distillation, knowledge distillation"
+10.1109/AICAS57966.2023.10168587,A Low-Power Hardware Accelerator of MFCC Extraction for Keyword Spotting in 22nm FDSOI,"Document Title, Document Title, Abstract, Abstract, Author Keywords, Author Keywords","low-power , keyword spotting, low-power , keyword spotting, low-power , keyword spotting"
+10.1109/AICAS57966.2023.10168561,High-Accuracy and Energy-Efficient Acoustic Inference using Hardware-Aware Training and a 0.34nW/Ch Full-Wave Rectifier,"Document Title, Abstract, Abstract","energy-efficient, energy-efficient, keyword spotting"
+10.1109/AICAS57966.2023.10168555,A 1W8R 20T SRAM Codebook for 20% Energy Reduction in Mixed-Precision Deep-Learning Inference Processor System,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/AICAS57966.2023.10168643,MF-DSNN:An Energy-efficient High-performance Multiplication-free Deep Spiking Neural Network Accelerator,"Document Title, Abstract, IEEE Terms","energy-efficient, energy consumption, energy consumption"
+10.1109/AICAS57966.2023.10168564,A Hierarchically Reconfigurable SRAM-Based Compute-in-Memory Macro for Edge Computing,"Abstract, Author Keywords","energy-efficient, edge ai"
+10.1109/AICAS57966.2023.10168622,PPT-KP: Pruning Point Training-based Kernel Pruning for Deep Convolutional Neural Networks,"Document Title, Abstract, Author Keywords","pruning, pruning, pruning"
+10.1109/AICAS57966.2023.10168583,An Energy-Efficient and Reconfigurable CNN Accelerator Applied To Lung Cancer Detection,"Document Title, Abstract","energy-efficient, energy consumption"
+10.1109/AICAS57966.2023.10168569,Live Demonstration: SRAM Compute-In-Memory Based Visual & Aural Recognition System,Abstract,low-power 
+10.1109/AICAS57966.2023.10168644,Live Demonstration: A Smart Ring for Continuous Health Data Monitoring Based on Photoplethysmography,IEEE Terms,low-power 
+10.1109/AICAS59952.2024.10595968,Analog Features Extractor for Ultra-Low Power Embedded AI Listening and Keyword Spotting,"Document Title, Abstract, Author Keywords","keyword spotting, keyword spotting, keyword spotting"
+10.1109/AICAS59952.2024.10595987,On-Device Domain Learning for Keyword Spotting on Low-Power Extreme Edge Embedded Systems,"Document Title, Document Title, Abstract, Abstract, Abstract, Author Keywords, Author Keywords, Author Keywords","low-power , keyword spotting, low-power , microcontrollers , keyword spotting, tinyml, low-power , keyword spotting"
+10.1109/AICAS59952.2024.10595961,Hardware-Friendly Lightweight Convolutional Neural Network Derivation at The Edge,Author Keywords,bnn
+10.1109/AICAS59952.2024.10595974,HeteroEML: Heterogeneous Design Methodology of Edge Machine Learning on CPU+FPGA Platform,Abstract,tvm
+10.1109/AICAS59952.2024.10595928,PF-Training: Parameter Freezing for Efficient On-Device Training of CNN-based Object Detectors in Low-Resource Environments,"Author Keywords, IEEE Terms","model compression, quantization"
+10.1109/AICAS59952.2024.10595876,SNN Architecture for Differential Time Encoding Using Decoupled Processing Time,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/AICAS59952.2024.10595872,Active Dendrites Enable Efficient Continual Learning in Time-To-First-Spike Neural Networks,Abstract,inference time
+10.1109/AICAS59952.2024.10595856,RNN-Based Low Complexity High Speed Channel Estimation Architectures for Vehicular Networks,Abstract,resource-constrained
+10.1109/AICAS59952.2024.10595955,Low-Complexity High Speed Residual Network-Augmented Channel Estimation for mmWave Massive MIMO,Abstract,resource-constrained
+10.1109/AICAS59952.2024.10595885,An end-to-end RNS CNN Accelerator,Abstract,energy-efficient
+10.1109/AICAS59952.2024.10595969,A 28nm 343.5fps/W Vision Transformer Accelerator with Integer-Only Quantized Attention Block,"Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization"
+10.1109/AICAS59952.2024.10595881,DualNet: Efficient Integration of Artificial Neural Network and Spiking Neural Network with Equivalent Conversion,"IEEE Terms, IEEE Terms","quantization, energy consumption"
+10.1109/AICAS59952.2024.10595953,SPVT: Spiked Pyramid Vision Transformer,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/AICAS59952.2024.10595898,Self-Resetting Magnetic Tunnel Junction Neuron-based Spiking Neural Networks,Abstract,energy-efficient
+10.1109/AICAS59952.2024.10595972,Driving Towards Safety: Online PPG-based Drowsiness Detection with TCNs,Abstract,inference time
+10.1109/AICAS59952.2024.10595935,Attacking a Joint Protection Scheme for Deep Neural Network Hardware Accelerators and Models,Abstract,low-power 
+10.1109/AICAS59952.2024.10595910,A Hybrid Heterogeneous Neural Network Accelerator based on Systolic Array,Abstract,bnn
+10.1109/AICAS59952.2024.10595947,A Low-power 3D Point Clouds Matching Processor with 1D-CNN Prediction and CAM-based In-memory kNN Searching,"Document Title, Abstract","low-power , energy-efficient"
+10.1109/AICAS59952.2024.10595875,An Area and Energy-Efficient SRAM Based Time - Domain Compute-In-Memory Architecture For BNN,"Document Title, Document Title, Abstract, Author Keywords","energy-efficient, bnn, binary neural networks, bnn"
+10.1109/AICAS59952.2024.10595925,TNN-CIM: An In-SRAM CMOS Implementation of TNN-Based Synaptic Arrays with STDP Learning,Abstract,energy-efficient
+10.1109/AICAS59952.2024.10595873,An Efficient and Fast Filter Pruning Method for Object Detection in Embedded Systems,"Document Title, Abstract, Abstract, Author Keywords, Author Keywords","pruning, pruning, inference time, pruning, inference time"
+10.1109/AICAS59952.2024.10595982,Towards Automated FPGA Compilation of Spiking Neural Networks,Abstract,low-power 
+10.1109/AICAS59952.2024.10595865,FPGA-based CNN Acceleration using Pattern-Aware Pruning,"Document Title, Abstract","pruning, pruning"
+10.1109/AICAS59952.2024.10595926,An Analog Neural Network for Estimating Sea State or Wave Height from Inertial Sensor Data,Abstract,low-power 
+10.1109/AICAS59952.2024.10595889,Characterization of an Analog MAC Cell with Multi-Bit Resolution for AI Inference Accelerators,Abstract,energy-efficient
+10.1109/AICAS59952.2024.10595861,Early-Exit with Class Exclusion for Efficient Inference of Neural Networks,Abstract,resource-constrained
+10.1109/AICAS59952.2024.10595878,Auditory Anomaly Detection using Recurrent Spiking Neural Networks,Abstract,edge ai
+10.1109/AICAS59952.2024.10595975,FlexBits: A Configurable Lightweight RISC-V Micro-architecture for Flexible Bit-Width Execution,Abstract,energy-efficient
+10.1109/AICAS59952.2024.10595908,NeuroSORT: A Neuromorphic Accelerator for Spike-based Online and Real-time Tracking,Abstract,low-power 
+10.1109/AICAS59952.2024.10595887,A 0.2-pJ/SOP Digital Spiking Neuromorphic Processor with Temporal Parallel Dataflow and Efficient Synapse Memory Compression,"Abstract, Abstract, IEEE Terms","resource-constrained, energy consumption, energy consumption"
+10.1109/AICAS59952.2024.10595869,High-Density Digital Neuromorphic Processor with High-Precision Neural and Synaptic Dynamics and Temporal Acceleration,"Abstract, Author Keywords, IEEE Terms","energy consumption, energy-efficient, energy consumption"
+10.1109/AICAS59952.2024.10595859,Optimizing Vision Transformers: Leveraging Max and Min Operations for Efficient Pruning,"Document Title, Abstract","pruning, pruning"
+10.1109/AICAS59952.2024.10595930,Adaptive Image Downscaling for Rate-Accuracy-Latency Optimization of Task-Target Image Compression,"Document Title, Abstract","latency optimization, latency optimization"
+10.1109/AICAS59952.2024.10595939,"Fast, Efficient and Lightweight Compressed Image Super-Resolution Network for Edge Devices","Abstract, IEEE Terms","quantization, quantization"
+10.1109/AICAS59952.2024.10595894,Progressive Variable Precision DNN With Bitwise Ternary Accumulation,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/AICAS59952.2024.10595938,Energy-Efficient Ternary Multiplier,Document Title,energy-efficient
+10.1109/AICAS59952.2024.10595965,Effect of Line Resistance of Passive Memristive Crossbars on Spiking Neural Network Performance,Abstract,low-power 
+10.1109/AICAS59952.2024.10595902,A Novel Number Representation and Its Hardware Support for Accurate Low-Bit Quantization on Large Recommender Systems,"Document Title, Abstract, Abstract, Author Keywords, IEEE Terms","quantization, resource-constrained, quantization, quantization, quantization"
+10.1109/AICAS59952.2024.10595895,AdaQAT: Adaptive Bit-Width Quantization-Aware Training,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/AICAS59952.2024.10595871,HLC: A Hardware-friendly Quantization and Cache-based Accelerator for Transformer,"Document Title, Abstract, Abstract, Abstract, IEEE Terms","quantization, low-power , model compression, quantization, quantization"
+10.1109/AICAS59952.2024.10595949,PQDE: Comprehensive Progressive Quantization with Discretization Error for Ultra-Low Bitrate MobileNet towards Low-Resolution Imagery,"Document Title, Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms","quantization, resource-constrained, quantization, model compression, quantization, quantization"
+10.1109/AICAS59952.2024.10595985,SRU-Q: Hardware-friendly Stochastic Rounding Unit-based Gradient Quantization for CNN Training,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/AICAS59952.2024.10595863,ACC: Adaptive Compression Framework for Efficient On-device CNN Training,"Abstract, Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms","resource-constrained, quantization, pruning, quantization, pruning, quantization"
+10.1109/AICAS59952.2024.10595901,Accelerator Design using 3D Stacked Capacitorless DRAM for Large Language Models,"Abstract, Abstract","quantization, energy consumption"
+10.1109/AICAS59952.2024.10595870,Language Modeling on a SpiNNaker2 Neuromorphic Chip,Abstract,energy consumption
+10.1109/AICAS59952.2024.10595874,Real Post-Training Quantization Framework for Resource-Optimized Multiplier in LLMs,"Document Title, Abstract, IEEE Terms","quantization, quantization, quantization"
+10.1109/AICAS59952.2024.10595950,Accelerate Large Language Model Inference on Edge TPU with OpenVX framework,"Abstract, Abstract, Author Keywords, IEEE Terms","resource-constrained, quantization, quantization, quantization"
+10.1109/AICAS59952.2024.10595945,ILD-MPQ: Learning-Free Mixed-Precision Quantization with Inter-Layer Dependency Awareness,"Document Title, Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms, IEEE Terms","quantization, edge ai, quantization, edge ai, quantization, edge ai, quantization"
+10.1109/AICAS59952.2024.10595956,Q-Segment: Segmenting Images In-Sensor for Vessel-Based Medical Diagnosis,"Abstract, Abstract, Abstract, Author Keywords","low-power , arm cortex-m, inference time, tinyml"
+10.1109/AICAS59952.2024.10595922,Microarchitecture Aware Neural Architecture Search for TinyML Devices,"Document Title, Document Title, Abstract, Abstract, Abstract, Author Keywords","tinyml, neural architecture search, tinyml, neural architecture search, nas, neural architecture search"
+10.1109/AICAS59952.2024.10595880,An Energy-Efficient Look-up Table Framework for Super Resolution on FPGA,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/AICAS59952.2024.10595858,A Calibratable Model for Fast Energy Estimation of MVM Operations on RRAM Crossbars,"Abstract, IEEE Terms, IEEE Terms","energy consumption, quantization, energy consumption"
+10.1109/AICAS59952.2024.10595905,TPC-NAS: Simple and Effective Neural Architecture Search Based on Total Path Count,"Document Title, Document Title, Abstract, Abstract, Author Keywords, Author Keywords","neural architecture search, nas, neural architecture search, nas, neural architecture search, nas"
+10.1109/AICAS59952.2024.10595915,Adapting Spatial Transformer Networks Across Diverse Hardware Platforms: A Comprehensive Implementation Study,"Abstract, Abstract, Abstract, Author Keywords","resource-constrained, raspberry pi, inference time, raspberry pi"
+10.1109/AICAS59952.2024.10595971,Too-Hot-to-Handle: Insights into Temperature and Noise Hyperparameters for Differentiable Neural-Architecture-Searches,Abstract,resource-constrained
+10.1109/AICAS59952.2024.10595909,An Efficient Ventricular Arrhythmias Detection on Microcontrollers with Optimized 1D CNN,"Document Title, Abstract, Abstract","microcontrollers , tinyml, memory usage"
+10.1109/AICAS59952.2024.10595931,CS-Net: An End-to-end Network for Motor Imagery Brain-Machine Interface with Adaptive Channel Selection and Compressed Sensing,"Abstract, Abstract","neural architecture search, nas"
+10.1109/AICAS59952.2024.10595940,Design and Implementation of an Easy-to-Deploy Energy-Efficient Inference Acceleration System for Multi-Precision Neural Networks,"Document Title, Abstract, Abstract, Abstract, IEEE Terms","energy-efficient, low-power , quantization, energy-efficient, quantization"
+10.1109/AICAS59952.2024.10595886,AICAS Grand Challenge 2024: Software and Hardware Co-optimization for General Large Language Model Inference on CPU,"Abstract, Abstract, Author Keywords, IEEE Terms","quantization, pruning, model compression, quantization"
+10.1109/EDGE62653.2024.00013,CargoSync: Efficient Containerd Image Updates in Low-Bandwidth Edge Environments with Rsync-based Delta Compression,"Abstract, Author Keywords","resource-constrained, resource-constrained"
+10.1109/EDGE62653.2024.00015,Navigator: A Decentralized Scheduler for Latency-Sensitive AI Workflows,IEEE Terms,energy consumption
+10.1109/EDGE62653.2024.00017,Concierge: Towards Accuracy-Driven Bandwidth Allocation for Video Analytics Applications in Edge Network,"Abstract, IEEE Terms","edge ai, edge ai"
+10.1109/EDGE62653.2024.00019,The Impact of GPU on Containerized Computer Vision Applications on Edge Nodes,"Abstract, Author Keywords","memory usage, raspberry pi"
+10.1109/EDGE62653.2024.00022,FedCode: Communication-Efficient Federated Learning via Transferring Codebooks,"Abstract, Abstract, Author Keywords","model compression, pruning, model compression"
+10.1109/EDGE62653.2024.00023,Characterizing Deep Learning Model Compression with Post-Training Quantization on Accelerated Edge Devices,"Document Title, Document Title, Abstract, Abstract, Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms","model compression, quantization, edge ai, resource-constrained, model compression, quantization, edge ai, quantization, quantization"
+10.1109/EDGE62653.2024.00024,Classifier Reuse-Based Contrastive Knowledge Distillation,"Document Title, Abstract, Author Keywords","knowledge distillation, knowledge distillation, knowledge distillation"
+10.1109/EDGE62653.2024.00027,DONNA: Distributed Optimized Neural Network Allocation on CIM-Based Heterogeneous Accelerators,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/EDGE62653.2024.00029,Are Large Language Models Good Neural Architecture Generators for Edge?,"Abstract, Abstract, Author Keywords","neural architecture search, nas, neural architecture search"
+10.1109/EDGE62653.2024.00030,EfficientMedSAM: Accelerating Medical Image Segmentation via Neural Architecture Search and Knowledge Distillation,"Document Title, Document Title, Abstract, Abstract, Abstract, Abstract, Author Keywords, Author Keywords","knowledge distillation, neural architecture search, knowledge distillation, neural architecture search, memory-efficient, nas, knowledge distillation, neural architecture search"
+10.1109/EDGE60047.2023.00017,Transfer-Once-For-All: AI Model Optimization for Edge,"Document Title, Abstract, Author Keywords, Author Keywords","model optimization, neural architecture search, neural architecture search, nas"
+10.1109/EDGE60047.2023.00027,Edge Computing Tasks Orchestration: An Energy-Aware Approach,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/EDGE60047.2023.00028,Domain modeling for scenario sensing and edge decision-making,Abstract,real-time performance
+10.1109/EDGE60047.2023.00029,Creating Robust Deep Neural Networks with Coded Distributed Computing for IoT,Author Keywords,edge ai
+10.1109/EDGE60047.2023.00030,Seque: Lean and Energy-aware Data Management for IoT Gateways,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/EDGE60047.2023.00031,Probabilistic Error Reasoning on IoT Edge Devices,Abstract,resource-constrained
+10.1109/EDGE60047.2023.00032,LightESD: Fully-Automated and Lightweight Anomaly Detection Framework for Edge Computing,Abstract,energy consumption
+10.1109/EDGE60047.2023.00034,Accurate Calibration of Power Measurements from Internal Power Sensors on NVIDIA Jetson Devices,Abstract,energy-efficient
+10.1109/EDGE60047.2023.00041,Improved Knowledge Distillation for Crowd Counting on IoT Devices,"Document Title, Abstract, Abstract, Abstract, Author Keywords, IEEE Terms","knowledge distillation, quantization, pruning, knowledge distillation, knowledge distillation, quantization"
+10.1109/EDGE60047.2023.00042,FedCime: An Efficient Federated Learning Approach For Clients in Mobile Edge Computing,Abstract,resource-constrained
+10.1109/EDGE60047.2023.00043,A Dynamic and Collaborative Deep Inference Framework for Human Motion Analysis in Telemedicine,"Abstract, Author Keywords","real-time performance, quantization"
+10.1109/EDGE60047.2023.00045,AnalogNAS: A Neural Network Design Framework for Accurate Inference with Analog In-Memory Computing,"Abstract, Abstract, Abstract, Author Keywords, Author Keywords","tinyml, edge ai, resource-constrained, edge ai, neural architecture search"
+10.1109/EDGE60047.2023.00046,Reducing Inference Latency with Concurrent Architectures for Image Recognition at Edge,"Abstract, Abstract, Author Keywords, Author Keywords","neural architecture search, nas, edge ai, neural architecture search"
+10.1109/EDGE60047.2023.00047,Context-Aware Task Handling in Resource-Constrained Robots with Virtualization,"Document Title, Author Keywords","resource-constrained, edge ai"
+10.1109/EDGE60047.2023.00049,A Comprehensive Performance Evaluation of Procedural Geometry Workloads on Resource-Constrained Devices,"Document Title, Abstract, Author Keywords","resource-constrained, resource-constrained, resource-constrained"
+10.1109/EDGE60047.2023.00055,The Potentials of AI Planning on the Edge,"Abstract, Author Keywords","edge ai, edge ai"
+10.1109/EDGE60047.2023.00056,Realising the Power of Edge Intelligence: Addressing the Challenges in AI and tinyML Applications for Edge Computing,"Document Title, Abstract, Abstract, Author Keywords, Author Keywords","tinyml, tinyml, edge ai, tinyml, edge ai"
+10.1109/EDGE60047.2023.00057,PATRIoTA: A Similarity-based IoT Malware Detection Method Robust Against Adversarial Samples,Abstract,resource-constrained
+10.1109/EDGE55608.2022.00016,ECBA-MLI: Edge Computing Benchmark Architecture for Machine Learning Inference,Abstract,energy consumption
+10.1109/EDGE55608.2022.00017,CCEI-IoT: Clustered and Cohesive Edge Intelligence in Internet of Things,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/EDGE55608.2022.00020,A Functional and Performance Benchmark of Lightweight Virtualization Platforms for Edge Computing,Abstract,raspberry pi
+10.1109/EDGE55608.2022.00024,EdgeFaaSBench: Benchmarking Edge Devices Using Serverless Computing,"Abstract, Abstract","energy-efficient, raspberry pi"
+10.1109/EDGE55608.2022.00032,Memory Efficient Binary Convolutional Neural Networks on Microcontrollers,"Abstract, Abstract, Abstract, Author Keywords","binary neural networks, microcontrollers , bnn, binary neural networks"
+10.1109/EDGE55608.2022.00034,A Novel Heterogeneous Computing Middleware for Mobile AI Services,"Abstract, Abstract","inference time, energy consumption"
+10.1109/EDGE55608.2022.00035,Querying Distributed Sensor Streams in the Edge-to-Cloud Continuum,Abstract,predictive maintenance
+10.1109/EDGE53862.2021.00012,Edge Computing Based Data Center Monitoring,"Abstract, Abstract","low-power , energy consumption"
+10.1109/EDGE53862.2021.00018,Data Sharing-Aware Task Allocation in Edge Computing Systems,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/EDGE50951.2020.00008,Vehicle Speed Aware Computing Task Offloading and Resource Allocation Based on Multi-Agent Reinforcement Learning in a Vehicular Edge Computing Network,IEEE Terms,energy consumption
+10.1109/EDGE50951.2020.00013,A Service Continuity Management Method for MEC-Assisted C-V2X Applications,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/EDGE50951.2020.00015,Astraea: Deploy AI Services at the Edge in Elegant Ways,Abstract,energy consumption
+10.1109/EDGE50951.2020.00019,Joint Optimization of Task Offloading and Resource Allocation via Deep Reinforcement Learning for Augmented Reality in Mobile Edge Network,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS45731.2020.9180389,A Sub-μW 3–10MHz Stacked Oscillator with a Duty-Cycle Calibrated Level Shifter,"Abstract, Abstract","low-power , energy-efficient"
+10.1109/ISCAS45731.2020.9180394,On Fully Differential Incremental ΔΣ ADC with Initial Feedback Zeroing and 1.5-Bit Feedback,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS45731.2020.9180396,A 336fsrms 0.89mW 200MS/s 5MHz Bandwidth 2–2 MASH ΔΣ Time-to-Digital Converter with Differential Time-Mode Arithmetic Units,IEEE Terms,quantization
+10.1109/ISCAS45731.2020.9180398,A 27GHz-to-33GHz Variable-Gain Amplifier with Precise 0.5dB Step Size in 40nm-CMOS for 5G and Ka-Band Satellite Applications,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180405,Weight Isolation-Based Binarized Neural Networks Accelerator,"Abstract, Author Keywords","bnn, binary neural networks"
+10.1109/ISCAS45731.2020.9180422,Exploiting Self-Capacitances for Wireless Power Transfer,Abstract,energy-efficient
+10.1109/ISCAS45731.2020.9180426,CMOS Integrated Impedance to Frequency Converter for Biomedical Applications,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180433,A Resource-Optimized Patient-Specific Nonlinear-SVM Hypertension Detection Algorithm for Minimally-Invasive High Blood Pressure Control,"Abstract, Abstract","low-power , energy consumption"
+10.1109/ISCAS45731.2020.9180434,A 1/3-Inch 1.12μm-Pitch 13Mpixel CMOS Image Sensor with a Low-Power Readout Architecture,"Document Title, Abstract, Author Keywords","low-power , low-power , low-power "
+10.1109/ISCAS45731.2020.9180435,A Low-Power 65/14nm Stacked CMOS Image Sensor,"Document Title, Abstract, Author Keywords","low-power , low-power , low-power "
+10.1109/ISCAS45731.2020.9180438,High-Speed Trace Detection DROIC for 15μm-Pitch Cryogenic Infrared FPAs,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS45731.2020.9180442,A Mixed-Signal Spatio-Temporal Signal Classifier for On-Sensor Spike Sorting,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180443,Memory Organization for Energy-Efficient Learning and Inference in Digital Neuromorphic Accelerators,"Document Title, Abstract, IEEE Terms","energy-efficient, energy-efficient, quantization"
+10.1109/ISCAS45731.2020.9180449,Exploiting Single-Well Design for Energy-Efficient Ultra-Wide Voltage Range Dual Mode Logic-Based Digital Circuits in 28nm FD-SOI Technology,"Document Title, Abstract, Abstract, Author Keywords, IEEE Terms","energy-efficient, energy-efficient, energy consumption, energy-efficient, energy consumption"
+10.1109/ISCAS45731.2020.9180454,Reinforced Bit Allocation under Task-Driven Semantic Distortion Metrics,Abstract,quantization
+10.1109/ISCAS45731.2020.9180455,Learning Based Estimation of Video Coding Distortion,"Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS45731.2020.9180494,"Online Estimation of State-of-Charge, State-of-Health and Temperature of Supercapacitor",Abstract,smart meters
+10.1109/ISCAS45731.2020.9180498,Design of Energy-Efficient Electrocorticography Recording System for Intractable Epilepsy in Implantable Environments,"Document Title, Abstract","energy-efficient, low-power "
+10.1109/ISCAS45731.2020.9180502,Low-Power Fixed-Point Compressed Sensing Decoder with Support Oracle,Document Title,low-power 
+10.1109/ISCAS45731.2020.9180506,HyNNA: Improved Performance for Neuromorphic Vision Sensor Based Surveillance using Hybrid Neural Network Architecture,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180509,A 312pJ°C2 Ultra-Low-Power Direct-ADC Multi-Range Temperature Sensor for IoT Nodes,"Document Title, Abstract","low-power , energy-efficient"
+10.1109/ISCAS45731.2020.9180510,CMOS-Free Magnetic Domain Wall Leaky Integrate-and-Fire Neurons with Intrinsic Lateral Inhibition,Abstract,energy consumption
+10.1109/ISCAS45731.2020.9180511,Plasticity-Enhanced Domain-Wall MTJ Neural Networks for Energy-Efficient Online Learning,Document Title,energy-efficient
+10.1109/ISCAS45731.2020.9180526,ASIC Solution for the Directional Intra Prediction of the AV1 Encoder Targeting UHD 4K Videos,Abstract,energy consumption
+10.1109/ISCAS45731.2020.9180535,A 3GS/s Highly Linear Energy Efficient Constant-Slope Based Voltage-to-Time Converter,Abstract,energy-efficient
+10.1109/ISCAS45731.2020.9180536,Noise Shaping Techniques for SNR Enhancement in SAR Analog to Digital Converters,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS45731.2020.9180540,A 0.45-V Low-Power Image-Rejection Low-Noise Amplifier in 0.18-μm CMOS Technology,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS45731.2020.9180548,Towards Efficient On-Chip Learning using Equilibrium Propagation,"Abstract, Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms","quantization, pruning, memory usage, quantization, pruning, quantization"
+10.1109/ISCAS45731.2020.9180549,Memristor Overwrite Logic (MOL) for Energy-Efficient In-Memory DNN,Document Title,energy-efficient
+10.1109/ISCAS45731.2020.9180550,Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS45731.2020.9180576,gm/ID Design Considerations for Subthreshold-Based CMOS Two-Stage Operational Amplifiers,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180587,Dual Mode Logic Address Decoder,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS45731.2020.9180596,Reducing Temperature Induced Unreliability in Sub-Threshold Strong PUFs through Circuit Modeling,Abstract,quantization
+10.1109/ISCAS45731.2020.9180597,A 6.4pJ/Bit Strong Physical Unclonable Function Based on Multiple-Stage Amplifier Chain,Abstract,energy consumption
+10.1109/ISCAS45731.2020.9180607,A Hybrid Instruction and Functional Level Energy Estimation Framework for Embedded Processors,"Abstract, Abstract, IEEE Terms","energy-efficient, energy consumption, energy consumption"
+10.1109/ISCAS45731.2020.9180618,A Wide Range and High Accuracy Sensor Interface with Switching Regulator for Coin-Cell Powered Tiny Wireless Sensor Node,Abstract,energy-efficient
+10.1109/ISCAS45731.2020.9180620,Accelerated Filtering and in situ Verification for Energy-Optimized Genome Read Mapping,Author Keywords,energy consumption
+10.1109/ISCAS45731.2020.9180626,Fuzzy-Logic using Unary Bit-Stream Processing,Abstract,energy consumption
+10.1109/ISCAS45731.2020.9180632,Time Step Impact on Performance and Accuracy of Izhikevich Neuron: Software Simulation and Hardware Implementation,Abstract,memory usage
+10.1109/ISCAS45731.2020.9180634,MuBiNN: Multi-Level Binarized Recurrent Neural Network for EEG Signal Classification,"Abstract, IEEE Terms","energy-efficient, quantization"
+10.1109/ISCAS45731.2020.9180637,Effect of Electrolytic Capacitors on the Performance of Multicomponent Fractors,Abstract,not available
+10.1109/ISCAS45731.2020.9180644,Analysis of a Dual N-Path Filter,Abstract,not available
+10.1109/ISCAS45731.2020.9180645,Analog Solutions of Systems of Linear Equations on a Configurable Platform,Abstract,energy-efficient
+10.1109/ISCAS45731.2020.9180653,"Voltage-Gated Spin-Hall Effect Based Magnetic Non-Volatile Flip-Flop for High Speed, Low Power and Compact Cell Area",Abstract,low-power 
+10.1109/ISCAS45731.2020.9180658,Efficient Time-Domain In-Memory Computing Based on TST-MRAM,"Abstract, Abstract, IEEE Terms","low-power , energy consumption, energy consumption"
+10.1109/ISCAS45731.2020.9180669,Impact of Memristor Defects in a Neuromorphic Radionuclide Identification System,Abstract,energy-efficient
+10.1109/ISCAS45731.2020.9180670,AVAC: A Machine Learning Based Adaptive RRAM Variability-Aware Controller for Edge Devices,Abstract,energy consumption
+10.1109/ISCAS45731.2020.9180675,Process Variation Model and Analysis for Domain Wall-Magnetic Tunnel Junction Logic,"Abstract, Abstract","energy-efficient, energy consumption"
+10.1109/ISCAS45731.2020.9180676,Dynamic Memory and Sequential Logic Design using Negative Capacitance FinFETs,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180681,Live Demonstration: A Low-Cost Wireless Instrumentation Control System,Abstract,raspberry pi
+10.1109/ISCAS45731.2020.9180682,Live Demonstration: Low-Power and High-Speed Deep FPGA Inference Engines for Weed Classification at the Edge,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS45731.2020.9180683,Live Demonstration: Unobtrusive and Continuous Monitoring of Respiration Employing a Dual CW Radar Assembly,Abstract,raspberry pi
+10.1109/ISCAS45731.2020.9180692,FIR DACs in CT Incremental Delta-Sigma Modulators,IEEE Terms,quantization
+10.1109/ISCAS45731.2020.9180704,VLSI Design of Tree-Based Inference for Low-Power Learning Applications,"Document Title, IEEE Terms","low-power , quantization"
+10.1109/ISCAS45731.2020.9180713,A 12.5 Gb/s 1.93 pJ/Bit Optical Receiver Exploiting Silicon Photonic Delay Lines for Clock Phases Generation Replacement,Author Keywords,low-power 
+10.1109/ISCAS45731.2020.9180723,Modeling and Characterization of Metastability in Single Flux Quantum (SFQ) Synchronizers,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180724,A Low Voltage Discriminant Circuit for Pattern Recognition Exploiting the Asymmetrical Characteristics of Tunnel FET,Abstract,energy consumption
+10.1109/ISCAS45731.2020.9180728,An Inference Hardware Accelerator for EEG-Based Emotion Detection,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180729,A Multi-Feature Nonlinear-SVM Seizure Detection Algorithm with Patient-Specific Channel Selection and Feature Customization,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180738,A 191 mV/pH Sensitivity and 2219 FPS Frame Rate CMOS Ion Image Sensor,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS45731.2020.9180739,A 63.2μW 11-Bit Column Parallel Single-Slope ADC with Power Supply Noise Suppression for CMOS Image Sensors,Author Keywords,low-power 
+10.1109/ISCAS45731.2020.9180742,Low-Cost Reservoir Computing using Cellular Automata and Random Forests,"Abstract, Abstract","pruning, memory usage"
+10.1109/ISCAS45731.2020.9180743,Exact In-Memory Multiplication Based on Deterministic Stochastic Computing,"Abstract, Abstract","energy consumption, memory usage"
+10.1109/ISCAS45731.2020.9180744,Accurate and Energy-Efficient Implementation of Non-Linear Adder in Parallel Stochastic Computing using Sorting Network,"Document Title, Abstract, IEEE Terms","energy-efficient, energy consumption, energy consumption"
+10.1109/ISCAS45731.2020.9180755,Low-Complexity Real-Time Light Field Compression using 4-D Approximate DCT,IEEE Terms,quantization
+10.1109/ISCAS45731.2020.9180756,Assessment of Perceptual Depth Intensity on Source Stereoscopic Images,Abstract,quantization
+10.1109/ISCAS45731.2020.9180762,Submission for CAS Transactions Papers: Design Methodology Based on the Inversion Coefficient and its Application to Inductorless LNA Implementations,IEEE Terms,low-power 
+10.1109/ISCAS45731.2020.9180763,"Unified Analysis, Modeling, and Simulation of Chopping Artifacts in Continuous-Time Delta-Sigma Modulators","Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS45731.2020.9180766,Automated Design of Reconfigurable Microarchitectures for Accelerators under Wide-Voltage Scaling,Author Keywords,energy consumption
+10.1109/ISCAS45731.2020.9180767,Low-Power Approximate Multiplier with Error Recovery using a New Approximate 4-2 Compressor,"Document Title, Abstract","low-power , energy-efficient"
+10.1109/ISCAS45731.2020.9180769,Hardware Efficient Function Computation Based on Optimized Piecewise Polynomial Approximation,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS45731.2020.9180770,Novel Noise-Shaping Stochastic-Computing Converters for Digital Filtering,Abstract,quantization
+10.1109/ISCAS45731.2020.9180782,An Optimized VLSI Implementation of an IEEE 802.11n/ac/ax LDPC Decoder,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180784,Low-Complexity Fully-Digital Phase Noise Suppression for Millimeter-Wave Systems,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS45731.2020.9180794,A CMOS Multi-Sensor Array for High Accuracy On-Chip Bacterial Growth Monitoring,Abstract,quantization
+10.1109/ISCAS45731.2020.9180801,A Process-Variation Robust RRAM-Compatible CMOS Neuron for Neuromorphic System-on-a-Chip,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180803,Circuit Cost Reduction for Online STDP using NIPIN Selector as Timekeeping Device in RRAM Synapse,IEEE Terms,energy consumption
+10.1109/ISCAS45731.2020.9180807,High-Dynamic-Range Image Reconstruction from Pixel-Level Self-Reset ADC Samples,IEEE Terms,quantization
+10.1109/ISCAS45731.2020.9180808,Analog Weight Updates with Compliance Current Modulation of Binary ReRAMs for On-Chip Learning,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180810,MemTorch: A Simulation Framework for Deep Memristive Cross-Bar Architectures,Abstract,resource-constrained
+10.1109/ISCAS45731.2020.9180827,A Low-Spur Current-Biasing-Free Fractional-N Hybrid PLL for Low-Voltage Clock Generation,Abstract,quantization
+10.1109/ISCAS45731.2020.9180832,OTA-Free MASH 2–2 Noise Shaping SAR ADC: System and Design Considerations,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS45731.2020.9180833,All-Digital Calibration Algorithms to Correct for Static Non-Linearities in ADCs,IEEE Terms,quantization
+10.1109/ISCAS45731.2020.9180835,Stochastic ΔΣ VCO-ADC Utilizing 4× Staggered Averaging,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS45731.2020.9180843,Accelerating Tiny YOLOv3 using FPGA-Based Hardware/Software Co-Design,"Abstract, Abstract","energy consumption, real-time performance"
+10.1109/ISCAS45731.2020.9180844,A Convolutional Neural Network Accelerator Architecture with Fine-Granular Mixed Precision Configurability,Abstract,quantization
+10.1109/ISCAS45731.2020.9180849,A DPA-Resistant Asynchronous-Logic NoC Router with Dual-Supply-Voltage-Scaling for Multicore Cryptographic Applications,Abstract,energy-efficient
+10.1109/ISCAS45731.2020.9180850,SHeFU: Secure Hardware-Enabled Protocol for Firmware Updates,Abstract,memory usage
+10.1109/ISCAS45731.2020.9180855,Sub-1 V Output-Capacitor-Less Low-Dropout Regulator with Two Compensation Amplifiers for Enhanced Power Supply Rejection,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180856,"Low Quiescent Current, Capacitor-Less LDO with Adaptively Biased Power Transistors and Load Aware Feedback Resistance",Abstract,low-power 
+10.1109/ISCAS45731.2020.9180857,"67ppm/°C, 66nA PVT Invariant Curvature Compensated Current Reference for Ultra-Low Power Applications",IEEE Terms,low-power 
+10.1109/ISCAS45731.2020.9180858,"A 0.7-V, 192 pA Current Reference with 0.51%/V Line Regulation for Ultra-Low Power Applications",Abstract,low-power 
+10.1109/ISCAS45731.2020.9180860,A Current Efficient 10mA Analog-Assisted Digital Low Dropout Regulator with Dynamic Clock Frequency in 65nm CMOS,Abstract,quantization
+10.1109/ISCAS45731.2020.9180862,A Low-Voltage Split Memory Architecture for Binary Neural Networks,"Document Title, Abstract, Author Keywords, Author Keywords","binary neural networks, binary neural networks, quantization, bnn"
+10.1109/ISCAS45731.2020.9180865,Zebra: Memory Bandwidth Reduction for CNN Accelerators with Zero Block Regularization of Activation Maps,Abstract,pruning
+10.1109/ISCAS45731.2020.9180869,DC-LSTM: Deep Compressed LSTM with Low Bit-Width and Structured Matrices,"Abstract, Abstract, Author Keywords, IEEE Terms","quantization, pruning, model compression, quantization"
+10.1109/ISCAS45731.2020.9180876,Energy-Efficient Arbitrary Precision Multi-Bit Multiplication with Bi-Serial In/Near Memory Computing,"Document Title, Author Keywords","energy-efficient, energy-efficient"
+10.1109/ISCAS45731.2020.9180877,Dynamic-Reference Based Early Write Termination for Low Energy SOT-MRAM,Abstract,energy consumption
+10.1109/ISCAS45731.2020.9180889,A 28-GHz Massive MIMO Receiver Deploying One-Bit Direct Detection with Wireless Synchronization,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180893,A Digital Non-Foster VHF Radio Approach for Enabling Low-Power Internet of Things,"Document Title, Abstract, Abstract, Abstract","low-power , low-power , energy-efficient, energy consumption"
+10.1109/ISCAS45731.2020.9180895,TAAC: Task Allocation Meets Approximate Computing for Internet of Things,"Abstract, Abstract, IEEE Terms","low-power , energy consumption, energy consumption"
+10.1109/ISCAS45731.2020.9180896,Low Computational Sensing with Goertzel Filtering for Mobile Industrial IoT Devices,Document Title,industrial iot
+10.1109/ISCAS45731.2020.9180901,SPICEInverse: Synthesis of an Accelerated Multiplexed Impedance Measurement Technique for Wearable Low-Power Electrochemical Systems,Document Title,low-power 
+10.1109/ISCAS45731.2020.9180903,Toward a Low Power E-Skin Interface System on a Chip for Taxel Arrays,Abstract,mcu
+10.1109/ISCAS45731.2020.9180916,"Ultra-Low Leakage, High Fan-Out Neuro Connection Map with TCAM-Based LUT, Localized Priority Encoder and Decoder-Less SRAM",Abstract,energy-efficient
+10.1109/ISCAS45731.2020.9180917,Frequency Behaviour of FeFET-Based Ultra-Low-Power Coupled Oscillator Neurons,Document Title,low-power 
+10.1109/ISCAS45731.2020.9180918,A Novel Conversion Method for Spiking Neural Network using Median Quantization,"Document Title, Abstract, Abstract, Author Keywords, IEEE Terms","quantization, quantization, energy consumption, quantization, quantization"
+10.1109/ISCAS45731.2020.9180919,Optimize FPGA-Based Neural Network Accelerator with Bit-Shift Quantization,"Document Title, Abstract, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS45731.2020.9180920,An In-Flash Binary Neural Network Accelerator with SLC NAND Flash Array,"Abstract, Author Keywords","bnn, bnn"
+10.1109/ISCAS45731.2020.9180921,Hardware-Oriented Dual Stream Object Recognition System using Binarized Neural Networks,Abstract,bnn
+10.1109/ISCAS45731.2020.9180924,Supported-BinaryNet: Bitcell Array-Based Weight Supports for Dynamic Accuracy-Energy Trade-Offs in SRAM-Based Binarized Neural Network,"Abstract, IEEE Terms","bnn, quantization"
+10.1109/ISCAS45731.2020.9180941,A Low-Power 9-Bit 222 MS/s Asynchronous SAR ADC in 65 nm CMOS,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS45731.2020.9180944,A 13 Bit 100 MS/s SAR ADC with 74.57 dB SNDR in 14-nm CMOS FinFET,Abstract,energy-efficient
+10.1109/ISCAS45731.2020.9180946,A Low-Power and Area-Efficient Analog Duty Cycle Corrector for ADC's External Clocks,Document Title,low-power 
+10.1109/ISCAS45731.2020.9180949,A 6bit 1.2GS/s Symmetric Successive Approximation Energy-Efficient Time-to-Digital Converter in 40nm CMOS,"Document Title, Abstract, Author Keywords","energy-efficient, energy-efficient, energy-efficient"
+10.1109/ISCAS45731.2020.9180951,Analysis of the Inter-Stage Signal Leakage in Wide BW Low OSR and High DR CT MASH ΔΣM,IEEE Terms,quantization
+10.1109/ISCAS45731.2020.9180961,Live Demonstration: Exploiting Body-Biasing for Static Corner Trimming and Maximum Energy Efficiency Operation in 22nm FDX Technology,Abstract,energy consumption
+10.1109/ISCAS45731.2020.9180967,Performance of the Open-Circuit Voltage MPPT Technique for Piezoelectric Vibration Harvesters,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180976,Low-Power and Memory-Aware Approximate Hardware Architecture for Fractional Motion Estimation Interpolation on HEVC,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS45731.2020.9180987,Stochastic Mixed-PR: A Stochastically-Tunable Low-Error Adder,Abstract,low-power 
+10.1109/ISCAS45731.2020.9180988,1.2V Energy-Efficient Wireless CMOS Potentiostat for Amperometric Measurements,Document Title,energy-efficient
+10.1109/ISCAS45731.2020.9180989,A Low-Power Low-Cost On-Chip Digital Background Calibration for Pipelined ADCs,"Document Title, Abstract, Abstract, Author Keywords, IEEE Terms","low-power , low-power , quantization, quantization, quantization"
+10.1109/ISCAS45731.2020.9180992,A Model of Continuous-Time Sigma Delta Modulation Based on Pulse Frequency Encoding,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS45731.2020.9180998,Leveraging Independent Double-Gate FinFET Devices for Machine Learning Classification,Abstract,energy consumption
+10.1109/ISCAS45731.2020.9180999,Gain-Cell Embedded DRAMs: Modeling and Design Space,Abstract,low-power 
+10.1109/ISCAS45731.2020.9181002,Efficient Time-Multiplexed Realization of Feedforward Artificial Neural Networks,"Abstract, Abstract, IEEE Terms","quantization, energy consumption, quantization"
+10.1109/ISCAS45731.2020.9181004,Optimized Random Forest Classifier for Drone Pilot Identification,Abstract,memory usage
+10.1109/ISCAS45731.2020.9181005,Algorithmic Enablers for Compact Neural Network Topology Hardware Design: Review and Trends,"Abstract, Abstract, Author Keywords, IEEE Terms","quantization, pruning, pruning, quantization"
+10.1109/ISCAS45731.2020.9181013,Short-Range Quality-Factor Modulation (SquirM) for Low Power High Speed Inductive Data Transfer,"Abstract, Author Keywords","energy consumption, low-power "
+10.1109/ISCAS45731.2020.9181014,Continuous-Time Algorithms for Solving Maxwell's Equations using Analog Circuits,Abstract,energy-efficient
+10.1109/ISCAS45731.2020.9181022,A Variation Robust Inference Engine Based on STT-MRAM with Parallel Read-Out,IEEE Terms,quantization
+10.1109/ISCAS45731.2020.9181033,Hardware Implementation of PCM-Based Neurons with Self-Regulating Threshold for Homeostatic Scaling in Unsupervised Learning,Abstract,energy-efficient
+10.1109/ISCAS45731.2020.9181035,PRISM: Energy-Efficient Polymorphic Operation Based on Spin-Orbit Torque Memory for Reconfigurable Computing,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS45731.2020.9181037,VersaTile Convolutional Neural Network Mapping on FPGAs,Abstract,energy consumption
+10.1109/ISCAS45731.2020.9181038,Memory Footprint Optimization Techniques for Machine Learning Applications in Embedded Systems,Abstract,memory usage
+10.1109/ISCAS45731.2020.9181041,Voltage Divider for Self-Limited Analog State Programing of Memristors,"Abstract, Abstract","energy-efficient, energy consumption"
+10.1109/ISCAS45731.2020.9181042,An Asynchronous and Low-Power True Random Number Generator using STT-MTJ,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS45731.2020.9181059,A 2.8 μW 0.022 mm2 8 MHz Monolithic Relaxation Oscillator,Abstract,low-power 
+10.1109/ISCAS45731.2020.9181063,Energy-Efficiency Millimeter Wave Communication System Based a New Beam Modulation Scheme,Abstract,energy-efficient
+10.1109/ISCAS45731.2020.9181066,An Optimized Compression Strategy for Compressor-Based Approximate Multiplier,Abstract,energy consumption
+10.1109/ISCAS45731.2020.9181077,Ultra Wide Voltage Range One Time Programmable EPROM Circuit for Portable Applications,Abstract,smart meters
+10.1109/ISCAS45731.2020.9181081,An Energy-Efficient Low-Voltage Swing Transceiver for mW-Range IoT End-Nodes,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS45731.2020.9181083,2.4-GHz 16-QAM Passive Backscatter Transmitter for Wireless Self-Power Chips in IoT,"Abstract, Author Keywords","low-power , low-power "
+10.1109/ISCAS45731.2020.9181092,"Ultra-Compact, Entirely Graphene-Based Nonlinear Leaky Integrate-and-Fire Spiking Neuron","Abstract, Abstract","energy-efficient, energy consumption"
+10.1109/ISCAS45731.2020.9181093,Low-Power Ethanol Sensor Read-Out Circuit using a-InGaZnO TFTs,"Document Title, Abstract, Author Keywords","low-power , low-power , low-power "
+10.1109/ISCAS45731.2020.9181097,A Combined ISFET-Electric Field Actuation System for Enhanced Detection of DNA: A Proof-of-Concept,Abstract,low-power 
+10.1109/ISCAS45731.2020.9181099,Training Progressively Binarizing Deep Networks using FPGAs,Abstract,bnn
+10.1109/ISCAS45731.2020.9181100,A 54.7 fps 3D Point Cloud Semantic Segmentation Processor with Sparse Grouping Based Dilated Graph Convolutional Network for Mobile Devices,Author Keywords,low-power 
+10.1109/ISCAS45731.2020.9181101,Hardware-Aware Pruning of DNNs using LFSR-Generated Pseudo-Random Indices,"Document Title, Abstract","pruning, pruning"
+10.1109/ISCAS45731.2020.9181108,A Pipelined Memristive Neural Network Analog-to-Digital Converter,"Abstract, Abstract","low-power , energy-efficient"
+10.1109/ISCAS45731.2020.9181110,Memristive Oscillatory Circuits for Resolution of NP-Complete Logic Puzzles: Sudoku Case,Abstract,low-power 
+10.1109/ISCAS45731.2020.9181119,A Proposal for Multiplierless RLS Adaptive Filters with Implementation Complexity Constraint,IEEE Terms,quantization
+10.1109/ISCAS45731.2020.9181121,A Playful Energy Harvesting Based Teaching Platform for Physical Computing,Author Keywords,arduino
+10.1109/ISCAS45731.2020.9181126,Ultra-Low Voltage 4-to-2 Compressors for Near-Vth Computing,Abstract,low-power 
+10.1109/ISCAS45731.2020.9181129,A Compact Low-Power Data Retention Flip-Flop with Easy-Sleep Mode,"Document Title, Abstract, Abstract","low-power , energy-efficient, energy consumption"
+10.1109/ISCAS45731.2020.9181134,Design and Characterization of Radiation-Hardened MCU for Space Application using Error Correction SRAM and Glitch Removal Clock Buffer Cell,Document Title,mcu
+10.1109/ISCAS45731.2020.9181136,Statistical Timing Model for Subthreshold Circuit with Correlated Variation Consideration,Abstract,low-power 
+10.1109/ISCAS45731.2020.9181144,A 1-nW 95-ppm/°C 260-mV Startup-Less Bandgap-Based Voltage Reference,Abstract,low-power 
+10.1109/ISCAS45731.2020.9181179,Low-Power and Area-Efficient Finite Field Multiplier Architecture Based on Irreducible All-One Polynomials,"Document Title, Abstract, Abstract","low-power , low-power , energy-efficient"
+10.1109/ISCAS45731.2020.9181180,Pros and Cons of ST and SIG FinFET Inverters for Low Power Designs,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS45731.2020.9181188,A New VLSI Architecture of Next-Generation QC-LDPC Decoder for 5G New-Radio Wireless-Communication Standard,Abstract,quantization
+10.1109/ISCAS45731.2020.9181209,An Energy-Efficient Flexible Capacitive Pressure Sensing System,"Document Title, Abstract, Abstract, Abstract","energy-efficient, low-power , energy-efficient, bnn"
+10.1109/ISCAS45731.2020.9181213,"DAPPER: A Low Power, Dual Amperometric and Potentiometric Single-Channel Front End",Abstract,low-power 
+10.1109/ISCAS45731.2020.9181231,Using Machine Learning for Person Identification through Physical Activities,Author Keywords,edge ai
+10.1109/ISCAS45731.2020.9181238,RL Based Network Accelerator Compiler for Joint Compression Hyper-Parameter Search,"Abstract, Abstract, IEEE Terms, IEEE Terms","quantization, pruning, quantization, energy consumption"
+10.1109/ISCAS45731.2020.9181240,Dynamically Generated Compact Neural Networks for Task Progressive Learning,Abstract,pruning
+10.1109/ISCAS45731.2020.9181242,A Gradient-Interleaved Scheduler for Energy-Efficient Backpropagation for Training Neural Networks,"Document Title, Abstract","energy-efficient, energy consumption"
+10.1109/ISCAS45731.2020.9181248,Energy-Efficient Pulse-Based Convolution for Near-Sensor Processing,"Document Title, Abstract, Abstract","energy-efficient, energy-efficient, energy consumption"
+10.1109/ISCAS45731.2020.9181257,Live Demonstration: Neuromorphic Sensory Integration for Combining Sound Source Localization and Collision Avoidance,Abstract,nas
+10.1109/ISCAS45731.2020.9181262,Live Demonstration: Vision-Based Real-Time Fall Detection System on Embedded System,"Abstract, Abstract, Author Keywords","pruning, raspberry pi, raspberry pi"
+10.1109/ISCAS45731.2020.9181265,Towards an Integrated Software Development Environment for Robotic Applications in MPSoCs with Support for Energy Estimations,Abstract,low-power 
+10.1109/ISCAS45731.2020.9181274,Using Reduced Graphs for Efficient HLS Scheduling,Abstract,memory usage
+10.1109/ISCAS45731.2020.9181287,FruitMeter: An AD5933-Based Portable Impedance Analyzer for Fruit Quality Characterization,Abstract,stm32
+10.1109/ISCAS45731.2020.9181300,Soil Moisture Assessment with a Waveguide Spectrometer,Abstract,mcu
+10.1109/ISCAS51556.2021.9401651,Discrete-Time MASH Delta-Sigma Modulator with Second-Order Digital Noise Coupling for Wideband High-Resolution Applications,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS51556.2021.9401440,Self-Powered Motion Tracking Sensor Integrated with Low-Power CMOS Circuitry,Document Title,low-power 
+10.1109/ISCAS51556.2021.9401423,"A 77.8-dB DR, 114.2 fJ/Step Amplifier-Less Current-to-Digital Converter",Abstract,low-power 
+10.1109/ISCAS51556.2021.9401338,A 5.9μW Ultra-Low-Power Dual-Resolution CIS Chip of Sensing-with-Computing for Always-on Intelligent Visual Devices,"Document Title, Abstract, Abstract, Author Keywords","low-power , low-power , bnn, bnn"
+10.1109/ISCAS51556.2021.9401676,Energy-Efficient Data Symbol Detection via Boosted Learning for Multi-Actuator Data Storage Systems,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS51556.2021.9401340,A 2-Then-1 Bit/Cycle Asynchronous SAR ADC with Background Offset Calibration,IEEE Terms,quantization
+10.1109/ISCAS51556.2021.9401257,Energy-Efficient Read-Out IC for High-Precision DC Measurement System with Instrumentation Amplifier Power Reduction Technique,Document Title,energy-efficient
+10.1109/ISCAS51556.2021.9401181,VSA: Reconfigurable Vectorwise Spiking Neural Network Accelerator,"Abstract, Abstract, IEEE Terms","inference time, energy consumption, energy consumption"
+10.1109/ISCAS51556.2021.9401489,Rapid Design Space Exploration of Near-Optimal Memory-Reduced DCNN Architecture Using Multiple Model Compression Techniques,"Document Title, Abstract, Author Keywords","model compression, memory-efficient, pruning"
+10.1109/ISCAS51556.2021.9401409,A DNN Optimization Framework with Unlabeled Data for Efficient and Accurate Reconfigurable Hardware Inference,"Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS51556.2021.9401751,An FPGA-Based Neural Network Overlay for ADAS Supporting Multi-Model and Multi-Mode,"Author Affiliations, Abstract","energy-efficient, memory usage"
+10.1109/ISCAS51556.2021.9401666,Recurrent Neural Network Circuit for Automated Detection of Atrial Fibrillation from Raw ECG,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS51556.2021.9401447,Multi-Core Power Management through Deep Reinforcement Learning,"Abstract, Abstract, IEEE Terms","low-power , energy consumption, energy consumption"
+10.1109/ISCAS51556.2021.9401090,A Readout Circuit with Current-Compensation-Based Extended-Counting ADC for 1024×768 Diode Uncooled Infrared Imagers,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401160,Prosthesis Control Using Spike Rate Coding in the Retina Photoreceptor Cells,Abstract,arduino
+10.1109/ISCAS51556.2021.9401085,Adaptive Input-to-Neuron Interlink Development in Training of Spike-Based Liquid State Machines,Abstract,energy-efficient
+10.1109/ISCAS51556.2021.9401448,Efficient Integer-Arithmetic-Only Convolutional Networks with Bounded ReLU,"Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS51556.2021.9401655,Cache Compression with Golomb-Rice Code and Quantization for Convolutional Neural Networks,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/ISCAS51556.2021.9401110,A Low-Power Quadrature LC-Oscillator Using Core-and-Coupling Current-Reuse,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS51556.2021.9401183,Spin-Orbit Torque Nonvolatile Flip-Flop Designs,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401608,SMT-Based Placement for System-on-Chip Design,Abstract,pruning
+10.1109/ISCAS51556.2021.9401726,A Low-Power Heart Rate Sensor with Adaptive Heartbeat Locked Loop,Document Title,low-power 
+10.1109/ISCAS51556.2021.9401187,Efficient Resource-Aware Neural Architecture Search with Dynamic Adaptive Network Sampling,"Document Title, Abstract, Abstract, Author Keywords","neural architecture search, neural architecture search, nas, nas"
+10.1109/ISCAS51556.2021.9401695,STT-MRAM Architecture with Parallel Accumulator for In-Memory Binary Neural Networks,"Document Title, Abstract","binary neural networks, bnn"
+10.1109/ISCAS51556.2021.9401269,Low Energy Domain Wall Memory Based Convolution Neural Network Design with Optimizing MAC Architecture,Abstract,energy consumption
+10.1109/ISCAS51556.2021.9401224,Low-Power and High-Throughput Approximated Architecture for AV1 FME Interpolation,Document Title,low-power 
+10.1109/ISCAS51556.2021.9401084,Low-Cost and Unobtrusive Respiratory Condition Monitoring Based on Raspberry Pi and Recurrent Neural Network,"Document Title, Abstract","raspberry pi, raspberry pi"
+10.1109/ISCAS51556.2021.9401399,High-Level Synthesis Implementation of Transform-Exempted SATD Architectures for Low-Power Video Coding,"Document Title, Author Keywords","low-power , low-power "
+10.1109/ISCAS51556.2021.9401690,Fractional-N Sub-Sampling PLL Using a Calibrated Delay Line for Phase Noise Cancellation,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401789,A 67-pJ/Bit 435-MHz 16-QAM Modulator for Capsule Endoscopy System with 18-ns Start-Up Using Transient DC Error Correction,"Abstract, Abstract, Author Keywords","low-power , duty cycling, duty cycling"
+10.1109/ISCAS51556.2021.9401499,Stacked Transconductance Boosting for Ultra-Low Power 2.4GHz RF Front-End Design,IEEE Terms,low-power 
+10.1109/ISCAS51556.2021.9401070,A Low-Power Edge-Combining Transmitter Using Quadrature Signals for FSK Modulation,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS51556.2021.9401600,A 40nm 1Mb 35.6 TOPS/W MLC NOR-Flash Based Computation-in-Memory Structure for Machine Learning,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS51556.2021.9401560,A New Neuromorphic Computing Approach for Epileptic Seizure Prediction,Abstract,energy-efficient
+10.1109/ISCAS51556.2021.9401431,An Energy Efficient Functional near Infrared Spectroscopy System Employing Spatial Adaptive Sampling Technique,"Abstract, Author Keywords","bnn, bnn"
+10.1109/ISCAS51556.2021.9401155,ReRAM-Sharing: Fine-Grained Weight Sharing for ReRAM-Based Deep Neural Network Accelerator,"Document Title, Abstract, Abstract","weight sharing, pruning, weight sharing"
+10.1109/ISCAS51556.2021.9401392,"VLC Modelization for VLC-PLC System: Evaluation of Optical, Electrical, and Frequency Behavior",Abstract,energy-efficient
+10.1109/ISCAS51556.2021.9401371,Optimal PAM Order for Wireline Communication,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS51556.2021.9401384,Hybrid In-Memory Computing Architecture for the Training of Deep Neural Networks,Abstract,memory-efficient
+10.1109/ISCAS51556.2021.9401293,Saturation RRAM Leveraging Bit-Level Sparsity Resulting from Term Quantization,"Document Title, Abstract, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS51556.2021.9401128,Circuit Techniques for Efficient Acceleration of Deep Neural Network Inference with Analog-AI (Invited),Abstract,energy-efficient
+10.1109/ISCAS51556.2021.9401171,Investigation of Dynamic Leakage-Suppression Logic Techniques Crossing Different Technology Nodes from 180 nm Bulk CMOS to 7 nm FinFET Plus Process,Abstract,energy-efficient
+10.1109/ISCAS51556.2021.9401163,High Energy-Efficient LDPC Decoder with AVFS System for NAND Flash Memory,Document Title,energy-efficient
+10.1109/ISCAS51556.2021.9401480,An Energy-Efficient Level Shifter Using Time Borrowing Technique for Ultra Wide Voltage Conversion from Sub-200mV to 3.0V,Document Title,energy-efficient
+10.1109/ISCAS51556.2021.9401199,Design of Energy-Efficient Gaussian Filters by Combining Refactoring and Approximate Adders,Document Title,energy-efficient
+10.1109/ISCAS51556.2021.9401283,"BN-254 Based Multi-Core, Multi-Pairing Crypto-Processor for Functional Encryption","Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS51556.2021.9401135,Secure Mutual Authentication and Key-Exchange Protocol between PUF-Embedded IoT Endpoints,"Abstract, Abstract","resource-constrained, low-power "
+10.1109/ISCAS51556.2021.9401106,Leak Detection and Location Pinpointing in Water Pipeline Systems Using a Wireless Sensor Network,"Abstract, Author Keywords","arduino, arduino"
+10.1109/ISCAS51556.2021.9401748,"Low Power, Dual Mode Bluetooth 5.1/Bluetooth Low Energy Receiver Design",Abstract,low-power 
+10.1109/ISCAS51556.2021.9401771,A Memory-Efficient Accelerator for DNA Sequence Alignment with Two-Piece Affine Gap Tracebacks,"Document Title, Abstract, Abstract","memory-efficient, memory-efficient, memory usage"
+10.1109/ISCAS51556.2021.9401075,Best Practices for Designing and Training Neural Networks Subjected to Random Variations,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401716,A Scalable Extreme Learning Machine (S-ELM) for Class-Incremental ECG-Based User Identification,Abstract,inference time
+10.1109/ISCAS51556.2021.9401511,A Delta-Sigma-Modulation Multi-Channel Network with Improved Noise-Shaping Characteristics,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS51556.2021.9401688,A 0.8mW 50kHz 94.6dB-SNDR Bootstrapping-Free SC Delta-Sigma Modulator ADC with Flicker Noise Cancellation,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401505,A 0.18 pJ/Step Time-Domain 1st Order ΔΣ Capacitance-to-Digital Converter in 65-nm CMOS,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS51556.2021.9401149,Tiny-FPU: Low-Cost Floating-Point Support for Small RISC-V MCU Cores,"Document Title, Abstract","mcu, mcu"
+10.1109/ISCAS51556.2021.9401508,An Energy-Efficient Logic Cell Library Design Methodology with Fine Granularity of Driving Strength for Near- and Sub-Threshold Digital Circuits,Document Title,energy-efficient
+10.1109/ISCAS51556.2021.9401383,A Power-Efficient and Fast-Locking Digital Quadrature Clock Generator with Ping-Pong Phase Detection,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401259,Design and Analysis of a Low-Power Ternary SRAM,Document Title,low-power 
+10.1109/ISCAS51556.2021.9401282,Robust and Energy-Efficient PPG-Based Heart-Rate Monitoring,"Document Title, Abstract, Abstract, Abstract","energy-efficient, neural architecture search, mcu, nas"
+10.1109/ISCAS51556.2021.9401564,Mixed-Precision Quantization and Parallel Implementation of Multispectral Riemannian Classification for Brain-Machine Interfaces,"Document Title, Abstract, Abstract, Abstract","quantization, low-power , energy-efficient, mcu"
+10.1109/ISCAS51556.2021.9401607,A 1.13μJ/Classification Spiking Neural Network Accelerator with a Single-Spike Neuron Model and Sparse Weights,IEEE Terms,quantization
+10.1109/ISCAS51556.2021.9401426,POPPINS: A Population-Based Digital Spiking Neuromorphic Processor with Integer Quadratic Integrate-and-Fire Neurons,"Abstract, Author Keywords","low-power , low-power "
+10.1109/ISCAS51556.2021.9401547,Ultra-High Compression of Twiddle Factor ROMs in Multi-Core DSP for FMCW Radars,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS51556.2021.9401449,Energy-Efficient Spin-Orbit Torque MRAM Operations for Neural Network Processor,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS51556.2021.9401064,Design-Technology Space Exploration for Energy Efficient AiMC-Based Inference Acceleration,Abstract,energy-efficient
+10.1109/ISCAS51556.2021.9401131,An Area-Efficient Word-Line Pitch-Aligned 8T SRAM Compatible Digital-to-Analog Converter,Abstract,energy-efficient
+10.1109/ISCAS51556.2021.9401444,A Multi-Rate Hybrid DT/CT Mash ΔΣ Modulator with High Tolerance to Noise Leakage,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS51556.2021.9401211,64-GS/s 6-Bit Track-and-Hold Circuit with More Than 61 GHz Bandwidth at 1.0 Vpp Input Voltage Swing in 90-nm SiGe BiCMOS Technology,Abstract,energy-efficient
+10.1109/ISCAS51556.2021.9401686,Impact of Quantization Noise Errors in FPGA Based WLAN Timing Synchronization with the Schmidl and Cox Algorithm,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/ISCAS51556.2021.9401366,Enhancing Wake-Up Receivers Reliability through Preamble Filtering and Minimum Energy Coding,IEEE Terms,low-power 
+10.1109/ISCAS51556.2021.9401552,Modified Joint Channel-and-Data Estimation for One-Bit Massive MIMO,Abstract,energy consumption
+10.1109/ISCAS51556.2021.9401461,BioCare: An Energy-Efficient CGRA for Bio-Signal Processing at the Edge,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS51556.2021.9401300,A 1D-CNN Based Deep Learning Technique for Sleep Apnea Detection in IoT Sensors,Abstract,pruning
+10.1109/ISCAS51556.2021.9401333,"Event-Driven ECG Classification Using an Open-Source, LC-ADC Based Non-Uniformly Sampled Dataset","Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS51556.2021.9401427,Resource and Energy Efficient Implementation of ECG Classifier Using Binarized CNN for Edge AI Devices,"Document Title, Abstract","edge ai, energy-efficient"
+10.1109/ISCAS51556.2021.9401142,An Adiabatic Regenerative Capacitive Artificial Neuron,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS51556.2021.9401103,Flexible Energy-Efficient Implementation of Adaptive Spiking Encoder for Neuromorphic Processors,Document Title,energy-efficient
+10.1109/ISCAS51556.2021.9401412,An FPGA Implementation of Convolutional Spiking Neural Networks for Radioisotope Identification,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401123,Accounting for Memristor I-V Non-Linearity in Low Power Memristive Amplifiers,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401231,Live Demonstration: Real-Time Multi-Hand Segmentation on Exhibition,Abstract,pruning
+10.1109/ISCAS51556.2021.9401241,"Live Demonstration: A 0.8V, 1.54 pJ / 940 MHz Dual Mode Logic-Based 16x16-Bit Booth Multiplier in 16-nm FinFET","Abstract, Abstract","energy-efficient, energy consumption"
+10.1109/ISCAS51556.2021.9401681,Live Demonstration: Event-Driven Physical Unclonable Function for Proactive Monitoring System by Dynamic Vision Sensor,Abstract,raspberry pi
+10.1109/ISCAS51556.2021.9401491,Live Demonstration: Energy-Efficient Data Symbol Detection Via Boosted Learning for Multi-Actuator Data Storage Systems,Document Title,energy-efficient
+10.1109/ISCAS51556.2021.9401107,NMLib: A Nanomagnetic Logic Standard Cell Library,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401245,Monolithic 3D SRAM Cell with Stacked Two-Dimensional Materials Based FETs at 2nm Node,Abstract,energy-efficient
+10.1109/ISCAS51556.2021.9401657,Adaptive Quantization Method for CNN with Computational-Complexity-Aware Regularization,"Document Title, Abstract, Abstract, Author Keywords, IEEE Terms","quantization, quantization, inference time, quantization, quantization"
+10.1109/ISCAS51556.2021.9401438,Knowledge Distillation Based on Positive-Unlabeled Classification and Attention Mechanism,Document Title,knowledge distillation
+10.1109/ISCAS51556.2021.9401451,Approximate Logic Synthesis in the Loop for Designing Low-Power Neural Network Accelerator,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS51556.2021.9401387,A Process Scalable Architecture for Low Noise Figure Sub-Sampling Mixer-First RF Front-End,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401309,Dynamic and Traffic-Aware Medium Access Control Mechanisms for Wireless NoC Architectures,Abstract,energy consumption
+10.1109/ISCAS51556.2021.9401790,Reinforcement Learning Enabled Routing for High-Performance Networks-on-Chip,Abstract,energy consumption
+10.1109/ISCAS51556.2021.9401457,A 1-μA-Quiescent-Current Capacitor-Less LDO Regulator with Adaptive Embedded Slew-Rate Enhancement Circuit,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401763,A 419pW Process-Invariant Temperature Sensor for Ultra-Low Power Microsystems,IEEE Terms,low-power 
+10.1109/ISCAS51556.2021.9401524,Spin Wave Based Full Adder,Abstract,energy consumption
+10.1109/ISCAS51556.2021.9401053,A Reconfigurable Arbiter PUF Based on STT-MRAM,Abstract,energy-efficient
+10.1109/ISCAS51556.2021.9401133,Transform-Based Feature Map Compression for CNN Inference,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS51556.2021.9401421,A Dense Tensor Accelerator with Data Exchange Mesh for DNN and Vision Workloads,Abstract,memory-efficient
+10.1109/ISCAS51556.2021.9401746,Design Framework for SRAM-Based Computing-In-Memory Edge CNN Accelerators,Abstract,energy consumption
+10.1109/ISCAS51556.2021.9401530,A Crossbar Array of Analog-Digital-Hybrid Volatile Memory Synapse Cells for Energy-Efficient On-Chip Learning,"Document Title, Abstract, Abstract","energy-efficient, energy-efficient, energy consumption"
+10.1109/ISCAS51556.2021.9401404,A Systematic Side-Channel Evaluation of Black Box AES in Secure MCU: Architecture Recovery and Retrieval of PUF Based Secret Key,Document Title,mcu
+10.1109/ISCAS51556.2021.9401226,Low-Power Memristor-Based Computing for Edge-AI Applications,Document Title,low-power 
+10.1109/ISCAS51556.2021.9401164,Learned Image Compression Using Adaptive Block-Wise Encoding and Reconstruction Network,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS51556.2021.9401556,Minimizing Energy of DNN Training with Adaptive Bit-Width and Voltage Scaling,IEEE Terms,energy consumption
+10.1109/ISCAS51556.2021.9401362,"H-Watch: An Open, Connected Platform for AI-Enhanced COVID19 Infection Symptoms Monitoring and Contact Tracing",Abstract,mcu
+10.1109/ISCAS51556.2021.9401620,Parametric Study of Performance of Remote Photopletysmography System,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401521,Model Optimization Method Based on Vertical Federated Learning,Document Title,model optimization
+10.1109/ISCAS51556.2021.9401381,Spatial and Channel Dimensions Attention Feature Transfer for Better Convolutional Neural Networks,"Abstract, Abstract","model compression, knowledge distillation"
+10.1109/ISCAS51556.2021.9401517,Exploiting Resiliency for Kernel-Wise CNN Approximation Enabled by Adaptive Hardware Design,"Abstract, Abstract, IEEE Terms","low-power , quantization, quantization"
+10.1109/ISCAS51556.2021.9401109,Data-Free Network Pruning for Model Compression,"Document Title, Document Title, Abstract, Abstract","model compression, pruning, model compression, pruning"
+10.1109/ISCAS51556.2021.9401108,"A 1-V, 5-Bit, 180-µW, Differential Pulse Position Modulation ADC in 65-nm CMOS Process","Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS51556.2021.9401590,A Bias-Flip Interface and Dual-Input DC-DC Converter for Piezoelectric and RF Energy Harvesting,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401542,Power Side-Channel Attack Detection through Battery Impedance Monitoring,Abstract,arduino
+10.1109/ISCAS51556.2021.9401474,A Switched-Capacitor Power Side-Channel Attack Detection Circuit in 65-nm CMOS,Abstract,energy-efficient
+10.1109/ISCAS51556.2021.9401154,Robustifying the Deployment of tinyML Models for Autonomous Mini-Vehicles,"Document Title, Abstract, Author Keywords","tinyml, low-power , tinyml"
+10.1109/ISCAS51556.2021.9401130,Iterative Multiple-Path One-Shot NAS for the Optimized Performance,"Document Title, Abstract, Author Keywords","nas, nas, nas"
+10.1109/ISCAS51556.2021.9401671,A K-Band Fractional-N PLL with Low-Spur Low-Power Linearization Circuit and PVT Robust Spur Trapper,"Document Title, Abstract, Author Keywords, IEEE Terms","low-power , quantization, quantization, quantization"
+10.1109/ISCAS51556.2021.9401295,LSTMs for Keyword Spotting with ReRAM-Based Compute-In-Memory Architectures,Document Title,keyword spotting
+10.1109/ISCAS51556.2021.9401699,Low-Power High Sensitive Capacitance Read-Out Circuit Using a-InGaZnO TFTs,Document Title,low-power 
+10.1109/ISCAS51556.2021.9401356,HSC: A Hybrid Spin/CMOS Logic Based In-Memory Engine with Area-Efficient Mapping Strategy,"Abstract, Abstract","binary neural networks, bnn"
+10.1109/ISCAS51556.2021.9401492,Beyond Arduino: A Guide for the Perplexed,"Document Title, Abstract, Abstract, Abstract","arduino, resource-constrained, low-power , arduino"
+10.1109/ISCAS51556.2021.9401368,Adaptive Real-Time Loop Closure Detection Based on Image Feature Concatenation,Abstract,real-time performance
+10.1109/ISCAS51556.2021.9401192,An Energy-Efficient Convolution Unit for Depthwise Separable Convolutional Neural Networks,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS51556.2021.9401549,TCP-Net: Minimizing Operation Counts of Binarized Neural Network Inference,"Abstract, Abstract, Author Keywords","pruning, bnn, pruning"
+10.1109/ISCAS51556.2021.9401214,ChewBaccaNN: A Flexible 223 TOPS/W BNN Accelerator,"Document Title, Abstract, Author Keywords","bnn, binary neural networks, binary neural networks"
+10.1109/ISCAS51556.2021.9401184,A 110pJ/Bit Star- 16QAM 915MHz Band Ultra-Low Power Receiver Based on Polar Architecture,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401715,A 75.3 pJ/b Ultra-Low Power MEMS-Based FSK Transmitter in ISM-915 MHz Band for Pico-IoT Applications,IEEE Terms,low-power 
+10.1109/ISCAS51556.2021.9401767,Implementing Efficient Balanced Networks with Mixed-Signal Spike-Based Learning Circuits,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401446,PCM-Trace: Scalable Synaptic Eligibility Traces with Resistivity Drift of Phase-Change Materials,IEEE Terms,low-power 
+10.1109/ISCAS51556.2021.9401331,Dynamic Range and Complexity Optimization of Mixed-Signal Machine Learning Systems,"Abstract, Author Keywords","keyword spotting, keyword spotting"
+10.1109/ISCAS51556.2021.9401249,Application of Cellular Neural Networks in Semantic Segmentation,Abstract,low-power 
+10.1109/ISCAS51556.2021.9401626,Extraction of Binarized Neural Network Architecture and Secret Parameters Using Side-Channel Information,Abstract,bnn
+10.1109/ISCAS51556.2021.9401529,A Compact Low-Power 140-GHz Low-Noise Amplifier with 19-dB Gain and 7-dB NF,Document Title,low-power 
+10.1109/ISCAS51556.2021.9401370,"A Temperature-Compensated 57 PPM/°C 10MHz, 2.4μW Stacked Ring Oscillator",Abstract,energy-efficient
+10.1109/ISCAS51556.2021.9401219,A 14GHz Cascade Differential-Capacitor-Based DCO with Resistor-Biased Buffer,"Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS51556.2021.9401324,An Energy-Efficient Binarized Neural Network Using Analog-Intensive Feature Extraction for Keyword and Speaker Verification Wakeup,"Document Title, Abstract, Author Keywords","energy-efficient, keyword spotting, keyword spotting"
+10.1109/ISCAS51556.2021.9401799,Developing a Miniature Energy-Harvesting-Powered Edge Device with Multi-Exit Neural Network,"Abstract, Abstract, IEEE Terms","low-power , energy consumption, energy consumption"
+10.1109/ISCAS51556.2021.9401682,Compact and Low-Power Under-Voltage Lockout and Thermal-Shutdown Protection Circuits Using a Novel Low-Iq All-in-One Bandgap Comparator,Document Title,low-power 
+10.1109/ISCAS51556.2021.9401565,A Computational Efficient Architecture for Extremely Sparse Stereo Network,Abstract,pruning
+10.1109/ISCAS51556.2021.9401342,"A 216 μW, 87% Accurate Cow Behavior Classifying Decision Tree on FPGA with Interpolated Arctan2",Abstract,quantization
+10.1109/ISCAS51556.2021.9401339,Efficient Quantization and Multi-Precision Design of Arithmetic Components for Deep Learning,"Document Title, Abstract, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS51556.2021.9401429,Efficient Machine Learning Algorithm for Embedded Tactile Data Processing,"Abstract, Author Keywords","inference time, embedded machine learning"
+10.1109/ISCAS51556.2021.9401730,Low-Power License Plate Detection and Recognition on a RISC-V Multi-Core MCU-Based Vision System,"Document Title, Document Title, Abstract, Abstract, Abstract","low-power , mcu, low-power , energy-efficient, mcu"
+10.1109/ISCAS51556.2021.9401097,An Ultra-Low-Voltage Energy-Efficient Dynamic Fully-Regenerative Latch-Based Level-Shifter Circuit with Tunnel-FET & FinFET Devices,"Document Title, Abstract, Abstract","energy-efficient, low-power , energy-efficient"
+10.1109/ISCAS51556.2021.9401719,Almost-Nonvolatile IGZO-TFT-Based Near-Sensor In-Memory Computing,Abstract,energy consumption
+10.1109/ISCAS48785.2022.9937769,A Fast Converging Correlation-Based Background Timing Skew Calibration Technique by Digital Windowing for Time-Interleaved ADCs,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS48785.2022.9937425,An Energy-Efficient CNN Accelerator for Multi-object Real-Time Semantic Segmentation in Autonomous Vehicle,"Document Title, Abstract, Abstract","energy-efficient, resource-constrained, energy-efficient"
+10.1109/ISCAS48785.2022.9937753,A Reconfigurable Depth-Wise Convolution Module for Heterogeneously Quantized DNNs,"Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS48785.2022.9937643,Hardware and Energy Efficiency Evaluation of NIST Lightweight Cryptography Standardization Finalists,"Abstract, Author Keywords","resource-constrained, resource-constrained"
+10.1109/ISCAS48785.2022.9937755,Energy Efficiency Enhancement Of Parallelized Implementation of NIST Lightweight Cryptography Standardization Finalists,"Abstract, Author Keywords, IEEE Terms","energy consumption, resource-constrained, energy consumption"
+10.1109/ISCAS48785.2022.9937772,A general tree-based machine learning accelerator with memristive analog CAM,Abstract,energy consumption
+10.1109/ISCAS48785.2022.9937948,SQNR-based Layer-wise Mixed-Precision Schemes with Computational Complexity Consideration,"Abstract, Abstract, IEEE Terms","on-device ai, quantization, quantization"
+10.1109/ISCAS48785.2022.9937488,An Inductor-Less RF Transmitter Using Harmonic-Rejection Edge Combiner with −40 dBc HD3 and −52 dBc HD5 for Low-Power Biomedical Applications,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS48785.2022.9937595,Improving the Precision of SORN Arithmetic by Introducing Fused Operations,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS48785.2022.9937590,An Open-source Three-Independent-Gate FET Standard Cell Library for Mixed Logic Synthesis,"Abstract, Abstract","low-power , energy consumption"
+10.1109/ISCAS48785.2022.9938003,An Adaptable Mixer-Enabled VCO-Based Edge Sensing Platform for Agile Pulse Monitoring,Abstract,low-power 
+10.1109/ISCAS48785.2022.9937215,Parallelizing Optical Flow Estimation on an Ultra-Low Power RISC-V Cluster for Nano-UAV Navigation,"Abstract, Abstract, IEEE Terms","resource-constrained, mcu, low-power "
+10.1109/ISCAS48785.2022.9937549,Hardware Implementation of Stochastic Computing-based Morphological Neural Systems,IEEE Terms,low-power 
+10.1109/ISCAS48785.2022.9938010,A 161.6 TOPS/W Mixed-mode Computing-in-Memory Processor for Energy-Efficient Mixed-Precision Deep Neural Networks,"Document Title, Abstract, Author Keywords","energy-efficient, energy-efficient, energy-efficient"
+10.1109/ISCAS48785.2022.9937651,A Fast Compressed Hardware Architecture for Deep Neural Networks,Author Keywords,pruning
+10.1109/ISCAS48785.2022.9937275,Improving Energy Efficiency of Convolutional Neural Networks on Multi-core Architectures through Run-time Reconfiguration,Abstract,low-power 
+10.1109/ISCAS48785.2022.9937336,Fundamental Limits on the Computational Accuracy of Resistive Crossbar-based In-memory Architectures,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS48785.2022.9937683,Video Decoder Improvements with Near-Data Speculative Motion Compensation Processing,Abstract,energy consumption
+10.1109/ISCAS48785.2022.9937584,ReverSearch: Search-based energy-efficient Processing-in-Memory Architecture,Document Title,energy-efficient
+10.1109/ISCAS48785.2022.9937234,Performance-aware Lightweight Dynamic Early-Exit-based Gait Authentication,Abstract,inference time
+10.1109/ISCAS48785.2022.9937472,Embedded Processing Pipeline Exploration For Neuromorphic Event Based Perceptual Systems,Abstract,energy consumption
+10.1109/ISCAS48785.2022.9937777,Complexity Reduction of Learned In-Loop Filtering in Video Coding,"Abstract, Author Keywords","pruning, pruning"
+10.1109/ISCAS48785.2022.9937909,A 2.45 GHz Dual-Path CMOS RF-to-DC Rectifier with 27 dB Input Range and −20.7 dBm Sensitivity,Abstract,low-power 
+10.1109/ISCAS48785.2022.9937679,Converter Topologies for On-Package Voltage Stacking,Abstract,energy consumption
+10.1109/ISCAS48785.2022.9937224,A Robust Hybrid CT/DT 0-2 MASH DSM with Passive Noise-Shaping SAR ADC,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS48785.2022.9937700,A 2-0 MASH Delta-Sigma ADC with sub-sampling SAR ADC,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS48785.2022.9937332,SCiMA: A Generic Single-Cycle Compute-in-Memory Acceleration Scheme for Matrix Computations,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS48785.2022.9937467,A 12TOPS/W Computing-in-Memory Accelerator for Convolutional Neural Networks,Abstract,energy consumption
+10.1109/ISCAS48785.2022.9938008,MinAC: Minimal-Area Approximate Compressor Design Based on Exact Synthesis for Approximate Multipliers,Abstract,energy-efficient
+10.1109/ISCAS48785.2022.9938013,A 4-bit Integer-Only Neural Network Quantization Method Based on Shift Batch Normalization,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/ISCAS48785.2022.9937576,A Non-conventional Sum-and-Max based Neural Network layer for Low Power Classification,"Abstract, Abstract","low-power , pruning"
+10.1109/ISCAS48785.2022.9937546,"A 0.5 V, 0.13 nW, 4-Transistor Over Temperature Protection Circuit for SoCs",Abstract,low-power 
+10.1109/ISCAS48785.2022.9937618,Selective Input Sparsity in Spiking Neural Networks for Pattern Classification,Abstract,inference time
+10.1109/ISCAS48785.2022.9937922,Ultra-Low-Power IoT 30nW 474mV 19 ppm/°C Voltage Reference and 2 nA 470 ppm/°C Current Reference,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS48785.2022.9937937,A Low-Power Half-Rate Charge-Steering Hybrid for Full-Duplex Chip-to-Chip Interconnects,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS48785.2022.9937733,Object Contact Shape Classification Using Neuromorphic Spiking Neural Network with STDP Learning,Abstract,raspberry pi
+10.1109/ISCAS48785.2022.9937826,Subthreshold CMOS Implementation of the Izhikevich Neuron Model,"Abstract, IEEE Terms","low-power , energy consumption"
+10.1109/ISCAS48785.2022.9937966,Physics-based modeling of a bi-layer Al₂O₃/Nb₂O₅ analog memristive device,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS48785.2022.9937207,Design Space Exploration of Dense and Sparse Mapping Schemes for RRAM Architectures,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS48785.2022.9937460,Triple-Mode Low-Power 20 Gb/s SST Driver for Short Reach Interconnects,Document Title,low-power 
+10.1109/ISCAS48785.2022.9937751,"A 78nW, 814mV/875nA All-in-One Voltage and Current Reference Using Darlington Pair",IEEE Terms,low-power 
+10.1109/ISCAS48785.2022.9937508,"Silicon-Proven Clockless Wave-Propagated Pipelining for High-Throughput, Energy-Efficient Processing",Document Title,energy-efficient
+10.1109/ISCAS48785.2022.9937273,Thermopyle-based contactless temperature sensors for low-power applications,"Document Title, Abstract","low-power , energy-efficient"
+10.1109/ISCAS48785.2022.9937694,Level Shifters for Charge Constrained Applications,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS48785.2022.9937825,A current-mode Σ△ modulator with FIR feedback and DC servo loop for an improved dynamic range,Abstract,quantization
+10.1109/ISCAS48785.2022.9938015,Reduce Computing Complexity of Deep Neural Networks Through Weight Scaling,"Abstract, Abstract, Abstract, Author Keywords, IEEE Terms","low-power , quantization, pruning, quantization, quantization"
+10.1109/ISCAS48785.2022.9937939,Wavelet Transform Assisted Neural Networks for Human Activity Recognition,Abstract,resource-constrained
+10.1109/ISCAS48785.2022.9937290,Histogram-Equalized Quantization for logic-gated Residual Neural Networks,"Document Title, Abstract, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS48785.2022.9937541,PRUNIX: Non-Ideality Aware Convolutional Neural Network Pruning for Memristive Accelerators,"Document Title, Abstract, Abstract, Author Keywords, IEEE Terms","pruning, quantization, pruning, pruning, quantization"
+10.1109/ISCAS48785.2022.9937469,Nyquist VCO-based ADC with Programmable Pulse Shaping Filter for Mitigation of Blockers,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS48785.2022.9937837,Privacy-preserving Social Distance Monitoring on Microcontrollers with Low-Resolution Infrared Sensors and CNNs,"Document Title, Abstract, Abstract, IEEE Terms","microcontrollers , mcu, energy consumption, quantization"
+10.1109/ISCAS48785.2022.9937436,Amplitude and Phase Estimation of Backscatter Tag-to-Tag Channel,Abstract,low-power 
+10.1109/ISCAS48785.2022.9937940,"Optimizing a Multispectral-Images-Based DL Model, Through Feature Selection, Pruning and Quantization","Document Title, Document Title, Abstract, Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms","quantization, pruning, quantization, pruning, inference time, quantization, pruning, quantization"
+10.1109/ISCAS48785.2022.9937294,SCOLAR: A Spiking Digital Accelerator with Dual Fixed Point for Continual Learning,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS48785.2022.9937449,An Efficient FPGA Implementation for Real-Time and Low-Power UAV Object Detection,Document Title,low-power 
+10.1109/ISCAS48785.2022.9937748,Structured and tiled-based pruning of Deep Learning models targeting FPGA implementations,"Document Title, Abstract, Abstract, Abstract, Author Keywords, IEEE Terms","pruning, model compression, quantization, pruning, pruning, quantization"
+10.1109/ISCAS48785.2022.9937816,Design of Cyclic-Coupled Ring Oscillators with Guaranteed Maximal Phase Resolution,IEEE Terms,quantization
+10.1109/ISCAS48785.2022.9937564,Non van-Neumann Anomaly Detection in Multi-Channel Time-Series using Charge Trap Transistor Crossbars,"Abstract, Abstract","resource-constrained, low-power "
+10.1109/ISCAS48785.2022.9937832,Optimization of DRAM based PIM Architecture for Energy-Efficient Deep Neural Network Training,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS48785.2022.9937872,Power-Aware Computing on GPGPU Systems Using ML Classification Techniques,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS48785.2022.9937864,A Scalable Single-Input-Multiple-Output DC/DC Converter with Enhanced Load Transient Response and Security for Low-Power SoCs,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS48785.2022.9937603,C-NMT: A Collaborative Inference Framework for Neural Machine Translation,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS48785.2022.9937612,Does Video Compression Impact Tracking Accuracy?,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS48785.2022.9937908,A 65nm Compute-In-Memory 7T SRAM Macro Supporting 4-bit Multiply and Accumulate Operation by Employing Charge Sharing,Abstract,energy-efficient
+10.1109/ISCAS48785.2022.9937319,AxLEAP: Enabling Low-Power Approximations Through Unified Power Format,Document Title,low-power 
+10.1109/ISCAS48785.2022.9937676,ConfAx: Exploiting Approximate Computing for Configurable FPGA CNN Acceleration at the Edge,IEEE Terms,energy consumption
+10.1109/ISCAS48785.2022.9937770,AxRSU: Approximate Radix-4 Squarer Unit,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS48785.2022.9937531,A Resource-Saving Energy-Efficient Reconfigurable Hardware Accelerator for BERT-based Deep Neural Network Language Models using FFT Multiplication,"Document Title, Abstract, Author Keywords","energy-efficient, resource-constrained, resource-constrained"
+10.1109/ISCAS48785.2022.9937605,Mitigating EM Side-Channel Attacks with Dynamic Delay Insertion and Data Bus Inversion,Abstract,energy-efficient
+10.1109/ISCAS48785.2022.9937874,An Adaptive ASIC for Closed-Loop Low-Power Pulse-Based Ultrasonic Data Transmission,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS48785.2022.9937840,Framework to Benchmark CNNs (FaBCNN) for Processing Real-Time HD Video Streams on FPGAs,Abstract,resource-constrained
+10.1109/ISCAS48785.2022.9937613,Tiny ci-SAR A/D Converter for Deep Neural Networks in Analog in-Memory Computation,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS48785.2022.9937514,Hybrid CMOS-RRAM Spiking CNNs with Time-Domain Max-pooling and Integrator Re-use,Abstract,energy-efficient
+10.1109/ISCAS48785.2022.9937567,Efficient Fine-Tuning of BERT Models on the Edge,"Abstract, Abstract, Abstract","resource-constrained, memory-efficient, memory usage"
+10.1109/ISCAS48785.2022.9937447,Super-Regenerative Receiver for OFDM Communication,Author Keywords,low-power 
+10.1109/ISCAS48785.2022.9937253,Low-Power Low-Data-rate Wireless PPM Receiver Based on 13-Bits Barker Coded SAW Correlator with Scalable Data-rate and Sensitivity,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS48785.2022.9937312,A 36pW CMOS Voltage Reference With Independent TC and Output Level Calibration for Miniature Low-Power Systems,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS48785.2022.9937316,A 156pW Gate-Leakage Based Voltage/Current Reference for Low-Power IoT Systems,Document Title,low-power 
+10.1109/ISCAS48785.2022.9937943,A Multilevel N-Path Filter Topology for Low-Power Sinusoidal Clocking with Non-Overlapping Phases,Document Title,low-power 
+10.1109/ISCAS48785.2022.9937660,UCViT: Hardware-Friendly Vision Transformer via Unified Compression,"Abstract, Abstract, IEEE Terms, IEEE Terms","quantization, energy consumption, quantization, energy consumption"
+10.1109/ISCAS48785.2022.9937506,Characterization of Sub-Nyquist TIA with Equalization in Optical Receivers,Abstract,energy-efficient
+10.1109/ISCAS48785.2022.9937640,Redundancy Pruning for Binary Hyperdimensional Computing Architectures,"Document Title, Abstract, Abstract, Author Keywords","pruning, pruning, energy-efficient, pruning"
+10.1109/ISCAS48785.2022.9937459,A Compact Online-Learning Spiking Neuromorphic Biosignal Processor,Abstract,low-power 
+10.1109/ISCAS48785.2022.9937875,Improving Spiking Neural Network Accuracy Using Time-based Neurons,Abstract,low-power 
+10.1109/ISCAS48785.2022.9937985,Energy-Efficient Intelligent Pulmonary Auscultation for Post COVID-19 Era Wearable Monitoring Enabled by Two-Stage Hybrid Neural Network,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS48785.2022.9937572,Multi-Robot Formation Control using Collective Behavior Model and Reinforcement Learning,Abstract,energy-efficient
+10.1109/ISCAS48785.2022.9937881,Safety Assurance System for Electric Vehicles Based on Infrared LiDAR,Abstract,mcu
+10.1109/ISCAS48785.2022.9937282,Short Floating-Point CNN Accelerator for Brain-Computer Interface to Decode Visual Information,Author Keywords,quantization
+10.1109/ISCAS48785.2022.9937323,SaleNet: A low-power end-to-end CNN accelerator for sustained attention level evaluation using EEG,"Document Title, Abstract, Abstract, Abstract, Author Keywords, IEEE Terms","low-power , model compression, quantization, pruning, model compression, quantization"
+10.1109/ISCAS48785.2022.9937295,A Nano-power Wake-up Circuit for Energy-driven IoT Applications,Abstract,low-power 
+10.1109/ISCAS48785.2022.9937827,An Always-On tinyML Acoustic Classifier for Ecological Applications,"Document Title, Author Keywords","tinyml, tinyml"
+10.1109/ISCAS48785.2022.9937621,A Compact Low-Noise Digital Pixel with 15-bit Two-Step PFM-based ADC for IRFPAs,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS48785.2022.9937293,tinyRadar: mmWave Radar based Human Activity Classification for Edge Computing,"Abstract, Author Keywords, Author Keywords","cmsis-nn, tinyml, cmsis-nn"
+10.1109/ISCAS48785.2022.9937760,"A 1800μm2, 953Gbps/W AES Accelerator for IoT Applications in 40nm CMOS","Abstract, Author Keywords","energy-efficient, energy-efficient"
+10.1109/ISCAS48785.2022.9937415,Towards Task-aware Signal Compression for Efficient Continuous Health Monitoring,Author Keywords,low-power 
+10.1109/ISCAS48785.2022.9937904,An Energy-Efficient YOLO Accelerator Optimizing Filter Switching Activity,"Document Title, Abstract","energy-efficient, memory-efficient"
+10.1109/ISCAS48785.2022.9937757,A Digital-Control Buck Converter with Dual Pulse-Skipping Modes for Internet of Things,Abstract,low-power 
+10.1109/ISCAS48785.2022.9937851,Impact of Sheet Width and Silicon Height in 3D Stacked Nanosheet GAA Transistor Technology,Abstract,energy consumption
+10.1109/ISCAS48785.2022.9937509,A Reconfigurable 8T SRAM Macro for Bit-Parallel Searching and Computing In-Memory,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS48785.2022.9938016,A Current-Injection-Based Flying Capacitor Balancing Circuit for Three-Level DC-DC Converter,IEEE Terms,quantization
+10.1109/ISCAS48785.2022.9937211,A Low-Input Capacitance 12-bit SAR ADC for use in Self-Powered IoT Nodes,Abstract,low-power 
+10.1109/ISCAS48785.2022.9937630,A 3bit/cycle 1GS/s 8-bit SAR ADC Employing Asynchronous Ping-Pong Quantization Scheme,"Document Title, Abstract, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS48785.2022.9937315,"0.08mm2 128nW MFCC Engine for Ultra-low Power, Always-on Smart Sensing Applications","Abstract, IEEE Terms","keyword spotting, low-power "
+10.1109/ISCAS48785.2022.9937756,An Event-Driven Compressive Neuromorphic System for Cardiac Arrhythmia Detection,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS48785.2022.9937240,An Alignment-Based Hardware Accelerator for Rapid Prediction of RNA Secondary Structures,Abstract,memory usage
+10.1109/ISCAS48785.2022.9937251,Zero-crossing-prediction-based Single-slope ADC with a Constant Charge Bias Amplifier for Low Power Image Sensors,Abstract,low-power 
+10.1109/ISCAS48785.2022.9937266,An Efficient Hardware Architecture for DNN Training by Exploiting Triple Sparsity,"Abstract, Abstract","low-power , pruning"
+10.1109/ISCAS48785.2022.9937206,A 11.6μ W Computing-on-Memory-Boundary Keyword Spotting Processor with Joint MFCC-CNN Ternary Quantization,"Document Title, Document Title, Abstract, Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms","quantization, keyword spotting, low-power , quantization, keyword spotting, quantization, keyword spotting, quantization"
+10.1109/ISCAS48785.2022.9937843,A High Resolution Chemical Sensing Front-end with Integrated Sigma Delta Quantisation,IEEE Terms,quantization
+10.1109/ISCAS48785.2022.9937283,Mixed-Precision Quantization of U-Net for Medical Image Segmentation,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/ISCAS48785.2022.9937792,Edge Computation-in-Memory for In-situ Class-incremental Learning with Knowledge Distillation,"Document Title, Abstract, Abstract, Author Keywords","knowledge distillation, not available, knowledge distillation, knowledge distillation"
+10.1109/ISCAS48785.2022.9937271,Recovering Accuracy of RRAM-based CIM for Binarized Neural Network via Chip-in-the-loop Training,Abstract,bnn
+10.1109/ISCAS48785.2022.9937781,Compute-In-Memory Using 6T SRAM for a Wide Variety of Workloads,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS48785.2022.9937538,PSCNN: A 885.86 TOPS/W Programmable SRAM-based Computing-In-Memory Processor for Keyword Spotting,"Document Title, Abstract","keyword spotting, keyword spotting"
+10.1109/ISCAS48785.2022.9937544,Automated Quantization Range Mapping for DAC/ADC Non-linearity in Computing-In-Memory,"Document Title, Abstract, Abstract, IEEE Terms","quantization, low-power , quantization, quantization"
+10.1109/ISCAS48785.2022.9937849,Efficient Neural Networks with Spatial Wise Sparsity Using Unified Importance Map,"Abstract, Author Keywords","pruning, pruning"
+10.1109/ISCAS48785.2022.9937625,Two-Stage Energy Efficiency Optimization of Switched-Capacitor Converters for IoT Systems,Abstract,energy consumption
+10.1109/ISCAS48785.2022.9937645,An Automated Compiler for RISC-V Based DNN Accelerator,"Abstract, Author Keywords","tvm, tvm"
+10.1109/ISCAS48785.2022.9937743,Algorithm-Hardware Co-Optimization for Cost-Efficient ML-based ISP Accelerator,Abstract,energy consumption
+10.1109/ISCAS48785.2022.9937510,An Ultra Energy Efficient Streaming-based FPGA Accelerator for Lightweight Neural Network,Abstract,resource-constrained
+10.1109/ISCAS48785.2022.9937836,Triplet Confidence for Robust Out-of-vocabulary Keyword Spotting,"Document Title, Abstract, Author Keywords","keyword spotting, keyword spotting, keyword spotting"
+10.1109/ISCAS48785.2022.9937924,Efficient Search for Efficient Architecture,"Abstract, Author Keywords, Author Keywords","pruning, pruning, neural architecture search"
+10.1109/ISCAS48785.2022.9937233,A QP-adaptive Mechanism for CNN-based Filter in Video Coding,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS48785.2022.9937421,Mixed-Signal Integrated Circuit for Direct Raised-Cosine Filter Waveform Synthesis of Digital Signals up to 24 GS/s in 22 nm FD-SOI CMOS Technology,Abstract,low-power 
+10.1109/ISCAS48785.2022.9937754,SAT-based Scheduling Algorithm for High-level Synthesis Considering Resource Sharing,Abstract,pruning
+10.1109/ISCAS48785.2022.9937828,HPSW-CIM: A Novel ReRAM-Based Computing-in-Memory Architecture with Constant-Term Circuit for Full Parallel Hybrid-Precision-Signed-Weight MAC Operation,"Abstract, Abstract","edge ai, low-power "
+10.1109/ISCAS48785.2022.9937292,Analog-memory-based 14nm Hardware Accelerator for Dense Deep Neural Networks including Transformers,Abstract,energy-efficient
+10.1109/ISCAS48785.2022.9937272,SNNIM: A 10T-SRAM based Spiking-Neural-Network-In-Memory architecture with capacitance computation,Abstract,energy consumption
+10.1109/ISCAS48785.2022.9937639,A Lightweight Spiking GAN Model for Memristor-centric Silicon Circuit with On-chip Reinforcement Adversarial Learning,Abstract,energy-efficient
+10.1109/ISCAS48785.2022.9937285,A 3-8bit Reconfigurable Hybrid ADC Architecture with Successive-approximation and Single-slope Stages for Computing in Memory,IEEE Terms,quantization
+10.1109/ISCAS48785.2022.9937269,Analog Image Denoising with an Adaptive Memristive Crossbar Network,Abstract,energy consumption
+10.1109/ISCAS48785.2022.9937284,Unstructured Weight Pruning in Variability-Aware Memristive Crossbar Neural Networks,"Document Title, Abstract, Abstract, Author Keywords, IEEE Terms","pruning, pruning, energy consumption, pruning, quantization"
+10.1109/ISCAS48785.2022.9937521,An Event-driven Spiking Neural Network Accelerator with On-chip Sparse Weight,Abstract,energy-efficient
+10.1109/ISCAS48785.2022.9937529,Quantified Satisfiability-based Simultaneous Selection of Multiple Local Approximate Changes under Maximum Error Bound,Abstract,low-power 
+10.1109/ISCAS48785.2022.9937714,TDPRO: Ultra-low Power ECG Processor with High-Precision Time-Domain Computing Engine,Abstract,low-power 
+10.1109/ISCAS48785.2022.9937317,Design of Variable Bit-Width Arithmetic Unit Using Single Flux Quantum Device,Abstract,low-power 
+10.1109/ISCAS48785.2022.9937461,Bionic Robust Memristor-Based Artificial Nociception System for Robotics,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS46773.2023.10181651,Improved Toolchain-Compatible Standard Cells with 5% - 36% Lower EDP for Super Threshold Operation in 65nm Low-Power CMOS Technology,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS46773.2023.10181473,"An 18.5nW, 62.9dB PSRR, Switched-Capacitor Bandgap Voltage Reference using Low Power Clock Generator Circuit for Biomedical Applications",Abstract,low-power 
+10.1109/ISCAS46773.2023.10182131,A User-Friendly Fast and Accurate Simulation Framework for Non-Ideal Factors in Computing-in-Memory Architecture,Abstract,energy-efficient
+10.1109/ISCAS46773.2023.10181357,tuGEMM: Area-Power-Efficient Temporal Unary GEMM Architecture for Low-Precision Edge AI,Document Title,edge ai
+10.1109/ISCAS46773.2023.10181759,1.7pJ/SOP Neuromorphic Processor with Integrated Partial Sum Routers for In-Network Computing,Abstract,energy-efficient
+10.1109/ISCAS46773.2023.10181550,A Low-Power Sample-and-Hold Programmable Voltage Reference Based on Ripple Monitoring,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS46773.2023.10181706,Ultra-Lightweight CNN Based Fast Intra Prediction for VVC Screen Content Coding,Abstract,pruning
+10.1109/ISCAS46773.2023.10182122,Thermal-Induced Multi-State Memristors for Neuromorphic Engineering,"Abstract, Abstract","energy-efficient, energy consumption"
+10.1109/ISCAS46773.2023.10181647,MADS-based fast FPGA implementation of nonlinear model predictive control,IEEE Terms,quantization
+10.1109/ISCAS46773.2023.10181440,A Min-Heap-Based Accelerator for Deterministic On-the-Fly Pruning in Neural Networks,"Document Title, Abstract, Author Keywords","pruning, pruning, pruning"
+10.1109/ISCAS46773.2023.10181465,Hardware-efficient Softmax Approximation for Self-Attention Networks,Abstract,pruning
+10.1109/ISCAS46773.2023.10181800,Machine Learning Based Flip-Flop Grouping for Toggling Driven Clock Gating,"Abstract, Author Keywords","memory usage, low-power "
+10.1109/ISCAS46773.2023.10181765,An aggregator-less distributed smart sensor network with selective data exchange,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS46773.2023.10181505,Open the box of digital neuromorphic processor: Towards effective algorithm-hardware co-design,"Abstract, Abstract, IEEE Terms","energy-efficient, energy consumption, energy consumption"
+10.1109/ISCAS46773.2023.10181365,A Coupled Oscillator Network to Solve Combinatorial Optimization Problems with Over 95% Accuracy,"Abstract, Abstract, IEEE Terms","energy-efficient, energy consumption, energy consumption"
+10.1109/ISCAS46773.2023.10181790,An Energy-Efficient Asynchronous Hybrid-Searching Algorithm for Auto Frequency Calibration in IEEE 802.11ax Applications,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS46773.2023.10181417,A 3.11 μW 40 nV/ √Hz Instrumentation Amplifier for Bio-Impedance Sensors Exploiting Positive-Feedback-Assisted Gain Boosting,Abstract,low-power 
+10.1109/ISCAS46773.2023.10181595,A 15-nW 14-ppm/°C 1.18 V startup-less bandgap-based voltage regulator,Abstract,low-power 
+10.1109/ISCAS46773.2023.10182145,Unified Accelerator for Attention and Convolution in Inference Based on FPGA,Abstract,energy-efficient
+10.1109/ISCAS46773.2023.10181695,An Adaptive Quantization Method for CNN Activations,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/ISCAS46773.2023.10181639,Skip-ST: Anomaly Detection for Medical Images Using Student-Teacher Network with Skip Connections,"Abstract, Author Keywords","knowledge distillation, knowledge distillation"
+10.1109/ISCAS46773.2023.10182197,A 1.97 TFLOPS/W Configurable SRAM-Based Floating-Point Computation-in-Memory Macro for Energy-Efficient AI Chips,"Document Title, Abstract, Abstract","energy-efficient, low-power , energy-efficient"
+10.1109/ISCAS46773.2023.10181602,An Area-Efficient Ultra-Low-Power Time-Domain Feature Extractor for Edge Keyword Spotting,"Document Title, Document Title, Abstract, Abstract, Author Keywords","low-power , keyword spotting, low-power , keyword spotting, keyword spotting"
+10.1109/ISCAS46773.2023.10181881,"A 162nW, 0.845pJ/step Resistance-to-Digital Converter for Miniature Battery-Powered Sensing Systems",Abstract,low-power 
+10.1109/ISCAS46773.2023.10181940,Energy-Efficient Short-Time Fourier Transform for Partial Window Overlapping,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS46773.2023.10182117,A 2.3nW Gate-Leakage Based Sub-Bandgap Voltage Reference with Line Sensitivity of 0.0066%/V from −40°C to 150°C for Low-Power IoT Systems,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS46773.2023.10181631,RepSGD: Channel Pruning Using Reparamerization for Accelerating Convolutional Neural Networks,"Document Title, Abstract, Author Keywords","pruning, pruning, pruning"
+10.1109/ISCAS46773.2023.10181895,A/D Alleviator: Reducing Analog-to-Digital Conversions in Compute-In-Memory with Augmented Analog Accumulation,"Abstract, Abstract, IEEE Terms","quantization, energy-efficient, quantization"
+10.1109/ISCAS46773.2023.10181632,A $197-\mu\mathrm{W}\ 2.4-GHz$ Third-Harmonic Receiver with Enhanced Out-of-band Rejection for IEEE 802.11ba,"Abstract, IEEE Terms","low-power , low-power "
+10.1109/ISCAS46773.2023.10181582,Edge FPGA-based Onsite Neural Network Training,Abstract,energy-efficient
+10.1109/ISCAS46773.2023.10181328,A 129.83 TOPS/W Area Efficient Digital SOT/STT MRAM-Based Computing-In-Memory for Advanced Edge AI Chips,"Document Title, Abstract","edge ai, edge ai"
+10.1109/ISCAS46773.2023.10182191,A Low-power ASK Demodulator for Wireless Power and Data Transfer Systems Supporting Ultra-low Modulation Depth of 0.03%,Document Title,low-power 
+10.1109/ISCAS46773.2023.10181451,A 1T1R+2T Analog Content-Addressable Memory Pixel for Online Template Matching,Abstract,energy-efficient
+10.1109/ISCAS46773.2023.10182049,A Two-Phase Linear-Exponential Incremental ADC with Second-order Noise Coupling,Abstract,quantization
+10.1109/ISCAS46773.2023.10181366,Two-Layered Oscillatory Neural Networks with Analog Feedforward Majority Gate for Image Edge Detection Application,Abstract,edge ai
+10.1109/ISCAS46773.2023.10181378,Energy-Efficient Stochastic Computing for Convolutional Neural Networks by Using Kernel-wise Parallelism,"Document Title, Abstract, IEEE Terms","energy-efficient, energy consumption, energy consumption"
+10.1109/ISCAS46773.2023.10181705,Initial Condition-Dependent Spur Pattern Induced by Undithered MASH DDSM Divider Controller,IEEE Terms,quantization
+10.1109/ISCAS46773.2023.10181919,An Electrode-Impedance-Aware Neurostimulator ASIC That Achieves Low-Power Consumption and Fast Charge Balancing,Document Title,low-power 
+10.1109/ISCAS46773.2023.10181778,"Empirical study on the efficiency of Spiking Neural Networks with axonal delays, and algorithm-hardware benchmarking",Abstract,energy consumption
+10.1109/ISCAS46773.2023.10181694,Training Acceleration of Frequency Domain CNNs Using Activation Compression,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS46773.2023.10182159,A Systolic Array Architecture for SVM Classifier for Machine Learning on Embedded Devices,Abstract,resource-constrained
+10.1109/ISCAS46773.2023.10181615,A $2.53 \mu \mathrm{W}/\text{channel}$ Event-Driven Neural Spike Sorting Processor with Sparsity-Aware Computing-In-Memory Macros,Abstract,low-power 
+10.1109/ISCAS46773.2023.10181350,High-Performance/Low-Area Power-Gating Switch Linear Array for Energy-Efficient LSIs with an Optimum Switch-Timing Control,"Document Title, Abstract, Author Keywords","energy-efficient, energy-efficient, energy-efficient"
+10.1109/ISCAS46773.2023.10181596,A 110nW Always-on Keyword Spotting Chip using Spiking CNN in 40nm CMOS,"Document Title, Abstract, Abstract, Abstract, Author Keywords, IEEE Terms","keyword spotting, quantization, keyword spotting, artificial intelligence of things, keyword spotting, low-power "
+10.1109/ISCAS46773.2023.10181827,More AddNet: A deeper insight into DNNs using FPGA-optimized multipliers,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS46773.2023.10182121,A 88%-Peak-Efficiency 10-mV-Voltage-Ripple Dual-Mode Switched-Capacitor DC-DC Converter for Ultra-Low-Power Battery Management,"Document Title, Abstract, Author Keywords","low-power , low-power , low-power "
+10.1109/ISCAS46773.2023.10181974,Sparsity Through Spiking Convolutional Neural Network for Audio Classification at the Edge,"Abstract, Abstract, IEEE Terms","quantization, energy-efficient, quantization"
+10.1109/ISCAS46773.2023.10181862,ECHOES: a 200 GOPS/W Frequency Domain SoC with FFT Processor and I2S DSP for Flexible Data Acquisition from Microphone Arrays,Abstract,low-power 
+10.1109/ISCAS46773.2023.10181950,TinyML for EEG Decoding on Microcontrollers,"Document Title, Abstract, Abstract, Abstract","tinyml, low-power , neural architecture search, nas"
+10.1109/ISCAS46773.2023.10181761,Data-Driven Offline Optimization of Deep CNN models for EEG and ECoG Decoding,Author Keywords,nas
+10.1109/ISCAS46773.2023.10181925,Low Power Hardware Architecture for Sampling-free Bayesian Neural Networks inference,Abstract,bnn
+10.1109/ISCAS46773.2023.10181938,Reconfigurable Intelligent Surfaces: Field Trial Campaign for Performance Evaluation from Near-to Far-Field Regions,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS46773.2023.10181746,"A TinyML based Portable, Low-Cost Microwave Head Imaging System for Brain Stroke Detection","Document Title, Abstract, Abstract, Abstract, Author Keywords","tinyml, tinyml, quantization, pruning, tinyml"
+10.1109/ISCAS46773.2023.10181763,A Modified Bat Algorithm with Reduced Search Space Exploration for MPPT under Dynamic Partial Shading Conditions,Abstract,low-power 
+10.1109/ISCAS46773.2023.10181425,Background Inhibition for Drift Compensation using Neuromorphic ISFET Arrays,IEEE Terms,low-power 
+10.1109/ISCAS46773.2023.10181952,A Metastability Inference and Avoidance Technique for Near-Threshold-Voltage Network-on-Chip,Abstract,low-power 
+10.1109/ISCAS46773.2023.10181727,Ultra-low Power Current Comparator,IEEE Terms,low-power 
+10.1109/ISCAS46773.2023.10182002,An Information-Aware Adaptive Data Acquisition System using Level-Crossing ADC with Signal-Dependent Full Scale and Adaptive Resolution for IoT Applications,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS46773.2023.10181420,A Reconfigurable 1T1C eDRAM-based Spiking Neural Network Computing-In-Memory Processor for High System-Level Efficiency,Abstract,low-power 
+10.1109/ISCAS46773.2023.10181402,FPCIM: A Fully-Parallel Robust ReRAM CIM Processor for Edge AI Devices,Document Title,edge ai
+10.1109/ISCAS46773.2023.10181932,A 860.8-nW Low-Power Continuous-Time Delta-Sigma Modulator With Switched Resistors for Sensor Applications,"Document Title, Abstract, Author Keywords","low-power , low-power , low-power "
+10.1109/ISCAS46773.2023.10181993,A Sub-$100\ \mu\mathrm{W}$ RF Transmitter with 41% Global Efficiency Using Third-Harmonic Edge-Combining Technique and Class-E PA for Low-Power Biomedical Applications,Document Title,low-power 
+10.1109/ISCAS46773.2023.10181580,A Subthreshold-Inverter-Based Strong PUF with High Reliability and Energy Efficiency,"Abstract, Abstract","energy-efficient, energy consumption"
+10.1109/ISCAS46773.2023.10181603,A Multi-Pixel Compression for Low-Power Imaging System and Architecture,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS46773.2023.10182130,A Programmable Differential Bandgap Reference for Ultra-Low-Power IoT Edge Node Devices,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS46773.2023.10182093,A Low-Power Neuromorphic CMOS Delta-Sigma Modulator Featuring Tunable Background Attenuation and Potentiostatic Asynchronous Readout for Smart Amperometric Electrochemical Sensors,"Document Title, Abstract, Abstract, IEEE Terms","low-power , quantization, energy-efficient, quantization"
+10.1109/ISCAS46773.2023.10181432,A Spiking Neural Network Accelerator based on Ping-Pong Architecture with Sparse Spike and Weight,Abstract,low-power 
+10.1109/ISCAS46773.2023.10181412,Live and low energy VVC Video Decoding powered by the OpenVVC Decoder on ARM Platform,Abstract,energy consumption
+10.1109/ISCAS46773.2023.10181654,A 61 mHz - 3.4 Hz High-pass Capacitively Coupled Analog Frontend with Tunnelling Biasing and Output DC Servo Loop,Abstract,low-power 
+10.1109/ISCAS46773.2023.10181985,Quark: An Integer RISC-V Vector Processor for Sub-Byte Quantized DNN Inference,Author Keywords,quantization
+10.1109/ISCAS46773.2023.10181719,"An Energy-Efficient, Scalable Neural Stimulation IC with Adaptive Dynamic Voltage Switching for Cochlear Implant System","Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS46773.2023.10181356,Design of a Sleep Modulation System with FPGA-Accelerated Deep Learning for Closed-loop Stage-Specific In-Phase Auditory Stimulation,"Abstract, Abstract, IEEE Terms","low-power , quantization, quantization"
+10.1109/ISCAS46773.2023.10181556,Impact of interconnects enhancement on SRAM design beyond 5nm technology node,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS46773.2023.10181655,Auto-LUT: Auto Approximation of Non-Linear Operations for Neural Networks on FPGA,"Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS46773.2023.10181592,A Low-Power Remote Identification Module for Drones,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS46773.2023.10181953,Selective Binarization based Architecture Design Methodology for Resource-constrained Computation of Deep Neural Networks,"Document Title, Abstract","resource-constrained, resource-constrained"
+10.1109/ISCAS46773.2023.10181998,Event-based Classification with Recurrent Spiking Neural Networks on Low-end Micro-Controller Units,"Abstract, Abstract, Abstract, Abstract, IEEE Terms","resource-constrained, low-power , mcu, energy consumption, energy consumption"
+10.1109/ISCAS46773.2023.10182071,A Single Capacitor-Based Offset Reduction Technique for Energy-Efficient Dynamic Comparators,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS46773.2023.10181834,A Threshold Voltage Generator Circuit with Automatic Refresh and Dynamic Updating for Ultra-Low-Power Continuous-Time Comparators,"Document Title, Abstract","low-power , energy consumption"
+10.1109/ISCAS46773.2023.10181809,"MANIC: A $19\mu\mathrm{W}$ @ 4MHz, 256 MOPS/mW, RISC-V microcontroller with embedded MRAM main memory and vector-dataflow co-processor in 22nm bulk finFET CMOS","Abstract, Abstract, Abstract","low-power , energy-efficient, mcu"
+10.1109/ISCAS46773.2023.10181921,GERALT: Real-time Detection of Evasion Attacks in Deep Learning Systems,Abstract,resource-constrained
+10.1109/ISCAS46773.2023.10182025,Fast and Accurate Detection of Audio Adversarial Examples,Abstract,keyword spotting
+10.1109/ISCAS46773.2023.10181474,Ultra Wideband Low Noise N-path Direct Conversion Receiver for 5G-advanced and 6G Wireless System,Abstract,low-power 
+10.1109/ISCAS46773.2023.10182186,Resource-efficient Face Detector Using 1.5-bit Frame-to-frame Delta Quantization for Image Based Always-on Wake-up Application,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/ISCAS46773.2023.10182024,A 0.98 pJ/Cycle 3.7 ppm Long-Term Stability Frequency-Locked Oscillator with Switched-Capacitor and Switched-Resistor Techniques,Abstract,energy-efficient
+10.1109/ISCAS46773.2023.10181358,Multi-Scale Dynamic Fixed-Point Quantization and Training for Deep Neural Networks,"Document Title, Abstract, Abstract, Author Keywords, IEEE Terms","quantization, quantization, pruning, quantization, quantization"
+10.1109/ISCAS46773.2023.10181914,A Low-Power Oscillatory Feature Extraction Unit for Implantable Neural Interfaces,Document Title,low-power 
+10.1109/ISCAS46773.2023.10181609,SS-AXI: Secure and Safe Access Control Mechanism for Multi-Tenant Cloud FPGAs,Abstract,energy-efficient
+10.1109/ISCAS46773.2023.10181740,Edge Computing-based Adaptive Machine Learning Model for Dynamic IoT Environment,Abstract,resource-constrained
+10.1109/ISCAS46773.2023.10181824,An Integrated Circuit of A Cold Start-up Circuit for A Thermoelectric Energy Harvesting System,Abstract,low-power 
+10.1109/ISCAS46773.2023.10181851,A 16/32-Gb/s/pin Dual-Mode Single-Ended Transmitter with Pre-Emphasis FFE and RLM-Enhanced ZQ Calibration for Memory Interfaces,"Abstract, Abstract","low-power , energy-efficient"
+10.1109/ISCAS46773.2023.10181433,A Wide-Range ISFET Readout Circuit with Low-Power Linearity Enhancement,Document Title,low-power 
+10.1109/ISCAS46773.2023.10181788,Scalable Complementary FeFET CAM Design,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS46773.2023.10181628,CSDB-eDRAM: A 16Kb Energy-Efficient 4T CSDB Gain Cell eDRAM with over 16.6s Retention Time and 49.23uW/Kb at 4.2K for Cryogenic Computing,"Document Title, Abstract, Abstract, IEEE Terms","energy-efficient, energy-efficient, energy consumption, energy consumption"
+10.1109/ISCAS46773.2023.10181657,A 400-MS/s 12-bit Voltage-Time Hybrid ADC with a Ping-Pong SAR TDC for Speed Enhancement,"Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS46773.2023.10181710,EEG Measurements with Compressed Sensing Utilizing EEG Signals as the Basis Matrix,Abstract,low-power 
+10.1109/ISCAS46773.2023.10181416,A Piezoelectric Biologically Plausible Spiking Neuron,Abstract,low-power 
+10.1109/ISCAS46773.2023.10181660,A 15.9 mW 96.5 fps Memory-Efficient 3D Reconstruction Processor with Dilation-based TSDF Fusion and Block-Projection Cache System,Document Title,memory-efficient
+10.1109/ISCAS46773.2023.10181408,Spike-Predictable Neuron Circuits with Adaptive Threshold for Low-Power SNN Systems,"Document Title, Abstract, Abstract, Author Keywords","low-power , low-power , tvm, tvm"
+10.1109/ISCAS46773.2023.10182154,An Ultralow-Power Capacitive Array-Based IR-UWB Transmitter Using Cross-Coupled Oscillator,Abstract,energy consumption
+10.1109/ISCAS46773.2023.10181808,A Low-Power Dual-Core Motion Estimation Chip Design and Validation for a Wireless Panoramic Endoscopy,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS46773.2023.10181322,Live Demonstration: A Low-Power Dual-Core Motion Estimation Chip Design and Validation for a Wireless Panoramic Endoscopy,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS46773.2023.10182017,ECG baseline wander removal using the LSRLMF-based fixed-point interference canceller,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS46773.2023.10182151,RPS-KNN: An Ultra-Fast FPGA Accelerator of Range-Projection-Structure K-Nearest-Neighbor Search for LiDAR Odometry in Smart Vehicles,Abstract,energy-efficient
+10.1109/ISCAS46773.2023.10181836,Live Demonstration: Unlocking the Potential of Two-Point Neuronal Cells for Energy-Efficient Training of Deep Networks,Document Title,energy-efficient
+10.1109/ISCAS46773.2023.10181489,A Wideband Receiver I/Q Mismatch Calibration Method in FDD Transceiver,Abstract,quantization
+10.1109/ISCAS46773.2023.10182011,An Energy-Efficient Delay Insensitive Asynchronous Interface for Globally Asynchronous Locally Synchronous (GALS) System,"Document Title, Abstract, Abstract, IEEE Terms","energy-efficient, energy-efficient, energy consumption, energy consumption"
+10.1109/ISCAS46773.2023.10181586,"26TSPC: A Low Hold Time, Low Power Flip-Flop With Clock Path Optimization","Abstract, Abstract","low-power , energy-efficient"
+10.1109/ISCAS46773.2023.10181807,"A 7 nW, 1 kHz, −40–170°C Relaxation Oscillator with Switch-Leakage Compensation for Low-Power High-Temperature IoT Systems","Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS46773.2023.10181677,"A 11-ns, 3.85-fJ, Deep Sub-threshold, Energy Efficient Level Shifter in 65-nm CMOS","Abstract, Abstract, IEEE Terms","energy-efficient, energy consumption, energy consumption"
+10.1109/ISCAS46773.2023.10181436,In-material reservoir implementation of reservoir-based convolution,"Abstract, Author Keywords","edge ai, edge ai"
+10.1109/ISCAS46773.2023.10181549,An Adaptive Event-based Data Converter for Always-on Biomedical Applications at the Edge,Abstract,low-power 
+10.1109/ISCAS46773.2023.10182039,HUXIN: In-Memory Crossbar Core for Integration of Biologically Inspired Stochastic Neuron Models,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS46773.2023.10181988,ViTA: A Vision Transformer Inference Accelerator for Edge Applications,Abstract,resource-constrained
+10.1109/ISCAS46773.2023.10181912,ANN Inference enabled by Variability Mitigation using 2T-1R Bit Cell-based Design Space Analysis,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS46773.2023.10181879,Energy-Efficient Spiking-CNN-Based Cross-Patient Seizure Detection,"Document Title, Author Keywords","energy-efficient, energy-efficient"
+10.1109/ISCAS46773.2023.10182158,An Extremely Low-voltage Floating Gate Artificial Neuron,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS46773.2023.10181739,A Digital Pre-Distortion Technique Canceling Code-and Voltage-Dependent Output Impedance Errors in Current-Steering DACs,Abstract,low-power 
+10.1109/ISCAS46773.2023.10181785,Gaussian Process for Nonlinear Regression via Memristive Crossbars,Abstract,quantization
+10.1109/ISCAS46773.2023.10181869,A 5.99 TFLOPS/W Heterogeneous CIM-NPU Architecture for an Energy Efficient Floating-Point DNN Acceleration,Abstract,energy-efficient
+10.1109/ISCAS46773.2023.10181588,Multiversion Low-Power Hardware Accelerator for the AV1 Interpolation Filters,"Document Title, Abstract, Abstract, IEEE Terms","low-power , low-power , energy consumption, energy consumption"
+10.1109/ISCAS46773.2023.10181902,A 332 TOPS/W Input/Weight-Parallel Computing-in-Memory Processor with Voltage-Capacitance-Ratio Cell and Time-Based ADC,Abstract,energy-efficient
+10.1109/ISCAS46773.2023.10181551,A 0.9 g Battery-Free Wireless Stimulator with Infrared Communication for Applications in Neural Repair and Regeneration,Abstract,low-power 
+10.1109/ISCAS46773.2023.10181572,High-Performance FPGA Implementation of Fully Connected Networks of SAM Neurons,Abstract,energy-efficient
+10.1109/ISCAS46773.2023.10181331,A Power Side-Channel Attack on Flash ADC,IEEE Terms,quantization
+10.1109/ISCAS46773.2023.10181758,Reconfigurable FET Approximate Computing-based Accelerator for Deep Learning Applications,Abstract,energy-efficient
+10.1109/ISCAS46773.2023.10181725,A Passive Noise-Shaping SAR ADC with Energy-Efficient Switching Method,"Document Title, Abstract, Abstract","energy-efficient, quantization, energy-efficient"
+10.1109/ISCAS46773.2023.10182086,Powerline Energy Harvesting with Maximum Power Point Tracking for a Wide Current Range,Abstract,mcu
+10.1109/ISCAS46773.2023.10181726,ColibriES: A Milliwatts RISC-V Based Embedded System Leveraging Neuromorphic and Neural Networks Hardware Accelerators for Low-Latency Closed-loop Control Applications,"Abstract, Abstract","edge ai, energy consumption"
+10.1109/ISCAS46773.2023.10181986,Design of Cryo-CMOS Analog Circuits using the $G_{m}/I_{D}$ Approach,Abstract,low-power 
+10.1109/ISCAS46773.2023.10181364,Design of Low-power Analog Circuits in Advanced Technology Nodes using the $G_{m}/I_{D}$ Approach,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS46773.2023.10181650,Architectures and Circuits for Analog-memory-based Hardware Accelerators for Deep Neural Networks (Invited),Abstract,energy-efficient
+10.1109/ISCAS46773.2023.10181529,Energy-/Area-Efficient Spintronic ANN-based Digit Recognition via Progressive Modular Redundancy,"Abstract, Abstract, Author Keywords, IEEE Terms","model compression, energy consumption, tinyml, energy consumption"
+10.1109/ISCAS46773.2023.10181664,Extreme Generative Human-Oriented Video Coding via Motion Representation Compression,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS46773.2023.10181867,A Versatile and Efficient Neuromorphic Platform for Compute-in-Memory with Selector-less Memristive Crossbars,Abstract,energy-efficient
+10.1109/ISCAS46773.2023.10181861,A RISC-V Neuromorphic Micro-Controller Unit (vMCU) with Event-Based Physical Interface and Computational Memory for Low-Latency Machine Perception and Intelligence at the Edge,"Abstract, Author Keywords","tinyml, tinyml"
+10.1109/ISCAS46773.2023.10181703,Low-Power Real-Time Sequential Processing with Spiking Neural Networks,"Document Title, Abstract, Abstract","low-power , low-power , energy-efficient"
+10.1109/ISCAS46773.2023.10181597,Performance Walls in Machine Learning and Neuromorphic Systems,Abstract,pruning
+10.1109/ISCAS46773.2023.10181715,MLAE2: Metareasoning for Latency-Aware Energy-Efficient Autonomous Nano-Drones,"Document Title, Abstract, Abstract","energy-efficient, energy-efficient, energy consumption"
+10.1109/ISCAS58744.2024.10558541,A Two-step Fine-tuning Assisted Layout Sizing Scheme for Analog/RF Circuits,Abstract,pruning
+10.1109/ISCAS58744.2024.10558184,Three-Phase Motor Driver with Overcurrent Protection Function,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558211,A Reduced Spiking Neural Network Architecture for Energy Efficient Context-Dependent Reinforcement Learning Tasks,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558206,Quantization-Robust On-Chip Jitter Measurement Technique for Multiple Local Oscillator Systems,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/ISCAS58744.2024.10558510,Comparison of DTC Segmentation Methods in Fractional-N Frequency Synthesizers,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS58744.2024.10557855,A Narrowband RF Front End in 22-nm FD-SOI Featuring a Programmable Low-Noise Amplifier with a Configurable Noise-Power Trade-Off,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558014,An Ultra-Low Power Time-Domain based SNN Processor for ECG Classification,Abstract,energy consumption
+10.1109/ISCAS58744.2024.10557990,SuperHCA: A Super-Resolution Accelerator with Sparsity-Aware Heterogeneous Core Architecture,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS58744.2024.10557971,A 1.41µW Motion Sensing Front-End for Passive Infrared Sensors,Abstract,duty cycling
+10.1109/ISCAS58744.2024.10558325,A Low-Power Non-Uniform Third-Derivative-Based Sampling Technique for ECG Applications,"Document Title, IEEE Terms","low-power , quantization"
+10.1109/ISCAS58744.2024.10558354,A Novel Methodology for Processor based PUF in Approximate Computing,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10558371,Live Demonstration: Man-in-the-Middle Attack on Edge Artificial Intelligence,"Abstract, Abstract, IEEE Terms","edge ai, quantization, quantization"
+10.1109/ISCAS58744.2024.10558179,"A 6-µW AC-Coupled, Two-Step Incremental ∆Σ ADC for High-Density Neural Recording","Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS58744.2024.10558413,ADHD Classification with Robust Biomarker Detection Using Knowledge Distillation,"Document Title, Abstract, Author Keywords","knowledge distillation, knowledge distillation, knowledge distillation"
+10.1109/ISCAS58744.2024.10558559,An Improved Foreground Calibration Method for Capacitor Mismatch in NS-SAR ADC,IEEE Terms,quantization
+10.1109/ISCAS58744.2024.10558593,A 10T SRAM with Two Read and Write Modes across Row and Column for CAM Operation and Computing In-Memory,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558276,A Compact Low-Power Bidirectional Two-Wire Interface for Digital Neural Probes,Document Title,low-power 
+10.1109/ISCAS58744.2024.10558088,Empirical Study on the Impact of Few-Cost Proxies,"Abstract, Abstract, Author Keywords, Author Keywords","neural architecture search, nas, neural architecture search, nas"
+10.1109/ISCAS58744.2024.10558433,A 19.7 TFLOPS/W Multiply-less Logarithmic Floating-Point CIM Architecture with Error-Reduced Compensated Approximate Adder,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10558554,LauWS: Local Adaptive Unstructured Weight Sparsity of Load Balance for DNN in Near-Data Processing,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558248,A 27.5 fJ/step SAR Capacitance-to-Digital Converter Based on Correlated Double Sampling,"Abstract, Abstract","low-power , energy-efficient"
+10.1109/ISCAS58744.2024.10557870,A Hardware Instruction Generation Mechanism for Energy-Efficient Computational Memories,"Document Title, Abstract, IEEE Terms","energy-efficient, energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558647,Energy-Efficient Ising Machines Using Capacitance-Coupled Latches for MaxCut Solving,Document Title,energy-efficient
+10.1109/ISCAS58744.2024.10558577,A Fully Integrated NB-IoT Wake-Up Receiver Utilizing An Optimized OFDM 12-Point FFT Wake-Up Engine,"Abstract, Author Keywords","low-power , low-power "
+10.1109/ISCAS58744.2024.10558692,Monolithic 3D Transposable 3T Embedded DRAM with Back-end-of-line Oxide Channel Transistor,Abstract,energy consumption
+10.1109/ISCAS58744.2024.10558214,Optoelectronic Computing Evaluation and Deployment Platform Based on a 256-MAC Silicon Photonic Chip,Abstract,energy consumption
+10.1109/ISCAS58744.2024.10558074,Hadamard Multi-Tone Signaling in Multi-Wire Pulse Amplitude Modulation for Next Generation Wireline Communication,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558636,BETA: Binarized Energy-Efficient Transformer Accelerator at the Edge,"Document Title, Abstract, Abstract, IEEE Terms","energy-efficient, energy-efficient, energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558660,An Energy Efficient Delay Element with Self-shutoff Logic and Delay Extension,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558420,Live Demonstration: A 1920×1080 129fps 4.3pJ/pixel Stereo-Matching Processor for Low-power Applications,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS58744.2024.10558177,CIMR-V: An End-to-End SRAM-based CIM Accelerator with RISC-V for AI Edge Device,"Abstract, Author Keywords","keyword spotting, pruning"
+10.1109/ISCAS58744.2024.10558641,Low-latency Buffering for Mixed-precision Neural Network Accelerator with MulTAP and FQPipe,Author Keywords,quantization
+10.1109/ISCAS58744.2024.10557913,Amalgamating Knowledge for Comprehensive Classification with Uncertainty Suppression,"Abstract, Author Keywords","knowledge distillation, knowledge distillation"
+10.1109/ISCAS58744.2024.10557948,A 91 dB SNDR Calibration-Free Fully-Passive Noise-Shaping SAR ADC with Mismatch Error Shaping,"Abstract, Abstract, IEEE Terms","low-power , energy-efficient, quantization"
+10.1109/ISCAS58744.2024.10558658,Memristor-based hardware and algorithms for higher-order Hopfield optimization solver outperforming quadratic Ising machines,IEEE Terms,energy consumption
+10.1109/ISCAS58744.2024.10558590,Power-Efficient and Small-Area Approximate Multiplier Design with FPGA-Based Compressors,"Abstract, Author Keywords","low-power , low-power "
+10.1109/ISCAS58744.2024.10558546,AFT-CIM: An Energy Efficient ADC-Free Transpose Computing-in-Memory Macro for MAC Operations,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10557950,A K-Band Eight-Element Dual-Beam Receiver With Current-Sharing-Based Low-Power Technique for LEO SATCOM in 65-nm CMOS,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS58744.2024.10558488,A Simple Zero Average Switching Energy Differential SAR ADC,Abstract,low-power 
+10.1109/ISCAS58744.2024.10557958,A Min-Max Optimization Framework for Multi-task Deep Neural Network Compression,"Abstract, Author Keywords, Author Keywords","model compression, model compression, pruning"
+10.1109/ISCAS58744.2024.10557881,Most Significant One-Driven Shifting Dynamic Efficient Multipliers for Large Language Models,"Abstract, IEEE Terms","energy-efficient, energy consumption"
+10.1109/ISCAS58744.2024.10558628,A Fast Transient PMOS LDO with AP3 Buffer and Shaped-Hybrid-Bias EA Techniques Achieving 8.15ps FOM,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558366,"3881 Gbps/W, 3005 µm AES Core with State Based Clock Gating for IoT applications",IEEE Terms,low-power 
+10.1109/ISCAS58744.2024.10558484,Live Demonstration: A Target-Separable BWN Inspired Speech Recognition Processor with Low-power Precision-adaptive Approximate Computing,"Document Title, Abstract","low-power , keyword spotting"
+10.1109/ISCAS58744.2024.10558566,Streamlining DNN Obfuscation to Defend Against Model Stealing Attacks,"Abstract, Author Keywords","tvm, tvm"
+10.1109/ISCAS58744.2024.10558516,A Reconfigurable Fused Multiply-Accumulate For Miscellaneous Operators in Deep Neural Network,Abstract,resource-constrained
+10.1109/ISCAS58744.2024.10558682,A V-Band Low-Phase-Noise VCO with Transformer-Based Gm-Boosting Technique,Abstract,low-power 
+10.1109/ISCAS58744.2024.10557863,A Low-power Δ-ΔΣ-based Bio-impedance Readout IC with Capacitive-feedback Baseline Cancellation,Document Title,low-power 
+10.1109/ISCAS58744.2024.10558307,Efficient Hardware Design of DNN for RF Signal Modulation Recognition,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS58744.2024.10558009,Noise Decomposition Based on VGG and LSTM Networks,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS58744.2024.10557974,Adaptive Informative Semantic Knowledge Transfer for Knowledge Distillation,"Document Title, Abstract, Author Keywords, Author Keywords","knowledge distillation, knowledge distillation, model compression, knowledge distillation"
+10.1109/ISCAS58744.2024.10558669,A Low-Power Lock-in Amplifier Suitable for Implementation on a Programmable System on-Chip,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS58744.2024.10558398,A Precision-Scalable Vision Accelerator for Robotic Applications,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10558171,A FPGA-based Energy-Efficient Processor for Radar-based Continuous Fall Detection,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS58744.2024.10557876,A Compact Low Power Multi-mode Spiking Neuron using Band to Band Tunneling,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10558383,On-chip Data Compression Techniques for High-Density Implantable Neural Recording,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10558392,A 0.04 mm2/Channel Neural Amplifier with An Input-Referred Noise of 4.6 µVrms and Power Consumption of 3 µW,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558468,Live Demonstration: Real-time audio and visual inference on the RAMAN TinyML accelerator,Document Title,tinyml
+10.1109/ISCAS58744.2024.10558129,CTU-Level Adaptive Quantization Method Joint with GOP based Temporal Filter for Video Coding,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/ISCAS58744.2024.10558531,Axial Attention Transformer for Fast High-quality Image Style Transfer,Abstract,inference time
+10.1109/ISCAS58744.2024.10558367,"Fractional-N Injection-Locked Ring Oscillator Based on Two Points, Varying Strength Injection",IEEE Terms,quantization
+10.1109/ISCAS58744.2024.10558351,SPAT: FPGA-based Sparsity-Optimized Spiking Neural Network Training Accelerator with Temporal Parallel Dataflow,IEEE Terms,energy consumption
+10.1109/ISCAS58744.2024.10558603,Retraining-free Constraint-aware Token Pruning for Vision Transformer on Edge Devices,"Document Title, Abstract, Author Keywords","pruning, pruning, pruning"
+10.1109/ISCAS58744.2024.10558587,Enabling Efficient Hardware Acceleration of Hybrid Vision Transformer (ViT) Networks at the Edge,Abstract,resource-constrained
+10.1109/ISCAS58744.2024.10557866,"An inductor-less, cost-effective On-chip CMOS VNA for bio-molecule detection",Abstract,low-power 
+10.1109/ISCAS58744.2024.10557862,A Low-Power Multimode Eight-Channel AFE for dToF LiDAR,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS58744.2024.10558512,A Reconfigurable Continuous-Time Delta-Sigma Modulator Structure Using Hybrid Loop Filter and Time-Interleaved Quantizer,Abstract,quantization
+10.1109/ISCAS58744.2024.10558661,On Class-Incremental Learning for Fully Binarized Convolutional Neural Networks,"Abstract, Abstract, Author Keywords","binary neural networks, bnn, binary neural networks"
+10.1109/ISCAS58744.2024.10558509,A 70dB SNDR 20MHz-BW VCO-Based CT Sturdy MASH Delta-Sigma Modulator with Robust Quantization Error Extraction,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/ISCAS58744.2024.10558697,A Self-Powered P-SSHI Active Rectifier With Energy-Efficient Adaptive Switch Control for Piezoelectric Energy Harvesting,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS58744.2024.10558342,Hardware Implementation of a 16 Channel 0.16 μJ/class Neural Tree for on-chip Seizure Detection,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10558552,A Low-Power and High-Precision Time- Domain Winner-Take-All Circuit Based on the Group Search Algorithm,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS58744.2024.10558073,"A 5.80 ns, 22.77 fJ, Energy Efficient Level Shifter Using Auto Switch Logic",Abstract,low-power 
+10.1109/ISCAS58744.2024.10558196,Coincidence Detection with an Analog Spiking Neuron Exploiting Ferroelectric Polarization,Abstract,keyword spotting
+10.1109/ISCAS58744.2024.10557934,Similarity-Aware Fast Low-Rank Decomposition Framework for Vision Transformers,Abstract,nas
+10.1109/ISCAS58744.2024.10558693,Live Demonstration: A Low-cost Wearable Continuous Monitoring Platform for Dengue,Abstract,esp32
+10.1109/ISCAS58744.2024.10557835,An In-Memory Power Efficient Computing Architecture with Emerging VGSOT MRAM Device,"Abstract, Abstract","binary neural networks, bnn"
+10.1109/ISCAS58744.2024.10558381,A Compact 140nW/input Winner-Take-All Circuit for Spiking Neural Networks,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558286,A Precision-Optimized Fixed-Point Near-Memory Digital Processing Unit for Analog In-Memory Computing,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10558589,A Reduced-Fractional-Spur DPLL Based on Cyclic Single-Delay-Pair Vernier TDC,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS58744.2024.10558548,A Mixed-Signal Compute-in-Memory Architecture for Solving All-to-All Connected MAXCUT Problems with Sub-µs Time-to-Solution,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10558470,Spiking-Hybrid-YOLO for Low-Latency Object Detection,"Abstract, Abstract","low-power , energy consumption"
+10.1109/ISCAS58744.2024.10558032,A Precise and Reliable Engine Knock Detection Utilizing Meta Classifier,Abstract,mcu
+10.1109/ISCAS58744.2024.10557839,On-Chip Adaptation for Reducing Mismatch in Analog Non-Volatile Device Based Neural Networks,Abstract,resource-constrained
+10.1109/ISCAS58744.2024.10558036,"A 0.2 pJ/bit, Energy-Efficient, Half-Rate Hybrid Circuit Topology at 6-Gb/s in 1.2V, 65 nm CMOS","Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS58744.2024.10558346,Low Quantization Error Readout Circuit with Fully Charge-Domain Calculation for Computation-in-Memory Deep Neural Network,"Document Title, Abstract, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS58744.2024.10558020,Dynamic Control of Reconfigurable Intelligent Surfaces: An IC-Based MOS Varactor Approach,Abstract,energy consumption
+10.1109/ISCAS58744.2024.10558055,SPRCPl: An Efficient Tool for SNN Models Deployment on Multi-Core Neuromorphic Chips via Pilot Running,"Abstract, Abstract","pruning, memory usage"
+10.1109/ISCAS58744.2024.10558194,A Resource-Constrained Spatio-Temporal Super Resolution Model,"Document Title, Abstract","resource-constrained, resource-constrained"
+10.1109/ISCAS58744.2024.10558176,An SRAM Compute-In-Memory Macro Based on Direct Coupling SAR ADC and DAC Reuse,Abstract,low-power 
+10.1109/ISCAS58744.2024.10557924,"A 0.96pJ/SOP, 30.23K-neuron/mm2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing","Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS58744.2024.10557942,Constrained Sorter Design using Zero-One Principle,Abstract,pruning
+10.1109/ISCAS58744.2024.10558025,Time-based Sensing with Linear Current-to-Time Conversion for Multi-level Resistive Memory,"Abstract, Abstract, IEEE Terms","low-power , energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558495,An 11-Bit 12 GS/s Beam-Forming Receiver ADC for a 2x2 Antenna Array utilizing True Time-Delay with 68 dBc SFDR and 55 dB SNDR,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558239,Mismatch calibration strategy for query-driven AER read-out in a memristor-CMOS neuromorphic chip,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558534,Realization of Reading-based Ternary Łukasiewicz Logic using Memristive Devices,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558050,Efficient Neural Compression with Inference-time Decoding,"Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS58744.2024.10558145,A Charge-Trap-Transistor-Based Fully Analog Machine Learning Inference Engine for Audio Keyword Spotting,"Document Title, Abstract, Abstract, Author Keywords","keyword spotting, low-power , keyword spotting, keyword spotting"
+10.1109/ISCAS58744.2024.10558100,BitPruning: Learning Bitlengths for Aggressive and Accurate Quantization,"Document Title, Author Keywords, IEEE Terms","quantization, quantization, quantization"
+10.1109/ISCAS58744.2024.10558001,ARC: Adaptive Rounding and Clipping Considering Gradient Distribution for Deep Convolutional Neural Network Training,"Abstract, Author Keywords, Author Keywords, IEEE Terms","quantization, low-power , quantization, quantization"
+10.1109/ISCAS58744.2024.10558622,A Biopotential Recording IC with <10-ms-Settling Hybrid DC Servo Loop,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558064,Efficient FPGA Resource Utilization in Wired-Logic Processors Using Coarse and Fine Segmentation of LUTs for Non-Linear Functions,Abstract,keyword spotting
+10.1109/ISCAS58744.2024.10558203,FPSeg: Flexible Promptable Semantic Segmentation for Edge Devices,Abstract,inference time
+10.1109/ISCAS58744.2024.10558665,Compensation Architecture to Alleviate Noise Effects in RRAM-based Computing-in-memory Chips with Residual Resource,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10558243,An Energy-Efficient Graphene-based Spiking Neural Network Architecture for Pattern Recognition,Document Title,energy-efficient
+10.1109/ISCAS58744.2024.10557905,DNA: DC Nodal Analysis Attack for Analog Circuits,Abstract,pruning
+10.1109/ISCAS58744.2024.10558491,Neural Network Acceleration Using Digit-Plane Computation with Early Termination,"Abstract, Abstract, IEEE Terms, IEEE Terms","quantization, energy consumption, quantization, energy consumption"
+10.1109/ISCAS58744.2024.10558382,A Sub-1pJ/bit Laser Power Independent 32Gb/s Silicon Photonic EAM Driver in 65nm CMOS,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10558634,High Reliable and Accurate Stochastic Computing-based Artificial Neural Network Architecture Design,Abstract,edge ai
+10.1109/ISCAS58744.2024.10558072,Dynamic Gradient Sparse Update for Edge Training,"Abstract, Author Keywords","memory usage, memory-efficient"
+10.1109/ISCAS58744.2024.10557977,NS-Engine: Near-Sensor Neural Network Engine with SRAM-Based Compute-in-Memory Macro,"Abstract, Abstract","resource-constrained, energy-efficient"
+10.1109/ISCAS58744.2024.10558141,Decoupled Multi-teacher Knowledge Distillation based on Entropy,"Document Title, Abstract, Author Keywords","knowledge distillation, knowledge distillation, knowledge distillation"
+10.1109/ISCAS58744.2024.10558117,A 4×4 MIMO Discrete Multitone Wireline Transceiver With Far-End Crosstalk Cancellation For ADC-Based High-Speed Serial Links,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10557882,A Flexible FPGA-Based Accelerator for Efficient Inference of Multi-Precision CNNs,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS58744.2024.10558029,LQR and Genetic Algorithms: An Effective Duo for Assessing Control Expenditure and Performance in Dynamic Systems,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558695,A 4-7 GHz Broadband Cryogenic GaAs mHEMT LNA with a Flatness Gain Variation of ±1.2 dB,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558058,Neuromorphic Energy Efficient Stress Detection System using Spiking Neural Network,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558596,Low-Power Encoder and Compressor Design for Approximate Radix-8 Booth Multiplier,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS58744.2024.10558637,A Novel DA-Based Parallel Architecture for Inner-Product of Variable Vectors,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558673,An Event-Driven High-Speed Imaging and Trace Detection ROIC for Cryogenic Infrared FPAs,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10558147,Data-Free Learning for Lightweight Multi-Weather Image Restoration,"Abstract, Abstract, Author Keywords","resource-constrained, model compression, knowledge distillation"
+10.1109/ISCAS58744.2024.10558599,Transposable Memory Based on the Ferroelectric Field-Effect Transistor,Author Keywords,edge ai
+10.1109/ISCAS58744.2024.10558053,A 28nm Energy-Area-Efficient Row-based pipelined Training Accelerator with Mixed FXP4/FP16 for On-Device Transfer Learning,"Abstract, Abstract, Author Keywords, IEEE Terms","resource-constrained, quantization, quantization, quantization"
+10.1109/ISCAS58744.2024.10557888,A Nanowatt Area-Efficient 16-Channel Bandpass Filterbank with Floating Active Capacitance Multiplier for Acoustic Signal Processing,"Abstract, Abstract","edge ai, energy-efficient"
+10.1109/ISCAS58744.2024.10558386,A Low-footprint FFT Accelerator for a RISC-V-based Multi-core DSP in FMCW Radars,Abstract,energy consumption
+10.1109/ISCAS58744.2024.10558308,An End-to-End SoC for Brain-Inspired CNN-SNN Hybrid Applications,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558046,Design and Analysis of an Energy-efficient Duo-Core SRAM-based Compute-in-Memory Accelerator,"Document Title, Abstract, IEEE Terms","energy-efficient, energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558041,Securing On-Chip Learning: Navigating Vulnerabilities and Potential Safeguards in Spiking Neural Network Architectures,Abstract,resource-constrained
+10.1109/ISCAS58744.2024.10557970,Walsh-domain Neural Network for Power Amplifier Behavioral Modelling and Digital Predistortion,"Abstract, Abstract","low-power , knowledge distillation"
+10.1109/ISCAS58744.2024.10557848,A 3.2-GHz 0.3/0.5 V 16-nm FinFET I/O Buffer With Low-Power PVT Compensation Circuit,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS58744.2024.10558542,Live Demonstration: Optical Communications using Solar Cells,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558209,Co-optimized training of models with synaptic delays for digital neuromorphic accelerators,Abstract,pruning
+10.1109/ISCAS58744.2024.10557840,"A 19 fJ/op, Low-Offset StrongARM Latch Comparator for Low-Power High-Speed Applications","Document Title, Abstract, Abstract, Author Keywords, IEEE Terms","low-power , low-power , energy consumption, low-power , energy consumption"
+10.1109/ISCAS58744.2024.10558432,On the Application of Data Weighted Averaging to Noise Shaping SAR ADCs,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS58744.2024.10558031,A Peak-detector-based Ultra Low Power ECG ASIC for Early Detection of Cardio-Vascular Diseases,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558689,An Energy-Efficient Object Detection System in IoT with Dynamic Neuromorphic Vision Sensors,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS58744.2024.10558442,Using Negative-R Assisted Integrators in Wide-band Delta-Sigma Modulators,"Abstract, Abstract","low-power , quantization"
+10.1109/ISCAS58744.2024.10558440,High Accuracy and Low Latency Mixed Precision Neural Network Acceleration for TinyML Applications on Resource-Constrained FPGAs,"Document Title, Document Title, Abstract, Abstract, Abstract, Abstract, Author Keywords, IEEE Terms","tinyml, resource-constrained, tinyml, resource-constrained, quantization, keyword spotting, quantization, quantization"
+10.1109/ISCAS58744.2024.10558167,ReShare: A Resource-Efficient Weight Pattern Sharing Scheme for Memristive DNN Accelerators,"Abstract, IEEE Terms","weight sharing, energy consumption"
+10.1109/ISCAS58744.2024.10558191,A Low Power 16-bit 125MS/s Pipeline ADC with 100dB SFDR,Abstract,low-power 
+10.1109/ISCAS58744.2024.10557837,HSViT: A Hardware and Software Collaborative Design for Vision Transformer via Multi-level Compression,"Abstract, Abstract, Author Keywords","resource-constrained, pruning, model compression"
+10.1109/ISCAS58744.2024.10558068,An Energy Autonomous and Battery-Free Plant’s Electrical Impedance Measurement System,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558501,A 0.5-V Feedback-based CMOS Buffer with Rail-to-rail Operating Range,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558379,A 422.1 Mpixels/J Tile-based 4K Super Resolution Processor with Variable Bit Compression,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10558257,Quantum Readout Processing Accelerator with a CORDIC Core at Cryogenic Temperature,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558586,A 72-channel Resistive-sensor Interface IC with High Energy Efficiency and a Wide Input Range,Abstract,quantization
+10.1109/ISCAS58744.2024.10558212,A Memory-Efficient High-Speed Event-based Object Tracking System,"Document Title, Abstract, Abstract, Author Keywords","memory-efficient, energy-efficient, memory usage, memory-efficient"
+10.1109/ISCAS58744.2024.10558182,In-Memory Transformer Self-Attention Mechanism Using Passive Memristor Crossbar,"Abstract, Abstract","memory-efficient, energy-efficient"
+10.1109/ISCAS58744.2024.10557917,Two-step Classification Neuron Circuits for Low-power and High-integration SNN Systems,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS58744.2024.10557984,Squeeze-Excite Fusion Based Multimodal Neural Network for Sleep Stage Classification with Flexible EEG/ECG Signal Acquisition Circuit,IEEE Terms,quantization
+10.1109/ISCAS58744.2024.10557875,Advancing Image Classification with Phase-coded Ultra-Efficient Spiking Neural Networks,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558649,A 3.55 mJ/frame Energy-efficient Mixed-Transformer based Semantic Segmentation Accelerator for Mobile Devices,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS58744.2024.10558519,Reducing Power Consumption in LNA by Utilizing EEG Signals as Basis Matrix in Compressed Sensing,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558187,A 825 MHz 2.83 µW −70 dBm Sensitivity Wake-up Receiver with Resonant Noise Matching,"Abstract, Author Keywords","low-power , low-power "
+10.1109/ISCAS58744.2024.10558690,A Low-Power Spike Detector Using In-Memory Computing for Event-based Neural Frontend,Document Title,low-power 
+10.1109/ISCAS58744.2024.10557936,Complementary Series-connected STT-MTJ for Time-based Computing-in-Memory,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS58744.2024.10557877,An Energy-Efficient Differential Frame Convolutional Accelerator with on-Chip Fusion Storage Architecture and Pixel-Level Pipeline Data Flow,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS58744.2024.10558030,Incorporating Design Skills in an Introductory Electric Circuits Laboratory,Abstract,arduino
+10.1109/ISCAS58744.2024.10558655,0.5V 32nW Inverter-Based Gm-C Filter for Bio-Signal Processing,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558111,Conditional Variational Autoencoders for Hierarchical B-frame Coding,IEEE Terms,quantization
+10.1109/ISCAS58744.2024.10557994,A 99.8-dB SNDR 10kHz-BW Second-Order DT Delta-Sigma Modulator with Single OTA and Enhanced Noise-Coupling,Abstract,low-power 
+10.1109/ISCAS58744.2024.10557983,CINEMA: A Configurable Binary Segmentation Based Arithmetic Module for Mixed-Precision In-Memory Acceleration,"Abstract, Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms","edge ai, model compression, quantization, edge ai, quantization, quantization"
+10.1109/ISCAS58744.2024.10558319,An Edge AI Accelerator Design Based on HDC Model for Real-time EEG-based Emotion Recognition System with RISC-V FPGA Platform,"Document Title, Abstract, Abstract","edge ai, edge ai, resource-constrained"
+10.1109/ISCAS58744.2024.10558550,High-Speed Serial and Semi-Parallel IMPLY-based Approximate Adders through Memristors for In-Memory Computing,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558139,"Live Demonstration: A Reconfigurable, Energy-efficient and High-frame-rate EKF-SLAM Accelerator Based SoC Design for Autonomous Mobile Robot Applications",Document Title,energy-efficient
+10.1109/ISCAS58744.2024.10558052,A 10-bit 100kS/s SAR ADC With a Monotonic Capacitor Switching Procedure for Single-Ended Inputs in 22nm CMOS FDSOI,Author Keywords,low-power 
+10.1109/ISCAS58744.2024.10558229,A Novel Hardware-Efficient Wireless Functional Electrical Stimulation Device Based on Nonlinear Dynamics of Ergodic Cellular Automaton,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558262,Minimax Design of M-D Interpolated FIR Filters using Convex-Concave Procedure,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS58744.2024.10558426,High-Precision Noise-Shaping SAR ADC using KT/C Noise Cancellation within CIFF Path for Brain-Machine Interface Application,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS58744.2024.10558683,Negative Capacitance FET 8T SRAM Computing in-Memory based Logic Design for Energy Efficient AI Edge Devices,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558412,Live Demonstration for Input-Sparsity-Aware RRAM Processing-in-Memory Chip,"Abstract, Author Keywords","quantization, quantization"
+10.1109/ISCAS58744.2024.10558238,An Optimization-Based Approach to One-Bit Quantization,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/ISCAS58744.2024.10558687,3D Partitioning with Pipeline Optimization for Low-Latency Memory Access in Many-Core SoCs,Abstract,latency optimization
+10.1109/ISCAS58744.2024.10558631,Energy Efficient FPGA-Based Binary Transformer Accelerator for Edge Devices,"Abstract, IEEE Terms","resource-constrained, energy consumption"
+10.1109/ISCAS58744.2024.10558406,Energy Efficient Accurate and Approximate Modified Adders for Ternary Multipliers,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10558174,Live Demonstration: Real-Time Object Detection & Classification System in IoT with Dynamic Neuromorphic Vision Sensors,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10558474,tinyRadar: LSTM-based Real-time Multi-target Human Activity Recognition for Edge Computing,"Abstract, Author Keywords","raspberry pi, raspberry pi"
+10.1109/ISCAS58744.2024.10558698,Design of High-Performance and Compact CAM for Supporting Data-Intensive Applications,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558469,Fortifying Strong PUFs: A Modeling Attack-Resilient Approach Using Weak PUF for IoT Device Security,Abstract,resource-constrained
+10.1109/ISCAS58744.2024.10558168,PVT-Insensitive Time-Domain-based In-Memory Computation with Improved Linearity for Binary Neural Networks,"Document Title, Abstract","binary neural networks, bnn"
+10.1109/ISCAS58744.2024.10557852,In-memory Machine Learning using Adaptive Multivariate Decision Trees and Memristors,"Abstract, Author Keywords","energy-efficient, energy-efficient"
+10.1109/ISCAS58744.2024.10558062,PULSE: Parametric Hardware Units for Low-power Sparsity-Aware Convolution Engine,"Document Title, Abstract","low-power , energy consumption"
+10.1109/ISCAS58744.2024.10558640,Hybrid-Grained Pruning and Hardware Acceleration for Convolutional Neural Networks,"Document Title, Abstract, Abstract, Author Keywords","pruning, model compression, pruning, pruning"
+10.1109/ISCAS58744.2024.10558472,A routing method using chaotic neurodynamics for the transportation networks with the next generation vehicles,Abstract,energy consumption
+10.1109/ISCAS58744.2024.10558235,A 174.8 dB FoMs CT-ΔΣ ADC with Integrated ISFET Sensor and Noise-Shaping Enhancement,"Abstract, IEEE Terms","quantization, quantization"
+10.1109/ISCAS58744.2024.10558026,A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision,"Abstract, Author Keywords","energy-efficient, energy-efficient"
+10.1109/ISCAS58744.2024.10558607,KARS: Kernel-Grouping Aided Row-Skipping for SDK-based Weight Compression in PIM Arrays,"Abstract, Abstract, IEEE Terms","energy-efficient, energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558617,On Optimizing Deep Neural Networks Inference on CPUs for Brain-Computer Interfaces using Inference Engines,Abstract,tvm
+10.1109/ISCAS58744.2024.10557982,A Low-Power Predictive Sampling PPG Sensor,Document Title,low-power 
+10.1109/ISCAS58744.2024.10558453,Non-Invasive Continuous Real-Time Blood Glucose Estimation Using PPG Features-based Convolutional Autoencoder with TinyML Implementation,"Document Title, Abstract, Abstract, Author Keywords, Author Keywords","tinyml, tinyml, arduino, tinyml, mcu"
+10.1109/ISCAS58744.2024.10557856,A 136μW Over 800m Range Backscatter-Like UHF Band Transceiver,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558556,A 36nW Ultra-Wideband Wake-Up Receiver with -86dBm Sensitivity and Addressing Capabilities,Abstract,duty cycling
+10.1109/ISCAS58744.2024.10557997,An FPGA-based Ultra-High Performance and Scalable Optical Flow Hardware Accelerator for Autonomous Driving,Abstract,real-time performance
+10.1109/ISCAS58744.2024.10557918,EarFDA: A Lightweight and Energy-Efficient Fall Detection Accelerator for Ear-Worn Devices,"Document Title, Abstract, Abstract, Abstract, Author Keywords, Author Keywords, IEEE Terms","energy-efficient, quantization, energy-efficient, energy consumption, edge ai, energy-efficient, quantization"
+10.1109/ISCAS58744.2024.10558301,Two-Step Spike Encoding Scheme and Architecture for Highly Sparse Spiking-Neural-Network,Abstract,energy-efficient
+10.1109/ISCAS58744.2024.10557838,An Energy-Efficient Configurable Coprocessor Based on 1-D CNN for ECG Anomaly Detection,Document Title,energy-efficient
+10.1109/ISCAS58744.2024.10558271,MAC-DO: DRAM-Based Multi-Bit Analog Accelerator Using Output Stationary,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558161,Live Demonstration: A High-frame-rate and Energy-efficient SIFT Feature Extraction Accelerator Based SoC Design for AMR Applications,"Document Title, Abstract","energy-efficient, energy-efficient"
+10.1109/ISCAS58744.2024.10558200,A Near-Eye DVS-Based End-to-End Eye Tracking Processor for AR/VR Applications,"Abstract, Abstract","low-power , energy-efficient"
+10.1109/ISCAS58744.2024.10558318,A High-Performance ORB Accelerator with Algorithm and Hardware Co-design for Visual Localization,Abstract,real-time performance
+10.1109/ISCAS58744.2024.10558265,"A Low-Noise, Low-Power Neural Signal Amplifier for Deep Brain Stimulation System Chips Tolerating 3V Stimulation",Document Title,low-power 
+10.1109/ISCAS58744.2024.10558613,VQNeRV: Vector Quantization Neural Representation for Video Compression,"Document Title, Abstract, Author Keywords, IEEE Terms","quantization, quantization, quantization, quantization"
+10.1109/ISCAS58744.2024.10558565,A 0.5 μm2 2-T Thin-Oxide OTP Antifuse with Reliability Enhanced by Auto Shut-off Program Logic for Low-Power Applications,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS58744.2024.10558125,An Ultra-Low Power Wearable Sensing System with a Highly Sensitive Three-Dimensional LIG Sensor and Energy-Efficient Time Domain Readout,"Document Title, Abstract, IEEE Terms","energy-efficient, low-power , low-power "
+10.1109/ISCAS58744.2024.10558326,A Compact and Low-Power Column Readout Circuit based on Digital Delay Chain,Document Title,low-power 
+10.1109/ISCAS58744.2024.10558045,Optimized Transformer Models: ℓ′ BERT with CNN-like Pruning and Quantization,"Document Title, Document Title, Abstract, Abstract, Abstract, Author Keywords, Author Keywords, Author Keywords, IEEE Terms","quantization, pruning, resource-constrained, quantization, pruning, model compression, quantization, pruning, quantization"
+10.1109/ISCAS58744.2024.10557853,A Hyperdimensional Computing Architecture with 4.4x Energy Efficiency in 65nm CMOS,"Abstract, Abstract, IEEE Terms","energy-efficient, energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558394,Low-Power Collision Avoidance Memristive Circuit for Swarms of Miniature Robots,"Document Title, Abstract","low-power , low-power "
+10.1109/ISCAS58744.2024.10558112,Variability Tolerance Analysis of Memristive Wave Cellular Automata,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558463,TSCM: A TCAM-Based Sparse Connection Memory Architecture in Neuromorphic Computing System for Cortical Simulation,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/ISCAS58744.2024.10558244,A Low-Power Single-Phase Split-Controlled Flip-Flop With No Redundant Switching,"Document Title, Abstract, IEEE Terms","low-power , low-power , low-power "
+10.1109/ISCAS58744.2024.10558258,A Low-Power Level-Crossing Analog-to-Spike Converter Intended for Neuromorphic Biomedical Applications,"Document Title, Abstract, Abstract, Abstract","low-power , low-power , energy-efficient, energy consumption"
+10.1109/ISCAS58744.2024.10558368,AnSpiCS-Net: Reconfigurable Network-on-Chip for Analog Spiking Recurrent Neural Networks,Abstract,low-power 
+10.1109/ISCAS58744.2024.10558067,HXNOR-PBNN: A Scalable and Parallel Spintronics Synaptic Architecture for Probabilistic Binary Neural Networks,"Document Title, Abstract, Abstract","binary neural networks, low-power , binary neural networks"
+10.1109/ISCAS58744.2024.10558450,Generated Compressed Domain Images to the Rescue: Cross Distillation from Compressed Domain to Pixel Domain,"Abstract, Author Keywords","knowledge distillation, knowledge distillation"
+10.1109/PerCom45495.2020.9127353,Artifact Abstract: Deployment of APIs on Android Mobile Devices and Microcontrollers,Abstract,esp32
+10.1109/PerCom45495.2020.9127385,ERAIA - Enabling Intelligence Data Pipelines for IoT-based Application Systems,Author Keywords,industrial iot
+10.1109/PerCom45495.2020.9127376,Human Activity Recognition with Deep Reinforcement Learning using the Camera of a Mobile Robot,"Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/PERCOM50583.2021.9439117,Embracing Self-Powered Wireless Wearables for Smart Healthcare,Abstract,low-power 
+10.1109/PERCOM50583.2021.9439128,SolAR: Energy Positive Human Activity Recognition using Solar Cells,Abstract,low-power 
+10.1109/PERCOM50583.2021.9439121,Voltaire: Precise Energy-Aware Code Offloading Decisions with Machine Learning,"Abstract, Abstract, IEEE Terms","resource-constrained, energy consumption, energy consumption"
+10.1109/PERCOM50583.2021.9439111,Masa: Responsive Multi-DNN Inference on the Edge,"Abstract, Abstract","raspberry pi, memory usage"
+10.1109/PERCOM50583.2021.9439110,Keynote: Monitoring People and their Vital Signs Using Radio Signals and Machine Learning,Abstract,low-power 
+10.1109/PerCom53586.2022.9762398,MRIM: Enabling Mixed-Resolution Imaging for Low-Power Pervasive Vision Tasks,"Document Title, Abstract, Author Keywords","low-power , raspberry pi, energy consumption"
+10.1109/PerCom53586.2022.9762400,Weight Separation for Memory-Efficient and Accurate Deep Multitask Learning,"Document Title, Abstract, Abstract, Abstract, Author Keywords","memory-efficient, microcontroller-based, memory-efficient, memory usage, on-device ai"
+10.1109/PerCom53586.2022.9762402,HVAC Power Conservation through Reverse Auctions and Machine Learning,"Abstract, IEEE Terms","smart meters, smart meters"
+10.1109/PERCOM56429.2023.10099205,Highly Responsive Batteryless System for Indoor Light Energy Harvesting Environments,Abstract,energy-efficient
+10.1109/PERCOM56429.2023.10099216,Ortho-CodeA: Orthogonal Codes Assisted Backscatter Multiple Access,Abstract,low-power 
+10.1109/PERCOM56429.2023.10099178,Panel: Sustainability in Computing,Abstract,energy consumption
+10.1109/PerCom59722.2024.10494467,UR2M: Uncertainty and Resource-Aware Event Detection on Microcontrollers,Abstract,mcu
+10.1109/PerCom59722.2024.10494430,Co-zyBench: Using Co-Simulation and Digital Twins to Benchmark Thermal Comfort Provision in Smart Buildings,"Abstract, Author Keywords, IEEE Terms","energy consumption, energy consumption, energy consumption"
+10.1109/PerCom59722.2024.10494460,Adopting User-Space Networking for DDS Message-Oriented Middleware,Abstract,industrial iot
+10.1109/PerCom59722.2024.10494426,"Furcifer: a Context Adaptive Middleware for Real-world Object Detection Exploiting Local, Edge, and Split Computing in the Cloud Continuum","Abstract, IEEE Terms","energy consumption, energy consumption"
+10.1109/PerCom59722.2024.10494422,DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers,"Abstract, Author Keywords","microcontrollers , embedded machine learning"
+10.1109/PerCom59722.2024.10494442,Stitching Satellites to the Edge: Pervasive and Efficient Federated LEO Satellite Learning,"Abstract, Abstract, IEEE Terms","energy-efficient, energy consumption, energy consumption"
+10.1109/PerCom59722.2024.10494466,Is Your Kettle Smarter Than a Hacker? A Scalable Tool for Assessing Replay Attack Vulnerabilities on Consumer IoT Devices,Abstract,not available
+10.1109/PerCom59722.2024.10494427,"PA2BLO: Low-Power, Personalized Audio Badge",Abstract,low-power 

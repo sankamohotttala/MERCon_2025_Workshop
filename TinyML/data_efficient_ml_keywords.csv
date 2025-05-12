@@ -1,0 +1,38 @@
+Category,Keyword_,Keyword
+Core Concepts,Data-efficient ML,data-efficient ml
+Core Concepts,Few-shot learning,few-shot learning
+Core Concepts,Low-resource learning,low-resource learning
+Core Concepts,Learning with limited labels,learning with limited labels
+Core Concepts,Sample-efficient learning,sample-efficient learning
+Core Concepts,Small data deep learning,small data deep learning
+Learning Paradigms,Semi-supervised learning,semi-supervised learning
+Learning Paradigms,Self-supervised learning,self-supervised learning
+Learning Paradigms,Few-shot learning,few-shot learning
+Learning Paradigms,Zero-shot learning,zero-shot learning
+Learning Paradigms,One-shot learning,one-shot learning
+Learning Paradigms,Active learning,active learning
+Learning Paradigms,Meta-learning,meta-learning
+Learning Paradigms,Curriculum learning,curriculum learning
+Learning Paradigms,Transfer learning,transfer learning
+Learning Paradigms,Contrastive learning,contrastive learning
+Architectures & Techniques,Data augmentation,data augmentation
+Architectures & Techniques,Knowledge distillation,knowledge distillation
+Architectures & Techniques,Pretrained models,pretrained models
+Architectures & Techniques,Lightweight transformers,lightweight transformers
+Architectures & Techniques,Prototype networks,prototype networks
+Architectures & Techniques,Feature reuse,feature reuse
+Architectures & Techniques,Pseudo-labeling,pseudo-labeling
+Architectures & Techniques,Manifold mixup,manifold mixup
+Architectures & Techniques,Generative modeling,generative modeling
+Optimization & Regularization,Regularization,regularization
+Optimization & Regularization,Early stopping,early stopping
+Optimization & Regularization,Dropout,dropout
+Optimization & Regularization,Label smoothing,label smoothing
+Optimization & Regularization,Entropy minimization,entropy minimization
+Optimization & Regularization,Consistency regularization,consistency regularization
+Optimization & Regularization,Data reweighting,data reweighting
+Evaluation Metrics,Label efficiency,label efficiency
+Evaluation Metrics,Generalization gap,generalization gap
+Evaluation Metrics,Learning curve,learning curve
+Evaluation Metrics,Few-shot accuracy,few-shot accuracy
+Evaluation Metrics,Transferability index,transferability index
