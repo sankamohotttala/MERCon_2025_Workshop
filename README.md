@@ -2,7 +2,7 @@
 
 This repository contains structured metadata and scripts used to analyze the presence and trends of TinyML and Edge AI related research in local and international IEEE conferences. It supports the development of a workshop proposal titled:
 
-"**TinyML in Action: From Theory to Deployment**"  
+"**TinyML: A Compact Revolution in Engineering AI**"  
 For MERCon 2025
 
 ## Repository Structure
